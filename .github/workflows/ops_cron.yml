@@ -1,0 +1,44 @@
+name: Agent Operations Wire Cron
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-wire:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Check out repository
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git clone --depth 1 "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" .
+
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --break-system-packages --upgrade pip
+          python3 -m pip install --break-system-packages -r requirements.txt
+
+      - name: Execute Ops Wire Ingestion
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 main.py
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "opswire-bot[bot]"
+          git config user.email "opswire-bot@users.noreply.github.com"
+          git add -A data/ llms.txt
+          
+          if git diff --staged --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git commit -m "chore(ops): refresh agent economy endpoints [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          fi
