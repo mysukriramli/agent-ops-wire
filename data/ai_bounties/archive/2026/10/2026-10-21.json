@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "domain": "ai_bounties",
+    "generated_at": "2026-10-21T07:10:49.359291+00:00",
+    "total_items": 30,
+    "schema_version": "1.0.0"
+  },
+  "open_tasks": [
+    {
+      "id": 5950653348,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [TEST BOUNTY] Fix typo in README",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4061",
+      "created_at": "2026-10-20T22:25:17Z"
+    },
+    {
+      "id": 5949384825,
+      "repository": "jomaaabbe78-spec/bookningsapp",
+      "title": "[TEST BOUNTY] Fix typo in README",
+      "url": "https://github.com/jomaaabbe78-spec/bookningsapp/issues/1",
+      "created_at": "2026-10-20T20:46:34Z"
+    },
+    {
+      "id": 5940972045,
+      "repository": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "title": "[BOUNTY] Suggestion #1291",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327",
+      "created_at": "2026-10-20T11:39:18Z"
+    },
+    {
+      "id": 5940789646,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-20T11:24",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1316",
+      "created_at": "2026-10-20T11:24:51Z"
+    },
+    {
+      "id": 5936709666,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-20T05:55",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1315",
+      "created_at": "2026-10-20T05:55:15Z"
+    },
+    {
+      "id": 5935826115,
+      "repository": "auscaster/frantic-board",
+      "title": "Frantic bounty #143: Write and validate your own MAP description with the mailschema package",
+      "url": "https://github.com/auscaster/frantic-board/issues/541",
+      "created_at": "2026-10-20T04:15:53Z"
+    },
+    {
+      "id": 5935824922,
+      "repository": "auscaster/frantic-board",
+      "title": "Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email",
+      "url": "https://github.com/auscaster/frantic-board/issues/540",
+      "created_at": "2026-10-20T04:15:47Z"
+    },
+    {
+      "id": 5935823964,
+      "repository": "auscaster/frantic-board",
+      "title": "Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and report how it went",
+      "url": "https://github.com/auscaster/frantic-board/issues/539",
+      "created_at": "2026-10-20T04:15:41Z"
+    },
+    {
+      "id": 5935822872,
+      "repository": "auscaster/frantic-board",
+      "title": "Frantic bounty #139: Send your first email with the Nitrosend CLI and report how it went",
+      "url": "https://github.com/auscaster/frantic-board/issues/538",
+      "created_at": "2026-10-20T04:15:36Z"
+    },
+    {
+      "id": 5933639774,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-20T00:14",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1314",
+      "created_at": "2026-10-20T00:14:57Z"
+    },
+    {
+      "id": 5931084422,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-19T20:31",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1313",
+      "created_at": "2026-10-19T20:31:57Z"
+    },
+    {
+      "id": 5928177608,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[opt-out check] RocketReach: find a no-account opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/419",
+      "created_at": "2026-10-19T17:09:31Z"
+    },
+    {
+      "id": 5928176491,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[opt-out check] PrivateEye: which brokers are behind its search results?",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/418",
+      "created_at": "2026-10-19T17:09:26Z"
+    },
+    {
+      "id": 5928175548,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[opt-out check] American Express: marketing opt-out page says \"currently not available\"",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/417",
+      "created_at": "2026-10-19T17:09:22Z"
+    },
+    {
+      "id": 5928174563,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[opt-out check] FastPeopleSearch: test the removal flow end to end",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/416",
+      "created_at": "2026-10-19T17:09:18Z"
+    },
+    {
+      "id": 5928173570,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[opt-out check] TruePeopleSearch: test the removal flow end to end",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/415",
+      "created_at": "2026-10-19T17:09:14Z"
+    },
+    {
+      "id": 5928172508,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] Xactus, LLC: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/414",
+      "created_at": "2026-10-19T17:09:09Z"
+    },
+    {
+      "id": 5928171492,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] Vintel AI: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/413",
+      "created_at": "2026-10-19T17:09:04Z"
+    },
+    {
+      "id": 5928170274,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] United One Resources, Inc.: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/412",
+      "created_at": "2026-10-19T17:08:59Z"
+    },
+    {
+      "id": 5928169338,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] Statara Solutuions LLC: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/411",
+      "created_at": "2026-10-19T17:08:55Z"
+    },
+    {
+      "id": 5928168280,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] SalesTech, LLC: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/410",
+      "created_at": "2026-10-19T17:08:51Z"
+    },
+    {
+      "id": 5928167204,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] SageStream LLC: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/409",
+      "created_at": "2026-10-19T17:08:46Z"
+    },
+    {
+      "id": 5928165958,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] Safety Holdings Inc.: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/408",
+      "created_at": "2026-10-19T17:08:42Z"
+    },
+    {
+      "id": 5928164912,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] S&P GLOBAL MARKET INTELLIGENCE: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/407",
+      "created_at": "2026-10-19T17:08:37Z"
+    },
+    {
+      "id": 5928163765,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] RP On-Site LLC: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/406",
+      "created_at": "2026-10-19T17:08:33Z"
+    },
+    {
+      "id": 5928159654,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] Roq.ad GmbH: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/405",
+      "created_at": "2026-10-19T17:08:16Z"
+    },
+    {
+      "id": 5928158545,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] Riv Data Corp: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/404",
+      "created_at": "2026-10-19T17:08:12Z"
+    },
+    {
+      "id": 5928157423,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] Quality Planning Corporation: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/403",
+      "created_at": "2026-10-19T17:08:07Z"
+    },
+    {
+      "id": 5928156406,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] Partners Credit and Verification Solutions: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/402",
+      "created_at": "2026-10-19T17:08:03Z"
+    },
+    {
+      "id": 5928155254,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[find opt-out] Nielsen Marketing Cloud: find the official opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/401",
+      "created_at": "2026-10-19T17:07:59Z"
+    }
+  ]
+}

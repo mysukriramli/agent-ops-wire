@@ -1,0 +1,10 @@
+# Top Domain Anti-Bot & Scraper Intelligence
+## AI Crawler Policies (robots.txt)
+
+- **reddit.com**: Permissive/Unknown (Flags: None)
+- **nytimes.com**: Restricts AI Crawlers (Flags: gptbot, claudebot, anthropic, ccbot, applebot-extended, omgilibot)
+- **wikipedia.org**: Permissive/Unknown (Flags: None)
+- **github.com**: Restricts AI Crawlers (Flags: gptbot, claudebot, anthropic)
+- **stackoverflow.com**: Permissive/Unknown (Flags: None)
+- **news.ycombinator.com**: Permissive/Unknown (Flags: None)
+- **medium.com**: Restricts AI Crawlers (Flags: gptbot, claudebot, applebot-extended)
