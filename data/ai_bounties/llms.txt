@@ -22,7 +22,6 @@
 - **SPLURT-Station/S.P.L.U.R.T-tg**: [[BOUNTY] Suggestion #1291](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327) (Opened: 2026-10-20T11:39:18Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-20T11:24](https://github.com/relayhop/sn-monetization-runtime/issues/1316) (Opened: 2026-10-20T11:24:51Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-20T05:55](https://github.com/relayhop/sn-monetization-runtime/issues/1315) (Opened: 2026-10-20T05:55:15Z)
-- **auscaster/frantic-board**: [Frantic bounty #143: Write and validate your own MAP description with the mailschema package](https://github.com/auscaster/frantic-board/issues/541) (Opened: 2026-10-20T04:15:53Z)
 - **auscaster/frantic-board**: [Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email](https://github.com/auscaster/frantic-board/issues/540) (Opened: 2026-10-20T04:15:47Z)
 - **auscaster/frantic-board**: [Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and report how it went](https://github.com/auscaster/frantic-board/issues/539) (Opened: 2026-10-20T04:15:41Z)
 - **auscaster/frantic-board**: [Frantic bounty #139: Send your first email with the Nitrosend CLI and report how it went](https://github.com/auscaster/frantic-board/issues/538) (Opened: 2026-10-20T04:15:36Z)
@@ -31,3 +30,4 @@
 - **lizTheDeveloper/privacy-the-game**: [[opt-out check] RocketReach: find a no-account opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/419) (Opened: 2026-10-19T17:09:31Z)
 - **lizTheDeveloper/privacy-the-game**: [[opt-out check] PrivateEye: which brokers are behind its search results?](https://github.com/lizTheDeveloper/privacy-the-game/issues/418) (Opened: 2026-10-19T17:09:26Z)
 - **lizTheDeveloper/privacy-the-game**: [[opt-out check] American Express: marketing opt-out page says "currently not available"](https://github.com/lizTheDeveloper/privacy-the-game/issues/417) (Opened: 2026-10-19T17:09:22Z)
+- **lizTheDeveloper/privacy-the-game**: [[opt-out check] FastPeopleSearch: test the removal flow end to end](https://github.com/lizTheDeveloper/privacy-the-game/issues/416) (Opened: 2026-10-19T17:09:18Z)

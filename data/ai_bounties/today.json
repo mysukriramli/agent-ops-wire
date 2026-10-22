@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-21T21:21:32.807423+00:00",
+    "generated_at": "2026-10-22T03:40:23.083818+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
@@ -154,13 +154,6 @@
       "created_at": "2026-10-20T05:55:15Z"
     },
     {
-      "id": 5935826115,
-      "repository": "auscaster/frantic-board",
-      "title": "Frantic bounty #143: Write and validate your own MAP description with the mailschema package",
-      "url": "https://github.com/auscaster/frantic-board/issues/541",
-      "created_at": "2026-10-20T04:15:53Z"
-    },
-    {
       "id": 5935824922,
       "repository": "auscaster/frantic-board",
       "title": "Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email",
@@ -215,6 +208,13 @@
       "title": "[opt-out check] American Express: marketing opt-out page says \"currently not available\"",
       "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/417",
       "created_at": "2026-10-19T17:09:22Z"
+    },
+    {
+      "id": 5928174563,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[opt-out check] FastPeopleSearch: test the removal flow end to end",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/416",
+      "created_at": "2026-10-19T17:09:18Z"
     }
   ]
 }

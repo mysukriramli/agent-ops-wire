@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "domain": "ai_bounties",
+    "generated_at": "2026-10-22T03:40:23.083818+00:00",
+    "total_items": 30,
+    "schema_version": "1.0.0"
+  },
+  "open_tasks": [
+    {
+      "id": 5964033913,
+      "repository": "amiller/bounty-arcade",
+      "title": "[routes] Time, moving time and speed",
+      "url": "https://github.com/amiller/bounty-arcade/issues/12",
+      "created_at": "2026-10-21T16:02:21Z"
+    },
+    {
+      "id": 5964033652,
+      "repository": "amiller/bounty-arcade",
+      "title": "[routes] Gain/loss threshold",
+      "url": "https://github.com/amiller/bounty-arcade/issues/11",
+      "created_at": "2026-10-21T16:02:20Z"
+    },
+    {
+      "id": 5964033324,
+      "repository": "amiller/bounty-arcade",
+      "title": "[routes] Segments and gaps",
+      "url": "https://github.com/amiller/bounty-arcade/issues/10",
+      "created_at": "2026-10-21T16:02:19Z"
+    },
+    {
+      "id": 5964032940,
+      "repository": "amiller/bounty-arcade",
+      "title": "[puzzle] Shareable replay links",
+      "url": "https://github.com/amiller/bounty-arcade/issues/9",
+      "created_at": "2026-10-21T16:02:17Z"
+    },
+    {
+      "id": 5964032610,
+      "repository": "amiller/bounty-arcade",
+      "title": "[puzzle] Persist progress and best scores per level",
+      "url": "https://github.com/amiller/bounty-arcade/issues/8",
+      "created_at": "2026-10-21T16:02:16Z"
+    },
+    {
+      "id": 5964032238,
+      "repository": "amiller/bounty-arcade",
+      "title": "[puzzle] Deadlock detection for boxes stuck in corners",
+      "url": "https://github.com/amiller/bounty-arcade/issues/7",
+      "created_at": "2026-10-21T16:02:14Z"
+    },
+    {
+      "id": 5964031836,
+      "repository": "amiller/bounty-arcade",
+      "title": "[flight] Seeded wind",
+      "url": "https://github.com/amiller/bounty-arcade/issues/6",
+      "created_at": "2026-10-21T16:02:13Z"
+    },
+    {
+      "id": 5964031444,
+      "repository": "amiller/bounty-arcade",
+      "title": "[flight] Run recording and replay",
+      "url": "https://github.com/amiller/bounty-arcade/issues/5",
+      "created_at": "2026-10-21T16:02:11Z"
+    },
+    {
+      "id": 5964031073,
+      "repository": "amiller/bounty-arcade",
+      "title": "[flight] Fuel",
+      "url": "https://github.com/amiller/bounty-arcade/issues/4",
+      "created_at": "2026-10-21T16:02:10Z"
+    },
+    {
+      "id": 5964030658,
+      "repository": "amiller/bounty-arcade",
+      "title": "[board] Work-in-progress limit on Doing",
+      "url": "https://github.com/amiller/bounty-arcade/issues/3",
+      "created_at": "2026-10-21T16:02:08Z"
+    },
+    {
+      "id": 5964030319,
+      "repository": "amiller/bounty-arcade",
+      "title": "[board] Undo and redo",
+      "url": "https://github.com/amiller/bounty-arcade/issues/2",
+      "created_at": "2026-10-21T16:02:07Z"
+    },
+    {
+      "id": 5964030032,
+      "repository": "amiller/bounty-arcade",
+      "title": "[board] Search cards",
+      "url": "https://github.com/amiller/bounty-arcade/issues/1",
+      "created_at": "2026-10-21T16:02:06Z"
+    },
+    {
+      "id": 5960325593,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3624",
+      "created_at": "2026-10-21T12:18:23Z"
+    },
+    {
+      "id": 5960325136,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3623",
+      "created_at": "2026-10-21T12:18:22Z"
+    },
+    {
+      "id": 5960324734,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3622",
+      "created_at": "2026-10-21T12:18:20Z"
+    },
+    {
+      "id": 5958548749,
+      "repository": "dsect-net/quantum",
+      "title": "Bounty Board rewire to Quantum AI App + Tracker",
+      "url": "https://github.com/dsect-net/quantum/issues/288",
+      "created_at": "2026-10-21T10:12:07Z"
+    },
+    {
+      "id": 5950653348,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [TEST BOUNTY] Fix typo in README",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4061",
+      "created_at": "2026-10-20T22:25:17Z"
+    },
+    {
+      "id": 5949384825,
+      "repository": "jomaaabbe78-spec/bookningsapp",
+      "title": "[TEST BOUNTY] Fix typo in README",
+      "url": "https://github.com/jomaaabbe78-spec/bookningsapp/issues/1",
+      "created_at": "2026-10-20T20:46:34Z"
+    },
+    {
+      "id": 5940972045,
+      "repository": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "title": "[BOUNTY] Suggestion #1291",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327",
+      "created_at": "2026-10-20T11:39:18Z"
+    },
+    {
+      "id": 5940789646,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-20T11:24",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1316",
+      "created_at": "2026-10-20T11:24:51Z"
+    },
+    {
+      "id": 5936709666,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-20T05:55",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1315",
+      "created_at": "2026-10-20T05:55:15Z"
+    },
+    {
+      "id": 5935824922,
+      "repository": "auscaster/frantic-board",
+      "title": "Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email",
+      "url": "https://github.com/auscaster/frantic-board/issues/540",
+      "created_at": "2026-10-20T04:15:47Z"
+    },
+    {
+      "id": 5935823964,
+      "repository": "auscaster/frantic-board",
+      "title": "Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and report how it went",
+      "url": "https://github.com/auscaster/frantic-board/issues/539",
+      "created_at": "2026-10-20T04:15:41Z"
+    },
+    {
+      "id": 5935822872,
+      "repository": "auscaster/frantic-board",
+      "title": "Frantic bounty #139: Send your first email with the Nitrosend CLI and report how it went",
+      "url": "https://github.com/auscaster/frantic-board/issues/538",
+      "created_at": "2026-10-20T04:15:36Z"
+    },
+    {
+      "id": 5933639774,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-20T00:14",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1314",
+      "created_at": "2026-10-20T00:14:57Z"
+    },
+    {
+      "id": 5931084422,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-19T20:31",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1313",
+      "created_at": "2026-10-19T20:31:57Z"
+    },
+    {
+      "id": 5928177608,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[opt-out check] RocketReach: find a no-account opt-out route",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/419",
+      "created_at": "2026-10-19T17:09:31Z"
+    },
+    {
+      "id": 5928176491,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[opt-out check] PrivateEye: which brokers are behind its search results?",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/418",
+      "created_at": "2026-10-19T17:09:26Z"
+    },
+    {
+      "id": 5928175548,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[opt-out check] American Express: marketing opt-out page says \"currently not available\"",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/417",
+      "created_at": "2026-10-19T17:09:22Z"
+    },
+    {
+      "id": 5928174563,
+      "repository": "lizTheDeveloper/privacy-the-game",
+      "title": "[opt-out check] FastPeopleSearch: test the removal flow end to end",
+      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/416",
+      "created_at": "2026-10-19T17:09:18Z"
+    }
+  ]
+}
