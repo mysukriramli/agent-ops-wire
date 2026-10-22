@@ -1,11 +1,32 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-22T16:46:36.682321+00:00",
+    "generated_at": "2026-10-22T21:16:49.030363+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 5986552924,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udccb 2 open bounties right now",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080",
+      "created_at": "2026-10-22T20:02:23Z"
+    },
+    {
+      "id": 5985824260,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-22T19:11",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1326",
+      "created_at": "2026-10-22T19:11:38Z"
+    },
+    {
+      "id": 5985702931,
+      "repository": "vlad441/ncpp",
+      "title": "\u0417\u0430\u0434\u0430\u0447\u0430: \u0414\u043e\u043f\u0438\u0441\u0430\u0442\u044c \u0442\u0435\u0441\u0442\u044b",
+      "url": "https://github.com/vlad441/ncpp/issues/1",
+      "created_at": "2026-10-22T19:03:35Z"
+    },
     {
       "id": 5981846324,
       "repository": "habibdxb01/bounty-watcher",
@@ -194,27 +215,6 @@
       "title": "[BOUNTY] Suggestion #1291",
       "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327",
       "created_at": "2026-10-20T11:39:18Z"
-    },
-    {
-      "id": 5940789646,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-20T11:24",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1316",
-      "created_at": "2026-10-20T11:24:51Z"
-    },
-    {
-      "id": 5936709666,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-20T05:55",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1315",
-      "created_at": "2026-10-20T05:55:15Z"
-    },
-    {
-      "id": 5935824922,
-      "repository": "auscaster/frantic-board",
-      "title": "Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email",
-      "url": "https://github.com/auscaster/frantic-board/issues/540",
-      "created_at": "2026-10-20T04:15:47Z"
     }
   ]
 }

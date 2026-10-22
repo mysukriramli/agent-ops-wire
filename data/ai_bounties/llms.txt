@@ -1,6 +1,9 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 📋 2 open bounties right now](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080) (Opened: 2026-10-22T20:02:23Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-22T19:11](https://github.com/relayhop/sn-monetization-runtime/issues/1326) (Opened: 2026-10-22T19:11:38Z)
+- **vlad441/ncpp**: [Задача: Дописать тесты](https://github.com/vlad441/ncpp/issues/1) (Opened: 2026-10-22T19:03:35Z)
 - **habibdxb01/bounty-watcher**: [📋 2 open bounties right now](https://github.com/habibdxb01/bounty-watcher/issues/8) (Opened: 2026-10-22T15:00:27Z)
 - **doomsday-network/bounty-guard**: [[BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run the 3-Second DOOM Quickstart](https://github.com/doomsday-network/bounty-guard/issues/1) (Opened: 2026-10-22T13:47:01Z)
 - **doomsday-network/doomsday**: [[BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstart or GPU Miner & Post Output](https://github.com/doomsday-network/doomsday/issues/4) (Opened: 2026-10-22T13:46:58Z)
@@ -28,6 +31,3 @@
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [TEST BOUNTY] Fix typo in README](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4061) (Opened: 2026-10-20T22:25:17Z)
 - **jomaaabbe78-spec/bookningsapp**: [[TEST BOUNTY] Fix typo in README](https://github.com/jomaaabbe78-spec/bookningsapp/issues/1) (Opened: 2026-10-20T20:46:34Z)
 - **SPLURT-Station/S.P.L.U.R.T-tg**: [[BOUNTY] Suggestion #1291](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327) (Opened: 2026-10-20T11:39:18Z)
-- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-20T11:24](https://github.com/relayhop/sn-monetization-runtime/issues/1316) (Opened: 2026-10-20T11:24:51Z)
-- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-20T05:55](https://github.com/relayhop/sn-monetization-runtime/issues/1315) (Opened: 2026-10-20T05:55:15Z)
-- **auscaster/frantic-board**: [Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email](https://github.com/auscaster/frantic-board/issues/540) (Opened: 2026-10-20T04:15:47Z)
