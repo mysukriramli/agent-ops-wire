@@ -1,11 +1,67 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-22T11:18:48.470790+00:00",
+    "generated_at": "2026-10-22T16:46:36.682321+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 5981846324,
+      "repository": "habibdxb01/bounty-watcher",
+      "title": "\ud83d\udccb 2 open bounties right now",
+      "url": "https://github.com/habibdxb01/bounty-watcher/issues/8",
+      "created_at": "2026-10-22T15:00:27Z"
+    },
+    {
+      "id": 5980597213,
+      "repository": "doomsday-network/bounty-guard",
+      "title": "[BOUNTY] \ud83d\udee1\ufe0f 500 DOOM ($wDOOM on Base) \u2014 Report a Fake GitHub Bounty Repo or Run the 3-Second DOOM Quickstart",
+      "url": "https://github.com/doomsday-network/bounty-guard/issues/1",
+      "created_at": "2026-10-22T13:47:01Z"
+    },
+    {
+      "id": 5980596564,
+      "repository": "doomsday-network/doomsday",
+      "title": "[BOUNTY] \u26a1 500\u20131,000 DOOM ($wDOOM on Base) \u2014 Run the 3-Second Terminal Quickstart or GPU Miner & Post Output",
+      "url": "https://github.com/doomsday-network/doomsday/issues/4",
+      "created_at": "2026-10-22T13:46:58Z"
+    },
+    {
+      "id": 5979160793,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3730",
+      "created_at": "2026-10-22T12:19:43Z"
+    },
+    {
+      "id": 5979160209,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3729",
+      "created_at": "2026-10-22T12:19:41Z"
+    },
+    {
+      "id": 5979159683,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3728",
+      "created_at": "2026-10-22T12:19:39Z"
+    },
+    {
+      "id": 5979159185,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3727",
+      "created_at": "2026-10-22T12:19:38Z"
+    },
+    {
+      "id": 5979158678,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3726",
+      "created_at": "2026-10-22T12:19:36Z"
+    },
     {
       "id": 5964033913,
       "repository": "amiller/bounty-arcade",
@@ -159,62 +215,6 @@
       "title": "Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email",
       "url": "https://github.com/auscaster/frantic-board/issues/540",
       "created_at": "2026-10-20T04:15:47Z"
-    },
-    {
-      "id": 5935823964,
-      "repository": "auscaster/frantic-board",
-      "title": "Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and report how it went",
-      "url": "https://github.com/auscaster/frantic-board/issues/539",
-      "created_at": "2026-10-20T04:15:41Z"
-    },
-    {
-      "id": 5935822872,
-      "repository": "auscaster/frantic-board",
-      "title": "Frantic bounty #139: Send your first email with the Nitrosend CLI and report how it went",
-      "url": "https://github.com/auscaster/frantic-board/issues/538",
-      "created_at": "2026-10-20T04:15:36Z"
-    },
-    {
-      "id": 5933639774,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-20T00:14",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1314",
-      "created_at": "2026-10-20T00:14:57Z"
-    },
-    {
-      "id": 5931084422,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-19T20:31",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1313",
-      "created_at": "2026-10-19T20:31:57Z"
-    },
-    {
-      "id": 5928177608,
-      "repository": "lizTheDeveloper/privacy-the-game",
-      "title": "[opt-out check] RocketReach: find a no-account opt-out route",
-      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/419",
-      "created_at": "2026-10-19T17:09:31Z"
-    },
-    {
-      "id": 5928176491,
-      "repository": "lizTheDeveloper/privacy-the-game",
-      "title": "[opt-out check] PrivateEye: which brokers are behind its search results?",
-      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/418",
-      "created_at": "2026-10-19T17:09:26Z"
-    },
-    {
-      "id": 5928175548,
-      "repository": "lizTheDeveloper/privacy-the-game",
-      "title": "[opt-out check] American Express: marketing opt-out page says \"currently not available\"",
-      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/417",
-      "created_at": "2026-10-19T17:09:22Z"
-    },
-    {
-      "id": 5928174563,
-      "repository": "lizTheDeveloper/privacy-the-game",
-      "title": "[opt-out check] FastPeopleSearch: test the removal flow end to end",
-      "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/416",
-      "created_at": "2026-10-19T17:09:18Z"
     }
   ]
 }

@@ -1,6 +1,14 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **habibdxb01/bounty-watcher**: [📋 2 open bounties right now](https://github.com/habibdxb01/bounty-watcher/issues/8) (Opened: 2026-10-22T15:00:27Z)
+- **doomsday-network/bounty-guard**: [[BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run the 3-Second DOOM Quickstart](https://github.com/doomsday-network/bounty-guard/issues/1) (Opened: 2026-10-22T13:47:01Z)
+- **doomsday-network/doomsday**: [[BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstart or GPU Miner & Post Output](https://github.com/doomsday-network/doomsday/issues/4) (Opened: 2026-10-22T13:46:58Z)
+- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3730) (Opened: 2026-10-22T12:19:43Z)
+- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3729) (Opened: 2026-10-22T12:19:41Z)
+- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3728) (Opened: 2026-10-22T12:19:39Z)
+- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3727) (Opened: 2026-10-22T12:19:38Z)
+- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3726) (Opened: 2026-10-22T12:19:36Z)
 - **amiller/bounty-arcade**: [[routes] Time, moving time and speed](https://github.com/amiller/bounty-arcade/issues/12) (Opened: 2026-10-21T16:02:21Z)
 - **amiller/bounty-arcade**: [[routes] Gain/loss threshold](https://github.com/amiller/bounty-arcade/issues/11) (Opened: 2026-10-21T16:02:20Z)
 - **amiller/bounty-arcade**: [[routes] Segments and gaps](https://github.com/amiller/bounty-arcade/issues/10) (Opened: 2026-10-21T16:02:19Z)
@@ -23,11 +31,3 @@
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-20T11:24](https://github.com/relayhop/sn-monetization-runtime/issues/1316) (Opened: 2026-10-20T11:24:51Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-20T05:55](https://github.com/relayhop/sn-monetization-runtime/issues/1315) (Opened: 2026-10-20T05:55:15Z)
 - **auscaster/frantic-board**: [Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email](https://github.com/auscaster/frantic-board/issues/540) (Opened: 2026-10-20T04:15:47Z)
-- **auscaster/frantic-board**: [Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and report how it went](https://github.com/auscaster/frantic-board/issues/539) (Opened: 2026-10-20T04:15:41Z)
-- **auscaster/frantic-board**: [Frantic bounty #139: Send your first email with the Nitrosend CLI and report how it went](https://github.com/auscaster/frantic-board/issues/538) (Opened: 2026-10-20T04:15:36Z)
-- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-20T00:14](https://github.com/relayhop/sn-monetization-runtime/issues/1314) (Opened: 2026-10-20T00:14:57Z)
-- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-19T20:31](https://github.com/relayhop/sn-monetization-runtime/issues/1313) (Opened: 2026-10-19T20:31:57Z)
-- **lizTheDeveloper/privacy-the-game**: [[opt-out check] RocketReach: find a no-account opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/419) (Opened: 2026-10-19T17:09:31Z)
-- **lizTheDeveloper/privacy-the-game**: [[opt-out check] PrivateEye: which brokers are behind its search results?](https://github.com/lizTheDeveloper/privacy-the-game/issues/418) (Opened: 2026-10-19T17:09:26Z)
-- **lizTheDeveloper/privacy-the-game**: [[opt-out check] American Express: marketing opt-out page says "currently not available"](https://github.com/lizTheDeveloper/privacy-the-game/issues/417) (Opened: 2026-10-19T17:09:22Z)
-- **lizTheDeveloper/privacy-the-game**: [[opt-out check] FastPeopleSearch: test the removal flow end to end](https://github.com/lizTheDeveloper/privacy-the-game/issues/416) (Opened: 2026-10-19T17:09:18Z)
