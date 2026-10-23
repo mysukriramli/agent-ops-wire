@@ -1,11 +1,18 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-22T21:16:49.030363+00:00",
+    "generated_at": "2026-10-23T03:45:13.166168+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 5989002106,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \u0417\u0430\u0434\u0430\u0447\u0430: \u0414\u043e\u043f\u0438\u0441\u0430\u0442\u044c \u0442\u0435\u0441\u0442\u044b",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4081",
+      "created_at": "2026-10-22T23:17:32Z"
+    },
     {
       "id": 5986552924,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
@@ -19,13 +26,6 @@
       "title": "[radar] SN open bounty 2026-10-22T19:11",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1326",
       "created_at": "2026-10-22T19:11:38Z"
-    },
-    {
-      "id": 5985702931,
-      "repository": "vlad441/ncpp",
-      "title": "\u0417\u0430\u0434\u0430\u0447\u0430: \u0414\u043e\u043f\u0438\u0441\u0430\u0442\u044c \u0442\u0435\u0441\u0442\u044b",
-      "url": "https://github.com/vlad441/ncpp/issues/1",
-      "created_at": "2026-10-22T19:03:35Z"
     },
     {
       "id": 5981846324,
