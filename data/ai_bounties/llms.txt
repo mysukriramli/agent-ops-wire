@@ -1,6 +1,7 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **XHToken/Spark-X2.6**: [HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛](https://github.com/XHToken/Spark-X2.6/issues/16) (Opened: 2026-10-23T03:43:51Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Задача: Дописать тесты](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4081) (Opened: 2026-10-22T23:17:32Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 📋 2 open bounties right now](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080) (Opened: 2026-10-22T20:02:23Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-22T19:11](https://github.com/relayhop/sn-monetization-runtime/issues/1326) (Opened: 2026-10-22T19:11:38Z)
@@ -30,4 +31,3 @@
 - **dsect-net/quantum**: [Bounty Board rewire to Quantum AI App + Tracker](https://github.com/dsect-net/quantum/issues/288) (Opened: 2026-10-21T10:12:07Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [TEST BOUNTY] Fix typo in README](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4061) (Opened: 2026-10-20T22:25:17Z)
 - **jomaaabbe78-spec/bookningsapp**: [[TEST BOUNTY] Fix typo in README](https://github.com/jomaaabbe78-spec/bookningsapp/issues/1) (Opened: 2026-10-20T20:46:34Z)
-- **SPLURT-Station/S.P.L.U.R.T-tg**: [[BOUNTY] Suggestion #1291](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327) (Opened: 2026-10-20T11:39:18Z)
