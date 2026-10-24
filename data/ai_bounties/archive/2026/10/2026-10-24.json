@@ -1,11 +1,32 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-24T03:39:22.520661+00:00",
+    "generated_at": "2026-10-24T10:27:38.573775+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6010805059,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$100): [Bounty] \ud83d\udcb0 Bounty Seguro ($$100): [Bounty] USDC-qu",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/27",
+      "created_at": "2026-10-24T07:59:32Z"
+    },
+    {
+      "id": 6010161728,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109",
+      "created_at": "2026-10-24T06:31:48Z"
+    },
+    {
+      "id": 6007774119,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/21",
+      "created_at": "2026-10-24T01:01:40Z"
+    },
     {
       "id": 6004857118,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
@@ -194,27 +215,6 @@
       "title": "[Bounty] Answer the 2 linked question(s)",
       "url": "https://github.com/Ikalus1988/MisakaNet/issues/3624",
       "created_at": "2026-10-21T12:18:23Z"
-    },
-    {
-      "id": 5960325136,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3623",
-      "created_at": "2026-10-21T12:18:22Z"
-    },
-    {
-      "id": 5960324734,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3622",
-      "created_at": "2026-10-21T12:18:20Z"
-    },
-    {
-      "id": 5958548749,
-      "repository": "dsect-net/quantum",
-      "title": "Bounty Board rewire to Quantum AI App + Tracker",
-      "url": "https://github.com/dsect-net/quantum/issues/288",
-      "created_at": "2026-10-21T10:12:07Z"
     }
   ]
 }
