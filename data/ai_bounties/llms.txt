@@ -1,6 +1,9 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4110) (Opened: 2026-10-24T14:52:08Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/28) (Opened: 2026-10-24T13:12:36Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-24T10:49](https://github.com/relayhop/sn-monetization-runtime/issues/1327) (Opened: 2026-10-24T10:49:16Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu](https://github.com/alfrexo95/bounty-bot/issues/27) (Opened: 2026-10-24T07:59:32Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109) (Opened: 2026-10-24T06:31:48Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ](https://github.com/alfrexo95/bounty-bot/issues/21) (Opened: 2026-10-24T01:01:40Z)
@@ -28,6 +31,3 @@
 - **amiller/bounty-arcade**: [[flight] Run recording and replay](https://github.com/amiller/bounty-arcade/issues/5) (Opened: 2026-10-21T16:02:11Z)
 - **amiller/bounty-arcade**: [[flight] Fuel](https://github.com/amiller/bounty-arcade/issues/4) (Opened: 2026-10-21T16:02:10Z)
 - **amiller/bounty-arcade**: [[board] Work-in-progress limit on Doing](https://github.com/amiller/bounty-arcade/issues/3) (Opened: 2026-10-21T16:02:08Z)
-- **amiller/bounty-arcade**: [[board] Undo and redo](https://github.com/amiller/bounty-arcade/issues/2) (Opened: 2026-10-21T16:02:07Z)
-- **amiller/bounty-arcade**: [[board] Search cards](https://github.com/amiller/bounty-arcade/issues/1) (Opened: 2026-10-21T16:02:06Z)
-- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3624) (Opened: 2026-10-21T12:18:23Z)
