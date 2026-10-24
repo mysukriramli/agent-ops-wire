@@ -1,11 +1,53 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-24T15:31:57.714143+00:00",
+    "generated_at": "2026-10-24T20:23:33.004769+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6017132129,
+      "repository": "doomsday-network/doom-pay",
+      "title": "[ESCROW BOUNTY] \u26a1 1,000 wDOOM (Base Mainnet) \u2014 Test DoomPay 3-Line Checkout Session & Benchmark a Mining Share",
+      "url": "https://github.com/doomsday-network/doom-pay/issues/1",
+      "created_at": "2026-10-24T20:13:00Z"
+    },
+    {
+      "id": 6015218291,
+      "repository": "doomsday-network/web3-agent-skills",
+      "title": "[ESCROW BOUNTY] \u26a1 1,000 DOOM ($wDOOM on Base) \u2014 Star All 5 Doomsday Repos, Test Remote MCP & Mine 1 Pool Share!",
+      "url": "https://github.com/doomsday-network/web3-agent-skills/issues/1",
+      "created_at": "2026-10-24T16:42:50Z"
+    },
+    {
+      "id": 6014641501,
+      "repository": "doomsday-network/bounty-guard",
+      "title": "[ESCROW BOUNTY] \ud83d\udd0c 2,000 DOOM ($wDOOM on Base) \u2014 Integrate BountyGuard Into Your Public Agent Repo or GitHub Action Workflow!",
+      "url": "https://github.com/doomsday-network/bounty-guard/issues/7",
+      "created_at": "2026-10-24T15:39:31Z"
+    },
+    {
+      "id": 6014641226,
+      "repository": "doomsday-network/github-bounty-scanner",
+      "title": "[ESCROW BOUNTY] \ud83d\udee1\ufe0f 1,000 DOOM ($wDOOM on Base) \u2014 Star All 4 Doomsday Repos, Run scan_bounties.py & Mine 1 Pool Share!",
+      "url": "https://github.com/doomsday-network/github-bounty-scanner/issues/1",
+      "created_at": "2026-10-24T15:39:29Z"
+    },
+    {
+      "id": 6014640971,
+      "repository": "doomsday-network/cuda-gpu-miner",
+      "title": "[BOUNTY] \u26a1 1,000\u20132,500 DOOM ($wDOOM on Base) \u2014 Connect Your GPU or CPU Worker to the Live Mining Pool & Mine 1+ Share!",
+      "url": "https://github.com/doomsday-network/cuda-gpu-miner/issues/1",
+      "created_at": "2026-10-24T15:39:27Z"
+    },
+    {
+      "id": 6014640631,
+      "repository": "doomsday-network/doomsday",
+      "title": "[ESCROW BOUNTY] \u2b50 750 DOOM ($wDOOM on Base) \u2014 Star All 4 Doomsday Network Repos & Mine 1+ Live Pool Share via mine_pool.py",
+      "url": "https://github.com/doomsday-network/doomsday/issues/30",
+      "created_at": "2026-10-24T15:39:25Z"
+    },
     {
       "id": 6014202777,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
@@ -173,48 +215,6 @@
       "title": "[puzzle] Shareable replay links",
       "url": "https://github.com/amiller/bounty-arcade/issues/9",
       "created_at": "2026-10-21T16:02:17Z"
-    },
-    {
-      "id": 5964032610,
-      "repository": "amiller/bounty-arcade",
-      "title": "[puzzle] Persist progress and best scores per level",
-      "url": "https://github.com/amiller/bounty-arcade/issues/8",
-      "created_at": "2026-10-21T16:02:16Z"
-    },
-    {
-      "id": 5964032238,
-      "repository": "amiller/bounty-arcade",
-      "title": "[puzzle] Deadlock detection for boxes stuck in corners",
-      "url": "https://github.com/amiller/bounty-arcade/issues/7",
-      "created_at": "2026-10-21T16:02:14Z"
-    },
-    {
-      "id": 5964031836,
-      "repository": "amiller/bounty-arcade",
-      "title": "[flight] Seeded wind",
-      "url": "https://github.com/amiller/bounty-arcade/issues/6",
-      "created_at": "2026-10-21T16:02:13Z"
-    },
-    {
-      "id": 5964031444,
-      "repository": "amiller/bounty-arcade",
-      "title": "[flight] Run recording and replay",
-      "url": "https://github.com/amiller/bounty-arcade/issues/5",
-      "created_at": "2026-10-21T16:02:11Z"
-    },
-    {
-      "id": 5964031073,
-      "repository": "amiller/bounty-arcade",
-      "title": "[flight] Fuel",
-      "url": "https://github.com/amiller/bounty-arcade/issues/4",
-      "created_at": "2026-10-21T16:02:10Z"
-    },
-    {
-      "id": 5964030658,
-      "repository": "amiller/bounty-arcade",
-      "title": "[board] Work-in-progress limit on Doing",
-      "url": "https://github.com/amiller/bounty-arcade/issues/3",
-      "created_at": "2026-10-21T16:02:08Z"
     }
   ]
 }

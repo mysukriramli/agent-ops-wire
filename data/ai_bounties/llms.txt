@@ -1,6 +1,12 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **doomsday-network/doom-pay**: [[ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Session & Benchmark a Mining Share](https://github.com/doomsday-network/doom-pay/issues/1) (Opened: 2026-10-24T20:13:00Z)
+- **doomsday-network/web3-agent-skills**: [[ESCROW BOUNTY] ⚡ 1,000 DOOM ($wDOOM on Base) — Star All 5 Doomsday Repos, Test Remote MCP & Mine 1 Pool Share!](https://github.com/doomsday-network/web3-agent-skills/issues/1) (Opened: 2026-10-24T16:42:50Z)
+- **doomsday-network/bounty-guard**: [[ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — Integrate BountyGuard Into Your Public Agent Repo or GitHub Action Workflow!](https://github.com/doomsday-network/bounty-guard/issues/7) (Opened: 2026-10-24T15:39:31Z)
+- **doomsday-network/github-bounty-scanner**: [[ESCROW BOUNTY] 🛡️ 1,000 DOOM ($wDOOM on Base) — Star All 4 Doomsday Repos, Run scan_bounties.py & Mine 1 Pool Share!](https://github.com/doomsday-network/github-bounty-scanner/issues/1) (Opened: 2026-10-24T15:39:29Z)
+- **doomsday-network/cuda-gpu-miner**: [[BOUNTY] ⚡ 1,000–2,500 DOOM ($wDOOM on Base) — Connect Your GPU or CPU Worker to the Live Mining Pool & Mine 1+ Share!](https://github.com/doomsday-network/cuda-gpu-miner/issues/1) (Opened: 2026-10-24T15:39:27Z)
+- **doomsday-network/doomsday**: [[ESCROW BOUNTY] ⭐ 750 DOOM ($wDOOM on Base) — Star All 4 Doomsday Network Repos & Mine 1+ Live Pool Share via mine_pool.py](https://github.com/doomsday-network/doomsday/issues/30) (Opened: 2026-10-24T15:39:25Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4110) (Opened: 2026-10-24T14:52:08Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/28) (Opened: 2026-10-24T13:12:36Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-24T10:49](https://github.com/relayhop/sn-monetization-runtime/issues/1327) (Opened: 2026-10-24T10:49:16Z)
@@ -25,9 +31,3 @@
 - **amiller/bounty-arcade**: [[routes] Gain/loss threshold](https://github.com/amiller/bounty-arcade/issues/11) (Opened: 2026-10-21T16:02:20Z)
 - **amiller/bounty-arcade**: [[routes] Segments and gaps](https://github.com/amiller/bounty-arcade/issues/10) (Opened: 2026-10-21T16:02:19Z)
 - **amiller/bounty-arcade**: [[puzzle] Shareable replay links](https://github.com/amiller/bounty-arcade/issues/9) (Opened: 2026-10-21T16:02:17Z)
-- **amiller/bounty-arcade**: [[puzzle] Persist progress and best scores per level](https://github.com/amiller/bounty-arcade/issues/8) (Opened: 2026-10-21T16:02:16Z)
-- **amiller/bounty-arcade**: [[puzzle] Deadlock detection for boxes stuck in corners](https://github.com/amiller/bounty-arcade/issues/7) (Opened: 2026-10-21T16:02:14Z)
-- **amiller/bounty-arcade**: [[flight] Seeded wind](https://github.com/amiller/bounty-arcade/issues/6) (Opened: 2026-10-21T16:02:13Z)
-- **amiller/bounty-arcade**: [[flight] Run recording and replay](https://github.com/amiller/bounty-arcade/issues/5) (Opened: 2026-10-21T16:02:11Z)
-- **amiller/bounty-arcade**: [[flight] Fuel](https://github.com/amiller/bounty-arcade/issues/4) (Opened: 2026-10-21T16:02:10Z)
-- **amiller/bounty-arcade**: [[board] Work-in-progress limit on Doing](https://github.com/amiller/bounty-arcade/issues/3) (Opened: 2026-10-21T16:02:08Z)
