@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "domain": "scraper_intel",
+    "generated_at": "2026-10-24T03:39:20.965389+00:00",
+    "total_items": 7,
+    "schema_version": "1.0.0"
+  },
+  "domains": [
+    {
+      "domain": "reddit.com",
+      "robots_txt_accessible": false,
+      "explicit_ai_bot_blocks": []
+    },
+    {
+      "domain": "nytimes.com",
+      "robots_txt_accessible": true,
+      "explicit_ai_bot_blocks": [
+        "gptbot",
+        "claudebot",
+        "anthropic",
+        "ccbot",
+        "applebot-extended",
+        "omgilibot"
+      ]
+    },
+    {
+      "domain": "wikipedia.org",
+      "robots_txt_accessible": true,
+      "explicit_ai_bot_blocks": []
+    },
+    {
+      "domain": "github.com",
+      "robots_txt_accessible": true,
+      "explicit_ai_bot_blocks": [
+        "gptbot",
+        "claudebot",
+        "anthropic"
+      ]
+    },
+    {
+      "domain": "stackoverflow.com",
+      "robots_txt_accessible": false,
+      "explicit_ai_bot_blocks": []
+    },
+    {
+      "domain": "news.ycombinator.com",
+      "robots_txt_accessible": true,
+      "explicit_ai_bot_blocks": []
+    },
+    {
+      "domain": "medium.com",
+      "robots_txt_accessible": true,
+      "explicit_ai_bot_blocks": [
+        "gptbot",
+        "claudebot",
+        "applebot-extended"
+      ]
+    }
+  ]
+}
