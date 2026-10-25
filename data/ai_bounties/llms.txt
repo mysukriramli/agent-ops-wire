@@ -1,6 +1,7 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] 🔌 2,](https://github.com/alfrexo95/bounty-bot/issues/31) (Opened: 2026-10-25T04:08:21Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4114) (Opened: 2026-10-25T00:27:07Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4113) (Opened: 2026-10-25T00:27:06Z)
 - **doomsday-network/doom-pay**: [[STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card! (10 / 10 Available — $100 USD Vault)](https://github.com/doomsday-network/doom-pay/issues/4) (Opened: 2026-10-24T23:29:10Z)
@@ -30,4 +31,3 @@
 - **doomsday-network/bounty-guard**: [[BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run the 3-Second DOOM Quickstart](https://github.com/doomsday-network/bounty-guard/issues/1) (Opened: 2026-10-22T13:47:01Z)
 - **doomsday-network/doomsday**: [[BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstart or GPU Miner & Post Output](https://github.com/doomsday-network/doomsday/issues/4) (Opened: 2026-10-22T13:46:58Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3730) (Opened: 2026-10-22T12:19:43Z)
-- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3729) (Opened: 2026-10-22T12:19:41Z)
