@@ -1,6 +1,9 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-25T18:56](https://github.com/relayhop/sn-monetization-runtime/issues/1331) (Opened: 2026-10-25T18:56:39Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-25T16:02](https://github.com/relayhop/sn-monetization-runtime/issues/1329) (Opened: 2026-10-25T16:02:35Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/42) (Opened: 2026-10-25T15:52:42Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/37) (Opened: 2026-10-25T11:04:35Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] 🔌 2,](https://github.com/alfrexo95/bounty-bot/issues/31) (Opened: 2026-10-25T04:08:21Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4114) (Opened: 2026-10-25T00:27:07Z)
@@ -28,6 +31,3 @@
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Задача: Дописать тесты](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4081) (Opened: 2026-10-22T23:17:32Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 📋 2 open bounties right now](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080) (Opened: 2026-10-22T20:02:23Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-22T19:11](https://github.com/relayhop/sn-monetization-runtime/issues/1326) (Opened: 2026-10-22T19:11:38Z)
-- **habibdxb01/bounty-watcher**: [📋 2 open bounties right now](https://github.com/habibdxb01/bounty-watcher/issues/8) (Opened: 2026-10-22T15:00:27Z)
-- **doomsday-network/bounty-guard**: [[BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run the 3-Second DOOM Quickstart](https://github.com/doomsday-network/bounty-guard/issues/1) (Opened: 2026-10-22T13:47:01Z)
-- **doomsday-network/doomsday**: [[BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstart or GPU Miner & Post Output](https://github.com/doomsday-network/doomsday/issues/4) (Opened: 2026-10-22T13:46:58Z)

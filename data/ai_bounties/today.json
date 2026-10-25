@@ -1,11 +1,32 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-25T15:41:52.149518+00:00",
+    "generated_at": "2026-10-25T20:29:40.663169+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6028075606,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-25T18:56",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1331",
+      "created_at": "2026-10-25T18:56:39Z"
+    },
+    {
+      "id": 6026417530,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-25T16:02",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1329",
+      "created_at": "2026-10-25T16:02:35Z"
+    },
+    {
+      "id": 6026318065,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/42",
+      "created_at": "2026-10-25T15:52:42Z"
+    },
     {
       "id": 6023717075,
       "repository": "alfrexo95/bounty-bot",
@@ -194,27 +215,6 @@
       "title": "[radar] SN open bounty 2026-10-22T19:11",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1326",
       "created_at": "2026-10-22T19:11:38Z"
-    },
-    {
-      "id": 5981846324,
-      "repository": "habibdxb01/bounty-watcher",
-      "title": "\ud83d\udccb 2 open bounties right now",
-      "url": "https://github.com/habibdxb01/bounty-watcher/issues/8",
-      "created_at": "2026-10-22T15:00:27Z"
-    },
-    {
-      "id": 5980597213,
-      "repository": "doomsday-network/bounty-guard",
-      "title": "[BOUNTY] \ud83d\udee1\ufe0f 500 DOOM ($wDOOM on Base) \u2014 Report a Fake GitHub Bounty Repo or Run the 3-Second DOOM Quickstart",
-      "url": "https://github.com/doomsday-network/bounty-guard/issues/1",
-      "created_at": "2026-10-22T13:47:01Z"
-    },
-    {
-      "id": 5980596564,
-      "repository": "doomsday-network/doomsday",
-      "title": "[BOUNTY] \u26a1 500\u20131,000 DOOM ($wDOOM on Base) \u2014 Run the 3-Second Terminal Quickstart or GPU Miner & Post Output",
-      "url": "https://github.com/doomsday-network/doomsday/issues/4",
-      "created_at": "2026-10-22T13:46:58Z"
     }
   ]
 }
