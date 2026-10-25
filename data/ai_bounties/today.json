@@ -1,11 +1,60 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-24T20:23:33.004769+00:00",
+    "generated_at": "2026-10-25T03:36:54.591172+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6019191244,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [STEAM VAULT] \ud83c\udfae Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4114",
+      "created_at": "2026-10-25T00:27:07Z"
+    },
+    {
+      "id": 6019191166,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [STEAM VAULT] \ud83c\udfae Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4113",
+      "created_at": "2026-10-25T00:27:06Z"
+    },
+    {
+      "id": 6018782156,
+      "repository": "doomsday-network/doom-pay",
+      "title": "[STEAM VAULT] \ud83c\udfae Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card! (10 / 10 Available \u2014 $100 USD Vault)",
+      "url": "https://github.com/doomsday-network/doom-pay/issues/4",
+      "created_at": "2026-10-24T23:29:10Z"
+    },
+    {
+      "id": 6018782095,
+      "repository": "doomsday-network/doomsday",
+      "title": "[STEAM VAULT] \ud83c\udfae Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card! (10 / 10 Available \u2014 $100 USD Vault)",
+      "url": "https://github.com/doomsday-network/doomsday/issues/39",
+      "created_at": "2026-10-24T23:29:09Z"
+    },
+    {
+      "id": 6018571052,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] \ud83d\udd0c 2,000 DOOM ($wDOOM on Base) \u2014 In",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/30",
+      "created_at": "2026-10-24T23:02:10Z"
+    },
+    {
+      "id": 6017814730,
+      "repository": "auscaster/frantic-board",
+      "title": "Frantic bounty #138: Find a live HTTP 402 endpoint that prices in Nano (XNO)",
+      "url": "https://github.com/auscaster/frantic-board/issues/558",
+      "created_at": "2026-10-24T21:29:48Z"
+    },
+    {
+      "id": 6017814234,
+      "repository": "auscaster/frantic-board",
+      "title": "Frantic bounty #137: Protocol conformance audit: izanami-916.github.io/protocol.html vs the live ask rail",
+      "url": "https://github.com/auscaster/frantic-board/issues/557",
+      "created_at": "2026-10-24T21:29:44Z"
+    },
     {
       "id": 6017132129,
       "repository": "doomsday-network/doom-pay",
@@ -166,55 +215,6 @@
       "title": "[Bounty] Answer the 2 linked question(s)",
       "url": "https://github.com/Ikalus1988/MisakaNet/issues/3729",
       "created_at": "2026-10-22T12:19:41Z"
-    },
-    {
-      "id": 5979159683,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3728",
-      "created_at": "2026-10-22T12:19:39Z"
-    },
-    {
-      "id": 5979159185,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3727",
-      "created_at": "2026-10-22T12:19:38Z"
-    },
-    {
-      "id": 5979158678,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3726",
-      "created_at": "2026-10-22T12:19:36Z"
-    },
-    {
-      "id": 5964033913,
-      "repository": "amiller/bounty-arcade",
-      "title": "[routes] Time, moving time and speed",
-      "url": "https://github.com/amiller/bounty-arcade/issues/12",
-      "created_at": "2026-10-21T16:02:21Z"
-    },
-    {
-      "id": 5964033652,
-      "repository": "amiller/bounty-arcade",
-      "title": "[routes] Gain/loss threshold",
-      "url": "https://github.com/amiller/bounty-arcade/issues/11",
-      "created_at": "2026-10-21T16:02:20Z"
-    },
-    {
-      "id": 5964033324,
-      "repository": "amiller/bounty-arcade",
-      "title": "[routes] Segments and gaps",
-      "url": "https://github.com/amiller/bounty-arcade/issues/10",
-      "created_at": "2026-10-21T16:02:19Z"
-    },
-    {
-      "id": 5964032940,
-      "repository": "amiller/bounty-arcade",
-      "title": "[puzzle] Shareable replay links",
-      "url": "https://github.com/amiller/bounty-arcade/issues/9",
-      "created_at": "2026-10-21T16:02:17Z"
     }
   ]
 }
