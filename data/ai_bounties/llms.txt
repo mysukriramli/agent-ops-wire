@@ -1,6 +1,13 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 🪙 [Web3] feat(mobile): add offline storage and que](https://github.com/alfrexo95/bounty-bot/issues/48) (Opened: 2026-10-26T20:23:08Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-26T19:11](https://github.com/relayhop/sn-monetization-runtime/issues/1340) (Opened: 2026-10-26T19:11:09Z)
+- **alfrexo95/bounty-bot**: [🪙 [Web3] feat(mobile): add offline storage and queue sync f](https://github.com/alfrexo95/bounty-bot/issues/47) (Opened: 2026-10-26T15:45:45Z)
+- **Ikalus1988/MisakaNet**: [[Good first issue · Oct 26 – Nov 26] Bring one real failure — we'll help turn it into a lesson](https://github.com/Ikalus1988/MisakaNet/issues/3901) (Opened: 2026-10-26T15:41:16Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-26T12:48](https://github.com/relayhop/sn-monetization-runtime/issues/1339) (Opened: 2026-10-26T12:48:58Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-26T12:48](https://github.com/relayhop/sn-monetization-runtime/issues/1338) (Opened: 2026-10-26T12:48:24Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f](https://github.com/alfrexo95/bounty-bot/issues/46) (Opened: 2026-10-26T12:37:41Z)
 - **riteshbonthalakoti/HELPDESK.AI**: [feat(mobile): add offline storage and queue sync for ticket drafts using AsyncStorage](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4092) (Opened: 2026-10-26T11:31:26Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-26T06:01](https://github.com/relayhop/sn-monetization-runtime/issues/1337) (Opened: 2026-10-26T06:01:13Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/45) (Opened: 2026-10-26T04:12:19Z)
@@ -24,10 +31,3 @@
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu](https://github.com/alfrexo95/bounty-bot/issues/27) (Opened: 2026-10-24T07:59:32Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109) (Opened: 2026-10-24T06:31:48Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ](https://github.com/alfrexo95/bounty-bot/issues/21) (Opened: 2026-10-24T01:01:40Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107) (Opened: 2026-10-23T20:20:52Z)
-- **blake-guthrie/GLASS**: [USDC-quoted pairs not having the correct marketcap displayed in tools](https://github.com/blake-guthrie/GLASS/issues/1) (Opened: 2026-10-23T19:03:20Z)
-- **XHToken/Spark-X2.6**: [HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛](https://github.com/XHToken/Spark-X2.6/issues/16) (Opened: 2026-10-23T03:43:51Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Задача: Дописать тесты](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4081) (Opened: 2026-10-22T23:17:32Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 📋 2 open bounties right now](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080) (Opened: 2026-10-22T20:02:23Z)
-- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-22T19:11](https://github.com/relayhop/sn-monetization-runtime/issues/1326) (Opened: 2026-10-22T19:11:38Z)
-- **habibdxb01/bounty-watcher**: [📋 2 open bounties right now](https://github.com/habibdxb01/bounty-watcher/issues/8) (Opened: 2026-10-22T15:00:27Z)
