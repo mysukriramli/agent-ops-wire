@@ -1,11 +1,32 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-26T03:39:51.082067+00:00",
+    "generated_at": "2026-10-26T12:25:14.457814+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6038800428,
+      "repository": "riteshbonthalakoti/HELPDESK.AI",
+      "title": "feat(mobile): add offline storage and queue sync for ticket drafts using AsyncStorage",
+      "url": "https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4092",
+      "created_at": "2026-10-26T11:31:26Z"
+    },
+    {
+      "id": 6034255604,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-26T06:01",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1337",
+      "created_at": "2026-10-26T06:01:13Z"
+    },
+    {
+      "id": 6033180047,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/45",
+      "created_at": "2026-10-26T04:12:19Z"
+    },
     {
       "id": 6030951747,
       "repository": "relayhop/sn-monetization-runtime",
@@ -194,27 +215,6 @@
       "title": "\ud83d\udccb 2 open bounties right now",
       "url": "https://github.com/habibdxb01/bounty-watcher/issues/8",
       "created_at": "2026-10-22T15:00:27Z"
-    },
-    {
-      "id": 5979160793,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3730",
-      "created_at": "2026-10-22T12:19:43Z"
-    },
-    {
-      "id": 5979160209,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3729",
-      "created_at": "2026-10-22T12:19:41Z"
-    },
-    {
-      "id": 5979159683,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3728",
-      "created_at": "2026-10-22T12:19:39Z"
     }
   ]
 }
