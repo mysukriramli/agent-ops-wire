@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "domain": "ai_bounties",
+    "generated_at": "2026-10-26T03:39:51.082067+00:00",
+    "total_items": 30,
+    "schema_version": "1.0.0"
+  },
+  "open_tasks": [
+    {
+      "id": 6030951747,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-26T00:09",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1335",
+      "created_at": "2026-10-26T00:09:53Z"
+    },
+    {
+      "id": 6030416754,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/44",
+      "created_at": "2026-10-25T23:06:59Z"
+    },
+    {
+      "id": 6029650615,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-25T21:40",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1333",
+      "created_at": "2026-10-25T21:40:23Z"
+    },
+    {
+      "id": 6029052864,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/43",
+      "created_at": "2026-10-25T20:39:26Z"
+    },
+    {
+      "id": 6028075606,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-25T18:56",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1331",
+      "created_at": "2026-10-25T18:56:39Z"
+    },
+    {
+      "id": 6026417530,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-25T16:02",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1329",
+      "created_at": "2026-10-25T16:02:35Z"
+    },
+    {
+      "id": 6026318065,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/42",
+      "created_at": "2026-10-25T15:52:42Z"
+    },
+    {
+      "id": 6023717075,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/37",
+      "created_at": "2026-10-25T11:04:35Z"
+    },
+    {
+      "id": 6020699306,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] \ud83d\udd0c 2,",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/31",
+      "created_at": "2026-10-25T04:08:21Z"
+    },
+    {
+      "id": 6019191244,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [STEAM VAULT] \ud83c\udfae Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4114",
+      "created_at": "2026-10-25T00:27:07Z"
+    },
+    {
+      "id": 6019191166,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [STEAM VAULT] \ud83c\udfae Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4113",
+      "created_at": "2026-10-25T00:27:06Z"
+    },
+    {
+      "id": 6018571052,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] \ud83d\udd0c 2,000 DOOM ($wDOOM on Base) \u2014 In",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/30",
+      "created_at": "2026-10-24T23:02:10Z"
+    },
+    {
+      "id": 6017814730,
+      "repository": "auscaster/frantic-board",
+      "title": "Frantic bounty #138: Find a live HTTP 402 endpoint that prices in Nano (XNO)",
+      "url": "https://github.com/auscaster/frantic-board/issues/558",
+      "created_at": "2026-10-24T21:29:48Z"
+    },
+    {
+      "id": 6017814234,
+      "repository": "auscaster/frantic-board",
+      "title": "Frantic bounty #137: Protocol conformance audit: izanami-916.github.io/protocol.html vs the live ask rail",
+      "url": "https://github.com/auscaster/frantic-board/issues/557",
+      "created_at": "2026-10-24T21:29:44Z"
+    },
+    {
+      "id": 6014202777,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$100): \ud83d\udcb0 Bounty Seguro ($$100): [Bounty] \ud83d\udcb0 Bounty Seguro ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4110",
+      "created_at": "2026-10-24T14:52:08Z"
+    },
+    {
+      "id": 6013302485,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$100): \ud83d\udcb0 Bounty Seguro ($$100): [Bounty] \ud83d\udcb0 Bounty Seguro ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/28",
+      "created_at": "2026-10-24T13:12:36Z"
+    },
+    {
+      "id": 6012131420,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-24T10:49",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1327",
+      "created_at": "2026-10-24T10:49:16Z"
+    },
+    {
+      "id": 6010805059,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$100): [Bounty] \ud83d\udcb0 Bounty Seguro ($$100): [Bounty] USDC-qu",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/27",
+      "created_at": "2026-10-24T07:59:32Z"
+    },
+    {
+      "id": 6010161728,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109",
+      "created_at": "2026-10-24T06:31:48Z"
+    },
+    {
+      "id": 6007774119,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/21",
+      "created_at": "2026-10-24T01:01:40Z"
+    },
+    {
+      "id": 6004857118,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107",
+      "created_at": "2026-10-23T20:20:52Z"
+    },
+    {
+      "id": 6003832923,
+      "repository": "blake-guthrie/GLASS",
+      "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
+      "url": "https://github.com/blake-guthrie/GLASS/issues/1",
+      "created_at": "2026-10-23T19:03:20Z"
+    },
+    {
+      "id": 5991480827,
+      "repository": "XHToken/Spark-X2.6",
+      "title": "HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge\uff5c\u516c\u76ca\u5e94\u7528\u573a\u666f\u6311\u6218\u8d5b",
+      "url": "https://github.com/XHToken/Spark-X2.6/issues/16",
+      "created_at": "2026-10-23T03:43:51Z"
+    },
+    {
+      "id": 5989002106,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \u0417\u0430\u0434\u0430\u0447\u0430: \u0414\u043e\u043f\u0438\u0441\u0430\u0442\u044c \u0442\u0435\u0441\u0442\u044b",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4081",
+      "created_at": "2026-10-22T23:17:32Z"
+    },
+    {
+      "id": 5986552924,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udccb 2 open bounties right now",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080",
+      "created_at": "2026-10-22T20:02:23Z"
+    },
+    {
+      "id": 5985824260,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-22T19:11",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1326",
+      "created_at": "2026-10-22T19:11:38Z"
+    },
+    {
+      "id": 5981846324,
+      "repository": "habibdxb01/bounty-watcher",
+      "title": "\ud83d\udccb 2 open bounties right now",
+      "url": "https://github.com/habibdxb01/bounty-watcher/issues/8",
+      "created_at": "2026-10-22T15:00:27Z"
+    },
+    {
+      "id": 5979160793,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3730",
+      "created_at": "2026-10-22T12:19:43Z"
+    },
+    {
+      "id": 5979160209,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3729",
+      "created_at": "2026-10-22T12:19:41Z"
+    },
+    {
+      "id": 5979159683,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3728",
+      "created_at": "2026-10-22T12:19:39Z"
+    }
+  ]
+}

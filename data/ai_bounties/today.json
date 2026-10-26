@@ -1,11 +1,39 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-25T20:29:40.663169+00:00",
+    "generated_at": "2026-10-26T03:39:51.082067+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6030951747,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-26T00:09",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1335",
+      "created_at": "2026-10-26T00:09:53Z"
+    },
+    {
+      "id": 6030416754,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/44",
+      "created_at": "2026-10-25T23:06:59Z"
+    },
+    {
+      "id": 6029650615,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-25T21:40",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1333",
+      "created_at": "2026-10-25T21:40:23Z"
+    },
+    {
+      "id": 6029052864,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/43",
+      "created_at": "2026-10-25T20:39:26Z"
+    },
     {
       "id": 6028075606,
       "repository": "relayhop/sn-monetization-runtime",
@@ -56,20 +84,6 @@
       "created_at": "2026-10-25T00:27:06Z"
     },
     {
-      "id": 6018782156,
-      "repository": "doomsday-network/doom-pay",
-      "title": "[STEAM VAULT] \ud83c\udfae Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card! (10 / 10 Available \u2014 $100 USD Vault)",
-      "url": "https://github.com/doomsday-network/doom-pay/issues/4",
-      "created_at": "2026-10-24T23:29:10Z"
-    },
-    {
-      "id": 6018782095,
-      "repository": "doomsday-network/doomsday",
-      "title": "[STEAM VAULT] \ud83c\udfae Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card! (10 / 10 Available \u2014 $100 USD Vault)",
-      "url": "https://github.com/doomsday-network/doomsday/issues/39",
-      "created_at": "2026-10-24T23:29:09Z"
-    },
-    {
       "id": 6018571052,
       "repository": "alfrexo95/bounty-bot",
       "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] \ud83d\udd0c 2,000 DOOM ($wDOOM on Base) \u2014 In",
@@ -89,48 +103,6 @@
       "title": "Frantic bounty #137: Protocol conformance audit: izanami-916.github.io/protocol.html vs the live ask rail",
       "url": "https://github.com/auscaster/frantic-board/issues/557",
       "created_at": "2026-10-24T21:29:44Z"
-    },
-    {
-      "id": 6017132129,
-      "repository": "doomsday-network/doom-pay",
-      "title": "[ESCROW BOUNTY] \u26a1 1,000 wDOOM (Base Mainnet) \u2014 Test DoomPay 3-Line Checkout Session & Benchmark a Mining Share",
-      "url": "https://github.com/doomsday-network/doom-pay/issues/1",
-      "created_at": "2026-10-24T20:13:00Z"
-    },
-    {
-      "id": 6015218291,
-      "repository": "doomsday-network/web3-agent-skills",
-      "title": "[ESCROW BOUNTY] \u26a1 1,000 DOOM ($wDOOM on Base) \u2014 Star All 5 Doomsday Repos, Test Remote MCP & Mine 1 Pool Share!",
-      "url": "https://github.com/doomsday-network/web3-agent-skills/issues/1",
-      "created_at": "2026-10-24T16:42:50Z"
-    },
-    {
-      "id": 6014641501,
-      "repository": "doomsday-network/bounty-guard",
-      "title": "[ESCROW BOUNTY] \ud83d\udd0c 2,000 DOOM ($wDOOM on Base) \u2014 Integrate BountyGuard Into Your Public Agent Repo or GitHub Action Workflow!",
-      "url": "https://github.com/doomsday-network/bounty-guard/issues/7",
-      "created_at": "2026-10-24T15:39:31Z"
-    },
-    {
-      "id": 6014641226,
-      "repository": "doomsday-network/github-bounty-scanner",
-      "title": "[ESCROW BOUNTY] \ud83d\udee1\ufe0f 1,000 DOOM ($wDOOM on Base) \u2014 Star All 4 Doomsday Repos, Run scan_bounties.py & Mine 1 Pool Share!",
-      "url": "https://github.com/doomsday-network/github-bounty-scanner/issues/1",
-      "created_at": "2026-10-24T15:39:29Z"
-    },
-    {
-      "id": 6014640971,
-      "repository": "doomsday-network/cuda-gpu-miner",
-      "title": "[BOUNTY] \u26a1 1,000\u20132,500 DOOM ($wDOOM on Base) \u2014 Connect Your GPU or CPU Worker to the Live Mining Pool & Mine 1+ Share!",
-      "url": "https://github.com/doomsday-network/cuda-gpu-miner/issues/1",
-      "created_at": "2026-10-24T15:39:27Z"
-    },
-    {
-      "id": 6014640631,
-      "repository": "doomsday-network/doomsday",
-      "title": "[ESCROW BOUNTY] \u2b50 750 DOOM ($wDOOM on Base) \u2014 Star All 4 Doomsday Network Repos & Mine 1+ Live Pool Share via mine_pool.py",
-      "url": "https://github.com/doomsday-network/doomsday/issues/30",
-      "created_at": "2026-10-24T15:39:25Z"
     },
     {
       "id": 6014202777,
@@ -215,6 +187,34 @@
       "title": "[radar] SN open bounty 2026-10-22T19:11",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1326",
       "created_at": "2026-10-22T19:11:38Z"
+    },
+    {
+      "id": 5981846324,
+      "repository": "habibdxb01/bounty-watcher",
+      "title": "\ud83d\udccb 2 open bounties right now",
+      "url": "https://github.com/habibdxb01/bounty-watcher/issues/8",
+      "created_at": "2026-10-22T15:00:27Z"
+    },
+    {
+      "id": 5979160793,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3730",
+      "created_at": "2026-10-22T12:19:43Z"
+    },
+    {
+      "id": 5979160209,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3729",
+      "created_at": "2026-10-22T12:19:41Z"
+    },
+    {
+      "id": 5979159683,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3728",
+      "created_at": "2026-10-22T12:19:39Z"
     }
   ]
 }
