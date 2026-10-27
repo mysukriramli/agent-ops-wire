@@ -1,11 +1,25 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-27T11:44:13.417104+00:00",
+    "generated_at": "2026-10-27T17:37:46.619858+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6062085427,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/51",
+      "created_at": "2026-10-27T15:14:59Z"
+    },
+    {
+      "id": 6058761459,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-27T12:01",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1344",
+      "created_at": "2026-10-27T12:01:01Z"
+    },
     {
       "id": 6057331751,
       "repository": "relayhop/sn-monetization-runtime",
@@ -189,13 +203,6 @@
       "created_at": "2026-10-26T15:45:45Z"
     },
     {
-      "id": 6043013069,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Good first issue \u00b7 Oct 26 \u2013 Nov 26] Bring one real failure \u2014 we'll help turn it into a lesson",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3901",
-      "created_at": "2026-10-26T15:41:16Z"
-    },
-    {
       "id": 6039972215,
       "repository": "relayhop/sn-monetization-runtime",
       "title": "[radar] SN open bounty 2026-10-26T12:48",
@@ -208,13 +215,6 @@
       "title": "[radar] SN open bounty 2026-10-26T12:48",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1338",
       "created_at": "2026-10-26T12:48:24Z"
-    },
-    {
-      "id": 6039789952,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/46",
-      "created_at": "2026-10-26T12:37:41Z"
     }
   ]
 }
