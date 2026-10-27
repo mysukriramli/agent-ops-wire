@@ -1,6 +1,9 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T10:25](https://github.com/relayhop/sn-monetization-runtime/issues/1343) (Opened: 2026-10-27T10:25:03Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/50) (Opened: 2026-10-27T08:49:17Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T04:52](https://github.com/relayhop/sn-monetization-runtime/issues/1342) (Opened: 2026-10-27T04:52:16Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] feat(mobile](https://github.com/alfrexo95/bounty-bot/issues/49) (Opened: 2026-10-27T00:18:18Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-26T23:46](https://github.com/relayhop/sn-monetization-runtime/issues/1341) (Opened: 2026-10-26T23:46:22Z)
 - **hanzo-js/sdk**: [Add the LICENSE file the README links to](https://github.com/hanzo-js/sdk/issues/1) (Opened: 2026-10-26T23:17:41Z)
@@ -28,6 +31,3 @@
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-26T12:48](https://github.com/relayhop/sn-monetization-runtime/issues/1339) (Opened: 2026-10-26T12:48:58Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-26T12:48](https://github.com/relayhop/sn-monetization-runtime/issues/1338) (Opened: 2026-10-26T12:48:24Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f](https://github.com/alfrexo95/bounty-bot/issues/46) (Opened: 2026-10-26T12:37:41Z)
-- **riteshbonthalakoti/HELPDESK.AI**: [feat(mobile): add offline storage and queue sync for ticket drafts using AsyncStorage](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4092) (Opened: 2026-10-26T11:31:26Z)
-- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-26T06:01](https://github.com/relayhop/sn-monetization-runtime/issues/1337) (Opened: 2026-10-26T06:01:13Z)
-- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/45) (Opened: 2026-10-26T04:12:19Z)

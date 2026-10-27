@@ -1,11 +1,32 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-27T04:03:43.132733+00:00",
+    "generated_at": "2026-10-27T11:44:13.417104+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6057331751,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-27T10:25",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1343",
+      "created_at": "2026-10-27T10:25:03Z"
+    },
+    {
+      "id": 6055893438,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/50",
+      "created_at": "2026-10-27T08:49:17Z"
+    },
+    {
+      "id": 6053098118,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-27T04:52",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1342",
+      "created_at": "2026-10-27T04:52:16Z"
+    },
     {
       "id": 6050505886,
       "repository": "alfrexo95/bounty-bot",
@@ -194,27 +215,6 @@
       "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/46",
       "created_at": "2026-10-26T12:37:41Z"
-    },
-    {
-      "id": 6038800428,
-      "repository": "riteshbonthalakoti/HELPDESK.AI",
-      "title": "feat(mobile): add offline storage and queue sync for ticket drafts using AsyncStorage",
-      "url": "https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4092",
-      "created_at": "2026-10-26T11:31:26Z"
-    },
-    {
-      "id": 6034255604,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-26T06:01",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1337",
-      "created_at": "2026-10-26T06:01:13Z"
-    },
-    {
-      "id": 6033180047,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/45",
-      "created_at": "2026-10-26T04:12:19Z"
     }
   ]
 }
