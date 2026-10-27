@@ -1,11 +1,25 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-27T17:37:46.619858+00:00",
+    "generated_at": "2026-10-27T21:53:40.265530+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6064993649,
+      "repository": "WholeTroutMedia/oss-verification-sandbox",
+      "title": "Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull",
+      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2",
+      "created_at": "2026-10-27T18:08:12Z"
+    },
+    {
+      "id": 6064993522,
+      "repository": "WholeTroutMedia/oss-verification-sandbox",
+      "title": "Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`",
+      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1",
+      "created_at": "2026-10-27T18:08:12Z"
+    },
     {
       "id": 6062085427,
       "repository": "alfrexo95/bounty-bot",
@@ -201,20 +215,6 @@
       "title": "\ud83e\ude99 [Web3] feat(mobile): add offline storage and queue sync f",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/47",
       "created_at": "2026-10-26T15:45:45Z"
-    },
-    {
-      "id": 6039972215,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-26T12:48",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1339",
-      "created_at": "2026-10-26T12:48:58Z"
-    },
-    {
-      "id": 6039962974,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-26T12:48",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1338",
-      "created_at": "2026-10-26T12:48:24Z"
     }
   ]
 }
