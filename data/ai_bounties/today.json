@@ -1,11 +1,151 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-26T22:23:26.302767+00:00",
+    "generated_at": "2026-10-27T04:03:43.132733+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6050505886,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83e\ude99 [Web3] feat(mobile",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/49",
+      "created_at": "2026-10-27T00:18:18Z"
+    },
+    {
+      "id": 6050183860,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-26T23:46",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1341",
+      "created_at": "2026-10-26T23:46:22Z"
+    },
+    {
+      "id": 6049864386,
+      "repository": "hanzo-js/sdk",
+      "title": "Add the LICENSE file the README links to",
+      "url": "https://github.com/hanzo-js/sdk/issues/1",
+      "created_at": "2026-10-26T23:17:41Z"
+    },
+    {
+      "id": 6049863565,
+      "repository": "hanzo-go/lz4",
+      "title": "Point the README install steps and badges at hanzo.ai/lz4/v4",
+      "url": "https://github.com/hanzo-go/lz4/issues/1",
+      "created_at": "2026-10-26T23:17:36Z"
+    },
+    {
+      "id": 6049861923,
+      "repository": "hanzoai/ui",
+      "title": "List only the hooks @hanzo/react exports; delete 9 empty hook files",
+      "url": "https://github.com/hanzoai/ui/issues/257",
+      "created_at": "2026-10-26T23:17:28Z"
+    },
+    {
+      "id": 6049861069,
+      "repository": "hanzoai/agents",
+      "title": "Return 500, not 404, when node details fail for another reason",
+      "url": "https://github.com/hanzoai/agents/issues/10",
+      "created_at": "2026-10-26T23:17:24Z"
+    },
+    {
+      "id": 6049860242,
+      "repository": "hanzoai/agents",
+      "title": "Honor the lines argument in MCPManager.Logs",
+      "url": "https://github.com/hanzoai/agents/issues/9",
+      "created_at": "2026-10-26T23:17:20Z"
+    },
+    {
+      "id": 6049859275,
+      "repository": "hanzoai/agents",
+      "title": "Make the agent counts in README.md match the files",
+      "url": "https://github.com/hanzoai/agents/issues/8",
+      "created_at": "2026-10-26T23:17:15Z"
+    },
+    {
+      "id": 6049858547,
+      "repository": "hanzoai/agents",
+      "title": "Fix 9 broken relative links in the examples and Go SDK READMEs",
+      "url": "https://github.com/hanzoai/agents/issues/7",
+      "created_at": "2026-10-26T23:17:11Z"
+    },
+    {
+      "id": 6049857743,
+      "repository": "hanzoai/agents",
+      "title": "Fix 103 broken relative links in the README",
+      "url": "https://github.com/hanzoai/agents/issues/6",
+      "created_at": "2026-10-26T23:17:06Z"
+    },
+    {
+      "id": 6049856044,
+      "repository": "hanzoai/mcp",
+      "title": "Make skipFor ci/headless work and count skipped tests in test-suite",
+      "url": "https://github.com/hanzoai/mcp/issues/14",
+      "created_at": "2026-10-26T23:16:57Z"
+    },
+    {
+      "id": 6049855255,
+      "repository": "hanzoai/cli",
+      "title": "Rewrite CONTRIBUTING.md for the Rust CLI; it describes a Python app",
+      "url": "https://github.com/hanzoai/cli/issues/12",
+      "created_at": "2026-10-26T23:16:53Z"
+    },
+    {
+      "id": 6049854494,
+      "repository": "hanzoai/cli",
+      "title": "Fix README commands that match no hanzo subcommand",
+      "url": "https://github.com/hanzoai/cli/issues/11",
+      "created_at": "2026-10-26T23:16:49Z"
+    },
+    {
+      "id": 6049853748,
+      "repository": "hanzoai/ci",
+      "title": "Add bin/ignoretracked_test.sh and register it in hanzo.yml",
+      "url": "https://github.com/hanzoai/ci/issues/13",
+      "created_at": "2026-10-26T23:16:45Z"
+    },
+    {
+      "id": 6049852992,
+      "repository": "hanzoai/ci",
+      "title": "Add bin/modsize_test.sh and register it in hanzo.yml",
+      "url": "https://github.com/hanzoai/ci/issues/12",
+      "created_at": "2026-10-26T23:16:41Z"
+    },
+    {
+      "id": 6049852134,
+      "repository": "hanzoai/orm",
+      "title": "Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString",
+      "url": "https://github.com/hanzoai/orm/issues/8",
+      "created_at": "2026-10-26T23:16:36Z"
+    },
+    {
+      "id": 6049851354,
+      "repository": "hanzoai/orm",
+      "title": "Fix the README docs link and complete the Packages table",
+      "url": "https://github.com/hanzoai/orm/issues/7",
+      "created_at": "2026-10-26T23:16:32Z"
+    },
+    {
+      "id": 6049850555,
+      "repository": "hanzoai/orm",
+      "title": "Fix the README Validation example: val.NewValidator does not exist",
+      "url": "https://github.com/hanzoai/orm/issues/6",
+      "created_at": "2026-10-26T23:16:28Z"
+    },
+    {
+      "id": 6049849725,
+      "repository": "hanzoai/sqlite",
+      "title": "Add tests for the Option constructors and DB.Encrypted",
+      "url": "https://github.com/hanzoai/sqlite/issues/4",
+      "created_at": "2026-10-26T23:16:23Z"
+    },
+    {
+      "id": 6049847425,
+      "repository": "hanzoai/sqlite",
+      "title": "Fix README: it documents sqlite APIs that do not exist",
+      "url": "https://github.com/hanzoai/sqlite/issues/3",
+      "created_at": "2026-10-26T23:16:12Z"
+    },
     {
       "id": 6047524218,
       "repository": "alfrexo95/bounty-bot",
@@ -75,146 +215,6 @@
       "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/45",
       "created_at": "2026-10-26T04:12:19Z"
-    },
-    {
-      "id": 6030951747,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-26T00:09",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1335",
-      "created_at": "2026-10-26T00:09:53Z"
-    },
-    {
-      "id": 6030416754,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/44",
-      "created_at": "2026-10-25T23:06:59Z"
-    },
-    {
-      "id": 6029650615,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-25T21:40",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1333",
-      "created_at": "2026-10-25T21:40:23Z"
-    },
-    {
-      "id": 6029052864,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/43",
-      "created_at": "2026-10-25T20:39:26Z"
-    },
-    {
-      "id": 6028075606,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-25T18:56",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1331",
-      "created_at": "2026-10-25T18:56:39Z"
-    },
-    {
-      "id": 6026417530,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-25T16:02",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1329",
-      "created_at": "2026-10-25T16:02:35Z"
-    },
-    {
-      "id": 6026318065,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/42",
-      "created_at": "2026-10-25T15:52:42Z"
-    },
-    {
-      "id": 6023717075,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/37",
-      "created_at": "2026-10-25T11:04:35Z"
-    },
-    {
-      "id": 6020699306,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] \ud83d\udd0c 2,",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/31",
-      "created_at": "2026-10-25T04:08:21Z"
-    },
-    {
-      "id": 6019191244,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [STEAM VAULT] \ud83c\udfae Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4114",
-      "created_at": "2026-10-25T00:27:07Z"
-    },
-    {
-      "id": 6019191166,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [STEAM VAULT] \ud83c\udfae Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4113",
-      "created_at": "2026-10-25T00:27:06Z"
-    },
-    {
-      "id": 6018571052,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] \ud83d\udd0c 2,000 DOOM ($wDOOM on Base) \u2014 In",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/30",
-      "created_at": "2026-10-24T23:02:10Z"
-    },
-    {
-      "id": 6017814730,
-      "repository": "auscaster/frantic-board",
-      "title": "Frantic bounty #138: Find a live HTTP 402 endpoint that prices in Nano (XNO)",
-      "url": "https://github.com/auscaster/frantic-board/issues/558",
-      "created_at": "2026-10-24T21:29:48Z"
-    },
-    {
-      "id": 6017814234,
-      "repository": "auscaster/frantic-board",
-      "title": "Frantic bounty #137: Protocol conformance audit: izanami-916.github.io/protocol.html vs the live ask rail",
-      "url": "https://github.com/auscaster/frantic-board/issues/557",
-      "created_at": "2026-10-24T21:29:44Z"
-    },
-    {
-      "id": 6014202777,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$100): \ud83d\udcb0 Bounty Seguro ($$100): [Bounty] \ud83d\udcb0 Bounty Seguro ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4110",
-      "created_at": "2026-10-24T14:52:08Z"
-    },
-    {
-      "id": 6013302485,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$100): \ud83d\udcb0 Bounty Seguro ($$100): [Bounty] \ud83d\udcb0 Bounty Seguro ",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/28",
-      "created_at": "2026-10-24T13:12:36Z"
-    },
-    {
-      "id": 6012131420,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-24T10:49",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1327",
-      "created_at": "2026-10-24T10:49:16Z"
-    },
-    {
-      "id": 6010805059,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$100): [Bounty] \ud83d\udcb0 Bounty Seguro ($$100): [Bounty] USDC-qu",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/27",
-      "created_at": "2026-10-24T07:59:32Z"
-    },
-    {
-      "id": 6010161728,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109",
-      "created_at": "2026-10-24T06:31:48Z"
-    },
-    {
-      "id": 6007774119,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/21",
-      "created_at": "2026-10-24T01:01:40Z"
     }
   ]
 }
