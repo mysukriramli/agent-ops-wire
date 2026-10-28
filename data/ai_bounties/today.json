@@ -1,11 +1,32 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-28T12:16:58.514189+00:00",
+    "generated_at": "2026-10-28T22:18:08.100965+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6086638331,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$250): \ud83d\udcb0 Bounty Seguro ($$250): [Bounty] \ud83d\udcb0 Bounty Seguro ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/56",
+      "created_at": "2026-10-28T20:10:07Z"
+    },
+    {
+      "id": 6083164602,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Run a real crash through fatal-guard and post the tombstone + the draft it produced",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4013",
+      "created_at": "2026-10-28T16:31:50Z"
+    },
+    {
+      "id": 6078960654,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$250): [Bounty] \ud83d\udcb0 Bounty Seguro ($$250): [Bounty] Preserv",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/54",
+      "created_at": "2026-10-28T12:31:14Z"
+    },
     {
       "id": 6074432983,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
@@ -42,17 +63,17 @@
       "created_at": "2026-10-27T22:00:21Z"
     },
     {
-      "id": 6064993522,
-      "repository": "WholeTroutMedia/oss-verification-sandbox",
-      "title": "Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`",
-      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1",
-      "created_at": "2026-10-27T18:08:12Z"
-    },
-    {
       "id": 6064993649,
       "repository": "WholeTroutMedia/oss-verification-sandbox",
       "title": "Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull",
       "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2",
+      "created_at": "2026-10-27T18:08:12Z"
+    },
+    {
+      "id": 6064993522,
+      "repository": "WholeTroutMedia/oss-verification-sandbox",
+      "title": "Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`",
+      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1",
       "created_at": "2026-10-27T18:08:12Z"
     },
     {
@@ -194,27 +215,6 @@
       "title": "Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString",
       "url": "https://github.com/hanzoai/orm/issues/8",
       "created_at": "2026-10-26T23:16:36Z"
-    },
-    {
-      "id": 6049849725,
-      "repository": "hanzoai/sqlite",
-      "title": "Add tests for the Option constructors and DB.Encrypted",
-      "url": "https://github.com/hanzoai/sqlite/issues/4",
-      "created_at": "2026-10-26T23:16:23Z"
-    },
-    {
-      "id": 6049847425,
-      "repository": "hanzoai/sqlite",
-      "title": "Fix README: it documents sqlite APIs that do not exist",
-      "url": "https://github.com/hanzoai/sqlite/issues/3",
-      "created_at": "2026-10-26T23:16:12Z"
-    },
-    {
-      "id": 6047524218,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83e\ude99 [Web3] feat(mobile): add offline storage and que",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/48",
-      "created_at": "2026-10-26T20:23:08Z"
     }
   ]
 }
