@@ -1,8 +1,11 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
-- **WholeTroutMedia/oss-verification-sandbox**: [Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2) (Opened: 2026-10-27T18:08:12Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4142) (Opened: 2026-10-27T22:13:25Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4143) (Opened: 2026-10-27T22:13:25Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/52) (Opened: 2026-10-27T22:00:21Z)
 - **WholeTroutMedia/oss-verification-sandbox**: [Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1) (Opened: 2026-10-27T18:08:12Z)
+- **WholeTroutMedia/oss-verification-sandbox**: [Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2) (Opened: 2026-10-27T18:08:12Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/51) (Opened: 2026-10-27T15:14:59Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T12:01](https://github.com/relayhop/sn-monetization-runtime/issues/1344) (Opened: 2026-10-27T12:01:01Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T10:25](https://github.com/relayhop/sn-monetization-runtime/issues/1343) (Opened: 2026-10-27T10:25:03Z)
@@ -20,12 +23,9 @@
 - **hanzoai/agents**: [Fix 103 broken relative links in the README](https://github.com/hanzoai/agents/issues/6) (Opened: 2026-10-26T23:17:06Z)
 - **hanzoai/mcp**: [Make skipFor ci/headless work and count skipped tests in test-suite](https://github.com/hanzoai/mcp/issues/14) (Opened: 2026-10-26T23:16:57Z)
 - **hanzoai/cli**: [Rewrite CONTRIBUTING.md for the Rust CLI; it describes a Python app](https://github.com/hanzoai/cli/issues/12) (Opened: 2026-10-26T23:16:53Z)
-- **hanzoai/cli**: [Fix README commands that match no hanzo subcommand](https://github.com/hanzoai/cli/issues/11) (Opened: 2026-10-26T23:16:49Z)
 - **hanzoai/ci**: [Add bin/ignoretracked_test.sh and register it in hanzo.yml](https://github.com/hanzoai/ci/issues/13) (Opened: 2026-10-26T23:16:45Z)
 - **hanzoai/ci**: [Add bin/modsize_test.sh and register it in hanzo.yml](https://github.com/hanzoai/ci/issues/12) (Opened: 2026-10-26T23:16:41Z)
 - **hanzoai/orm**: [Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString](https://github.com/hanzoai/orm/issues/8) (Opened: 2026-10-26T23:16:36Z)
-- **hanzoai/orm**: [Fix the README docs link and complete the Packages table](https://github.com/hanzoai/orm/issues/7) (Opened: 2026-10-26T23:16:32Z)
-- **hanzoai/orm**: [Fix the README Validation example: val.NewValidator does not exist](https://github.com/hanzoai/orm/issues/6) (Opened: 2026-10-26T23:16:28Z)
 - **hanzoai/sqlite**: [Add tests for the Option constructors and DB.Encrypted](https://github.com/hanzoai/sqlite/issues/4) (Opened: 2026-10-26T23:16:23Z)
 - **hanzoai/sqlite**: [Fix README: it documents sqlite APIs that do not exist](https://github.com/hanzoai/sqlite/issues/3) (Opened: 2026-10-26T23:16:12Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 🪙 [Web3] feat(mobile): add offline storage and que](https://github.com/alfrexo95/bounty-bot/issues/48) (Opened: 2026-10-26T20:23:08Z)
