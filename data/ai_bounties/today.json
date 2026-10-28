@@ -1,11 +1,25 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-28T04:30:10.702972+00:00",
+    "generated_at": "2026-10-28T12:16:58.514189+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6074432983,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152",
+      "created_at": "2026-10-28T07:17:25Z"
+    },
+    {
+      "id": 6072952525,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/53",
+      "created_at": "2026-10-28T05:03:16Z"
+    },
     {
       "id": 6068643678,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
@@ -201,20 +215,6 @@
       "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83e\ude99 [Web3] feat(mobile): add offline storage and que",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/48",
       "created_at": "2026-10-26T20:23:08Z"
-    },
-    {
-      "id": 6046438098,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-26T19:11",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1340",
-      "created_at": "2026-10-26T19:11:09Z"
-    },
-    {
-      "id": 6043093442,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83e\ude99 [Web3] feat(mobile): add offline storage and queue sync f",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/47",
-      "created_at": "2026-10-26T15:45:45Z"
     }
   ]
 }
