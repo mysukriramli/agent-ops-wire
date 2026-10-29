@@ -1,6 +1,9 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-Hea](https://github.com/alfrexo95/bounty-bot/issues/64) (Opened: 2026-10-29T18:18:54Z)
+- **alfrexo95/bounty-bot**: [🪙 [Web3] bounty: [level:critical] Agentic Self-Healing Acti](https://github.com/alfrexo95/bounty-bot/issues/63) (Opened: 2026-10-29T17:55:31Z)
+- **alfrexo95/bounty-bot**: [🪙 [Web3] bounty: [level:critical] Predictive SLA Breach For](https://github.com/alfrexo95/bounty-bot/issues/62) (Opened: 2026-10-29T17:55:30Z)
 - **riteshbonthalakoti/HELPDESK.AI**: [bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Balancing Engine](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4116) (Opened: 2026-10-29T12:14:48Z)
 - **riteshbonthalakoti/HELPDESK.AI**: [bounty: [level:critical] Agentic Self-Healing Actions Engine: Sandboxed Playbook Execution for Automated Deflection](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4115) (Opened: 2026-10-29T12:14:44Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount](https://github.com/alfrexo95/bounty-bot/issues/60) (Opened: 2026-10-29T09:42:07Z)
@@ -28,6 +31,3 @@
 - **hanzo-go/lz4**: [Point the README install steps and badges at hanzo.ai/lz4/v4](https://github.com/hanzo-go/lz4/issues/1) (Opened: 2026-10-26T23:17:36Z)
 - **hanzoai/ui**: [List only the hooks @hanzo/react exports; delete 9 empty hook files](https://github.com/hanzoai/ui/issues/257) (Opened: 2026-10-26T23:17:28Z)
 - **hanzoai/agents**: [Return 500, not 404, when node details fail for another reason](https://github.com/hanzoai/agents/issues/10) (Opened: 2026-10-26T23:17:24Z)
-- **hanzoai/agents**: [Honor the lines argument in MCPManager.Logs](https://github.com/hanzoai/agents/issues/9) (Opened: 2026-10-26T23:17:20Z)
-- **hanzoai/agents**: [Make the agent counts in README.md match the files](https://github.com/hanzoai/agents/issues/8) (Opened: 2026-10-26T23:17:15Z)
-- **hanzoai/agents**: [Fix 9 broken relative links in the examples and Go SDK READMEs](https://github.com/hanzoai/agents/issues/7) (Opened: 2026-10-26T23:17:11Z)

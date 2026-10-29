@@ -1,11 +1,32 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-29T12:26:53.345073+00:00",
+    "generated_at": "2026-10-29T22:31:11.491701+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6105889807,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83e\ude99 [Web3] bounty: [level:critical] Agentic Self-Hea",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/64",
+      "created_at": "2026-10-29T18:18:54Z"
+    },
+    {
+      "id": 6105518029,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] bounty: [level:critical] Agentic Self-Healing Acti",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/63",
+      "created_at": "2026-10-29T17:55:31Z"
+    },
+    {
+      "id": 6105517697,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] bounty: [level:critical] Predictive SLA Breach For",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/62",
+      "created_at": "2026-10-29T17:55:30Z"
+    },
     {
       "id": 6099409239,
       "repository": "riteshbonthalakoti/HELPDESK.AI",
@@ -194,27 +215,6 @@
       "title": "Return 500, not 404, when node details fail for another reason",
       "url": "https://github.com/hanzoai/agents/issues/10",
       "created_at": "2026-10-26T23:17:24Z"
-    },
-    {
-      "id": 6049860242,
-      "repository": "hanzoai/agents",
-      "title": "Honor the lines argument in MCPManager.Logs",
-      "url": "https://github.com/hanzoai/agents/issues/9",
-      "created_at": "2026-10-26T23:17:20Z"
-    },
-    {
-      "id": 6049859275,
-      "repository": "hanzoai/agents",
-      "title": "Make the agent counts in README.md match the files",
-      "url": "https://github.com/hanzoai/agents/issues/8",
-      "created_at": "2026-10-26T23:17:15Z"
-    },
-    {
-      "id": 6049858547,
-      "repository": "hanzoai/agents",
-      "title": "Fix 9 broken relative links in the examples and Go SDK READMEs",
-      "url": "https://github.com/hanzoai/agents/issues/7",
-      "created_at": "2026-10-26T23:17:11Z"
     }
   ]
 }
