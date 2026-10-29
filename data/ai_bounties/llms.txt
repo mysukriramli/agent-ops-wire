@@ -1,6 +1,9 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **riteshbonthalakoti/HELPDESK.AI**: [bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Balancing Engine](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4116) (Opened: 2026-10-29T12:14:48Z)
+- **riteshbonthalakoti/HELPDESK.AI**: [bounty: [level:critical] Agentic Self-Healing Actions Engine: Sandboxed Playbook Execution for Automated Deflection](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4115) (Opened: 2026-10-29T12:14:44Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount](https://github.com/alfrexo95/bounty-bot/issues/60) (Opened: 2026-10-29T09:42:07Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4171) (Opened: 2026-10-29T02:48:01Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/58) (Opened: 2026-10-29T00:42:09Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4168) (Opened: 2026-10-28T23:31:12Z)
@@ -12,8 +15,8 @@
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4142) (Opened: 2026-10-27T22:13:25Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4143) (Opened: 2026-10-27T22:13:25Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/52) (Opened: 2026-10-27T22:00:21Z)
-- **WholeTroutMedia/oss-verification-sandbox**: [Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2) (Opened: 2026-10-27T18:08:12Z)
 - **WholeTroutMedia/oss-verification-sandbox**: [Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1) (Opened: 2026-10-27T18:08:12Z)
+- **WholeTroutMedia/oss-verification-sandbox**: [Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2) (Opened: 2026-10-27T18:08:12Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/51) (Opened: 2026-10-27T15:14:59Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T12:01](https://github.com/relayhop/sn-monetization-runtime/issues/1344) (Opened: 2026-10-27T12:01:01Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T10:25](https://github.com/relayhop/sn-monetization-runtime/issues/1343) (Opened: 2026-10-27T10:25:03Z)
@@ -28,6 +31,3 @@
 - **hanzoai/agents**: [Honor the lines argument in MCPManager.Logs](https://github.com/hanzoai/agents/issues/9) (Opened: 2026-10-26T23:17:20Z)
 - **hanzoai/agents**: [Make the agent counts in README.md match the files](https://github.com/hanzoai/agents/issues/8) (Opened: 2026-10-26T23:17:15Z)
 - **hanzoai/agents**: [Fix 9 broken relative links in the examples and Go SDK READMEs](https://github.com/hanzoai/agents/issues/7) (Opened: 2026-10-26T23:17:11Z)
-- **hanzoai/agents**: [Fix 103 broken relative links in the README](https://github.com/hanzoai/agents/issues/6) (Opened: 2026-10-26T23:17:06Z)
-- **hanzoai/mcp**: [Make skipFor ci/headless work and count skipped tests in test-suite](https://github.com/hanzoai/mcp/issues/14) (Opened: 2026-10-26T23:16:57Z)
-- **hanzoai/cli**: [Rewrite CONTRIBUTING.md for the Rust CLI; it describes a Python app](https://github.com/hanzoai/cli/issues/12) (Opened: 2026-10-26T23:16:53Z)
