@@ -1,6 +1,9 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4171) (Opened: 2026-10-29T02:48:01Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/58) (Opened: 2026-10-29T00:42:09Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4168) (Opened: 2026-10-28T23:31:12Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/56) (Opened: 2026-10-28T20:10:07Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Run a real crash through fatal-guard and post the tombstone + the draft it produced](https://github.com/Ikalus1988/MisakaNet/issues/4013) (Opened: 2026-10-28T16:31:50Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv](https://github.com/alfrexo95/bounty-bot/issues/54) (Opened: 2026-10-28T12:31:14Z)
@@ -28,6 +31,3 @@
 - **hanzoai/agents**: [Fix 103 broken relative links in the README](https://github.com/hanzoai/agents/issues/6) (Opened: 2026-10-26T23:17:06Z)
 - **hanzoai/mcp**: [Make skipFor ci/headless work and count skipped tests in test-suite](https://github.com/hanzoai/mcp/issues/14) (Opened: 2026-10-26T23:16:57Z)
 - **hanzoai/cli**: [Rewrite CONTRIBUTING.md for the Rust CLI; it describes a Python app](https://github.com/hanzoai/cli/issues/12) (Opened: 2026-10-26T23:16:53Z)
-- **hanzoai/ci**: [Add bin/ignoretracked_test.sh and register it in hanzo.yml](https://github.com/hanzoai/ci/issues/13) (Opened: 2026-10-26T23:16:45Z)
-- **hanzoai/ci**: [Add bin/modsize_test.sh and register it in hanzo.yml](https://github.com/hanzoai/ci/issues/12) (Opened: 2026-10-26T23:16:41Z)
-- **hanzoai/orm**: [Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString](https://github.com/hanzoai/orm/issues/8) (Opened: 2026-10-26T23:16:36Z)
