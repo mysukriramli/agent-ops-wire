@@ -1,6 +1,7 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [le](https://github.com/alfrexo95/bounty-bot/issues/65) (Opened: 2026-10-30T00:42:47Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-Hea](https://github.com/alfrexo95/bounty-bot/issues/64) (Opened: 2026-10-29T18:18:54Z)
 - **alfrexo95/bounty-bot**: [🪙 [Web3] bounty: [level:critical] Agentic Self-Healing Acti](https://github.com/alfrexo95/bounty-bot/issues/63) (Opened: 2026-10-29T17:55:31Z)
 - **alfrexo95/bounty-bot**: [🪙 [Web3] bounty: [level:critical] Predictive SLA Breach For](https://github.com/alfrexo95/bounty-bot/issues/62) (Opened: 2026-10-29T17:55:30Z)
@@ -18,8 +19,8 @@
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4142) (Opened: 2026-10-27T22:13:25Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4143) (Opened: 2026-10-27T22:13:25Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/52) (Opened: 2026-10-27T22:00:21Z)
-- **WholeTroutMedia/oss-verification-sandbox**: [Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1) (Opened: 2026-10-27T18:08:12Z)
 - **WholeTroutMedia/oss-verification-sandbox**: [Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2) (Opened: 2026-10-27T18:08:12Z)
+- **WholeTroutMedia/oss-verification-sandbox**: [Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1) (Opened: 2026-10-27T18:08:12Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/51) (Opened: 2026-10-27T15:14:59Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T12:01](https://github.com/relayhop/sn-monetization-runtime/issues/1344) (Opened: 2026-10-27T12:01:01Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T10:25](https://github.com/relayhop/sn-monetization-runtime/issues/1343) (Opened: 2026-10-27T10:25:03Z)
@@ -30,4 +31,3 @@
 - **hanzo-js/sdk**: [Add the LICENSE file the README links to](https://github.com/hanzo-js/sdk/issues/1) (Opened: 2026-10-26T23:17:41Z)
 - **hanzo-go/lz4**: [Point the README install steps and badges at hanzo.ai/lz4/v4](https://github.com/hanzo-go/lz4/issues/1) (Opened: 2026-10-26T23:17:36Z)
 - **hanzoai/ui**: [List only the hooks @hanzo/react exports; delete 9 empty hook files](https://github.com/hanzoai/ui/issues/257) (Opened: 2026-10-26T23:17:28Z)
-- **hanzoai/agents**: [Return 500, not 404, when node details fail for another reason](https://github.com/hanzoai/agents/issues/10) (Opened: 2026-10-26T23:17:24Z)
