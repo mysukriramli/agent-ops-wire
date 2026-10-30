@@ -1,11 +1,53 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-30T12:18:37.724117+00:00",
+    "generated_at": "2026-10-30T21:59:44.209941+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6125178549,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4187",
+      "created_at": "2026-10-30T18:53:56Z"
+    },
+    {
+      "id": 6124262561,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/67",
+      "created_at": "2026-10-30T17:53:56Z"
+    },
+    {
+      "id": 6123253591,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4134",
+      "created_at": "2026-10-30T16:47:43Z"
+    },
+    {
+      "id": 6123253150,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4133",
+      "created_at": "2026-10-30T16:47:41Z"
+    },
+    {
+      "id": 6123251321,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4132",
+      "created_at": "2026-10-30T16:47:34Z"
+    },
+    {
+      "id": 6119967673,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4117",
+      "created_at": "2026-10-30T13:28:43Z"
+    },
     {
       "id": 6116826096,
       "repository": "alfrexo95/bounty-bot",
@@ -126,17 +168,17 @@
       "created_at": "2026-10-27T22:00:21Z"
     },
     {
-      "id": 6064993649,
-      "repository": "WholeTroutMedia/oss-verification-sandbox",
-      "title": "Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull",
-      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2",
-      "created_at": "2026-10-27T18:08:12Z"
-    },
-    {
       "id": 6064993522,
       "repository": "WholeTroutMedia/oss-verification-sandbox",
       "title": "Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`",
       "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1",
+      "created_at": "2026-10-27T18:08:12Z"
+    },
+    {
+      "id": 6064993649,
+      "repository": "WholeTroutMedia/oss-verification-sandbox",
+      "title": "Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull",
+      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2",
       "created_at": "2026-10-27T18:08:12Z"
     },
     {
@@ -173,48 +215,6 @@
       "title": "[radar] SN open bounty 2026-10-27T04:52",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1342",
       "created_at": "2026-10-27T04:52:16Z"
-    },
-    {
-      "id": 6050505886,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83e\ude99 [Web3] feat(mobile",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/49",
-      "created_at": "2026-10-27T00:18:18Z"
-    },
-    {
-      "id": 6050183860,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-26T23:46",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1341",
-      "created_at": "2026-10-26T23:46:22Z"
-    },
-    {
-      "id": 6049864386,
-      "repository": "hanzo-js/sdk",
-      "title": "Add the LICENSE file the README links to",
-      "url": "https://github.com/hanzo-js/sdk/issues/1",
-      "created_at": "2026-10-26T23:17:41Z"
-    },
-    {
-      "id": 6049863565,
-      "repository": "hanzo-go/lz4",
-      "title": "Point the README install steps and badges at hanzo.ai/lz4/v4",
-      "url": "https://github.com/hanzo-go/lz4/issues/1",
-      "created_at": "2026-10-26T23:17:36Z"
-    },
-    {
-      "id": 6049861923,
-      "repository": "hanzoai/ui",
-      "title": "List only the hooks @hanzo/react exports; delete 9 empty hook files",
-      "url": "https://github.com/hanzoai/ui/issues/257",
-      "created_at": "2026-10-26T23:17:28Z"
-    },
-    {
-      "id": 6049861069,
-      "repository": "hanzoai/agents",
-      "title": "Return 500, not 404, when node details fail for another reason",
-      "url": "https://github.com/hanzoai/agents/issues/10",
-      "created_at": "2026-10-26T23:17:24Z"
     }
   ]
 }
