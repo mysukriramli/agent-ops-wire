@@ -1,11 +1,18 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-31T04:30:06.744739+00:00",
+    "generated_at": "2026-10-31T11:49:14.055436+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6131350727,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] [Bounty",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/69",
+      "created_at": "2026-10-31T04:58:34Z"
+    },
     {
       "id": 6128167043,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
@@ -189,17 +196,17 @@
       "created_at": "2026-10-27T22:00:21Z"
     },
     {
-      "id": 6064993649,
-      "repository": "WholeTroutMedia/oss-verification-sandbox",
-      "title": "Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull",
-      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2",
-      "created_at": "2026-10-27T18:08:12Z"
-    },
-    {
       "id": 6064993522,
       "repository": "WholeTroutMedia/oss-verification-sandbox",
       "title": "Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`",
       "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1",
+      "created_at": "2026-10-27T18:08:12Z"
+    },
+    {
+      "id": 6064993649,
+      "repository": "WholeTroutMedia/oss-verification-sandbox",
+      "title": "Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull",
+      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2",
       "created_at": "2026-10-27T18:08:12Z"
     },
     {
@@ -208,13 +215,6 @@
       "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/51",
       "created_at": "2026-10-27T15:14:59Z"
-    },
-    {
-      "id": 6058761459,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-27T12:01",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1344",
-      "created_at": "2026-10-27T12:01:01Z"
     }
   ]
 }

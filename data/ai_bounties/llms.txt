@@ -1,6 +1,7 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty](https://github.com/alfrexo95/bounty-bot/issues/69) (Opened: 2026-10-31T04:58:34Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4188) (Opened: 2026-10-30T22:49:56Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred](https://github.com/alfrexo95/bounty-bot/issues/68) (Opened: 2026-10-30T22:08:13Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4187) (Opened: 2026-10-30T18:53:56Z)
@@ -27,7 +28,6 @@
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4142) (Opened: 2026-10-27T22:13:25Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4143) (Opened: 2026-10-27T22:13:25Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/52) (Opened: 2026-10-27T22:00:21Z)
-- **WholeTroutMedia/oss-verification-sandbox**: [Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2) (Opened: 2026-10-27T18:08:12Z)
 - **WholeTroutMedia/oss-verification-sandbox**: [Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1) (Opened: 2026-10-27T18:08:12Z)
+- **WholeTroutMedia/oss-verification-sandbox**: [Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2) (Opened: 2026-10-27T18:08:12Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/51) (Opened: 2026-10-27T15:14:59Z)
-- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T12:01](https://github.com/relayhop/sn-monetization-runtime/issues/1344) (Opened: 2026-10-27T12:01:01Z)
