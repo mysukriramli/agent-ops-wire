@@ -1,6 +1,8 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4191) (Opened: 2026-10-31T18:45:12Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/71) (Opened: 2026-10-31T17:13:25Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4190) (Opened: 2026-10-31T14:36:54Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-31T12:13](https://github.com/relayhop/sn-monetization-runtime/issues/1346) (Opened: 2026-10-31T12:13:27Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-31T12:12](https://github.com/relayhop/sn-monetization-runtime/issues/1345) (Opened: 2026-10-31T12:12:21Z)
@@ -29,5 +31,3 @@
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv](https://github.com/alfrexo95/bounty-bot/issues/54) (Opened: 2026-10-28T12:31:14Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152) (Opened: 2026-10-28T07:17:25Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author](https://github.com/alfrexo95/bounty-bot/issues/53) (Opened: 2026-10-28T05:03:16Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4142) (Opened: 2026-10-27T22:13:25Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4143) (Opened: 2026-10-27T22:13:25Z)
