@@ -1,11 +1,39 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-31T11:49:14.055436+00:00",
+    "generated_at": "2026-10-31T16:56:42.408309+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6136033448,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4190",
+      "created_at": "2026-10-31T14:36:54Z"
+    },
+    {
+      "id": 6134668905,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-31T12:13",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1346",
+      "created_at": "2026-10-31T12:13:27Z"
+    },
+    {
+      "id": 6134658663,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-31T12:12",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1345",
+      "created_at": "2026-10-31T12:12:21Z"
+    },
+    {
+      "id": 6134542034,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/70",
+      "created_at": "2026-10-31T11:59:16Z"
+    },
     {
       "id": 6131350727,
       "repository": "alfrexo95/bounty-bot",
@@ -187,34 +215,6 @@
       "title": "[Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4143",
       "created_at": "2026-10-27T22:13:25Z"
-    },
-    {
-      "id": 6068469684,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/52",
-      "created_at": "2026-10-27T22:00:21Z"
-    },
-    {
-      "id": 6064993522,
-      "repository": "WholeTroutMedia/oss-verification-sandbox",
-      "title": "Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`",
-      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1",
-      "created_at": "2026-10-27T18:08:12Z"
-    },
-    {
-      "id": 6064993649,
-      "repository": "WholeTroutMedia/oss-verification-sandbox",
-      "title": "Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull",
-      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2",
-      "created_at": "2026-10-27T18:08:12Z"
-    },
-    {
-      "id": 6062085427,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/51",
-      "created_at": "2026-10-27T15:14:59Z"
     }
   ]
 }
