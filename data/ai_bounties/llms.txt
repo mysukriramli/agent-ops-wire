@@ -1,7 +1,10 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4188) (Opened: 2026-10-30T22:49:56Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred](https://github.com/alfrexo95/bounty-bot/issues/68) (Opened: 2026-10-30T22:08:13Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4187) (Opened: 2026-10-30T18:53:56Z)
+- **Ikalus1988/MisakaNet**: [[Good first issue · Nov 2026] Cover an environment nobody has — one real failure from Cursor / Gemini CLI / Copilot / OpenCode / Kiro / Hermes / OpenClaw / codewhale](https://github.com/Ikalus1988/MisakaNet/issues/4187) (Opened: 2026-10-30T18:11:31Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/67) (Opened: 2026-10-30T17:53:56Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4134) (Opened: 2026-10-30T16:47:43Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4133) (Opened: 2026-10-30T16:47:41Z)
@@ -24,10 +27,7 @@
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4142) (Opened: 2026-10-27T22:13:25Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4143) (Opened: 2026-10-27T22:13:25Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/52) (Opened: 2026-10-27T22:00:21Z)
-- **WholeTroutMedia/oss-verification-sandbox**: [Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1) (Opened: 2026-10-27T18:08:12Z)
 - **WholeTroutMedia/oss-verification-sandbox**: [Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2) (Opened: 2026-10-27T18:08:12Z)
+- **WholeTroutMedia/oss-verification-sandbox**: [Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1) (Opened: 2026-10-27T18:08:12Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/51) (Opened: 2026-10-27T15:14:59Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T12:01](https://github.com/relayhop/sn-monetization-runtime/issues/1344) (Opened: 2026-10-27T12:01:01Z)
-- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T10:25](https://github.com/relayhop/sn-monetization-runtime/issues/1343) (Opened: 2026-10-27T10:25:03Z)
-- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/50) (Opened: 2026-10-27T08:49:17Z)
-- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-10-27T04:52](https://github.com/relayhop/sn-monetization-runtime/issues/1342) (Opened: 2026-10-27T04:52:16Z)

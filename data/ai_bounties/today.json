@@ -1,17 +1,38 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-10-30T21:59:44.209941+00:00",
+    "generated_at": "2026-10-31T04:30:06.744739+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6128167043,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4188",
+      "created_at": "2026-10-30T22:49:56Z"
+    },
+    {
+      "id": 6127708839,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/68",
+      "created_at": "2026-10-30T22:08:13Z"
+    },
     {
       "id": 6125178549,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "title": "[Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4187",
       "created_at": "2026-10-30T18:53:56Z"
+    },
+    {
+      "id": 6124537790,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Good first issue \u00b7 Nov 2026] Cover an environment nobody has \u2014 one real failure from Cursor / Gemini CLI / Copilot / OpenCode / Kiro / Hermes / OpenClaw / codewhale",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4187",
+      "created_at": "2026-10-30T18:11:31Z"
     },
     {
       "id": 6124262561,
@@ -168,17 +189,17 @@
       "created_at": "2026-10-27T22:00:21Z"
     },
     {
-      "id": 6064993522,
-      "repository": "WholeTroutMedia/oss-verification-sandbox",
-      "title": "Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`",
-      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1",
-      "created_at": "2026-10-27T18:08:12Z"
-    },
-    {
       "id": 6064993649,
       "repository": "WholeTroutMedia/oss-verification-sandbox",
       "title": "Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull",
       "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2",
+      "created_at": "2026-10-27T18:08:12Z"
+    },
+    {
+      "id": 6064993522,
+      "repository": "WholeTroutMedia/oss-verification-sandbox",
+      "title": "Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`",
+      "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1",
       "created_at": "2026-10-27T18:08:12Z"
     },
     {
@@ -194,27 +215,6 @@
       "title": "[radar] SN open bounty 2026-10-27T12:01",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1344",
       "created_at": "2026-10-27T12:01:01Z"
-    },
-    {
-      "id": 6057331751,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-27T10:25",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1343",
-      "created_at": "2026-10-27T10:25:03Z"
-    },
-    {
-      "id": 6055893438,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/50",
-      "created_at": "2026-10-27T08:49:17Z"
-    },
-    {
-      "id": 6053098118,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-27T04:52",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1342",
-      "created_at": "2026-10-27T04:52:16Z"
     }
   ]
 }
