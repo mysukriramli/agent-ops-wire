@@ -1,6 +1,14 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-01T19:32](https://github.com/relayhop/sn-monetization-runtime/issues/1349) (Opened: 2026-11-01T19:32:21Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount](https://github.com/alfrexo95/bounty-bot/issues/75) (Opened: 2026-11-01T19:26:55Z)
+- **SPLURT-Station/S.P.L.U.R.T-tg**: [[BOUNTY] Suggestion #1301](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1383) (Opened: 2026-11-01T15:01:15Z)
+- **SPLURT-Station/S.P.L.U.R.T-tg**: [[BOUNTY] Suggestion #1298](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1382) (Opened: 2026-11-01T15:00:35Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-01T14:58](https://github.com/relayhop/sn-monetization-runtime/issues/1348) (Opened: 2026-11-01T14:58:35Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4198) (Opened: 2026-11-01T14:24:16Z)
+- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4297) (Opened: 2026-11-01T13:45:37Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/74) (Opened: 2026-11-01T12:59:41Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4197) (Opened: 2026-11-01T07:21:49Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/73) (Opened: 2026-11-01T05:28:50Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount](https://github.com/alfrexo95/bounty-bot/issues/72) (Opened: 2026-10-31T21:16:45Z)
@@ -23,11 +31,3 @@
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/66) (Opened: 2026-10-30T09:48:03Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [le](https://github.com/alfrexo95/bounty-bot/issues/65) (Opened: 2026-10-30T00:42:47Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-Hea](https://github.com/alfrexo95/bounty-bot/issues/64) (Opened: 2026-10-29T18:18:54Z)
-- **alfrexo95/bounty-bot**: [🪙 [Web3] bounty: [level:critical] Agentic Self-Healing Acti](https://github.com/alfrexo95/bounty-bot/issues/63) (Opened: 2026-10-29T17:55:31Z)
-- **alfrexo95/bounty-bot**: [🪙 [Web3] bounty: [level:critical] Predictive SLA Breach For](https://github.com/alfrexo95/bounty-bot/issues/62) (Opened: 2026-10-29T17:55:30Z)
-- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount](https://github.com/alfrexo95/bounty-bot/issues/60) (Opened: 2026-10-29T09:42:07Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4171) (Opened: 2026-10-29T02:48:01Z)
-- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/58) (Opened: 2026-10-29T00:42:09Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4168) (Opened: 2026-10-28T23:31:12Z)
-- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/56) (Opened: 2026-10-28T20:10:07Z)
-- **Ikalus1988/MisakaNet**: [[Bounty] Run a real crash through fatal-guard and post the tombstone + the draft it produced](https://github.com/Ikalus1988/MisakaNet/issues/4013) (Opened: 2026-10-28T16:31:50Z)
