@@ -1,11 +1,25 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-01T04:50:53.535928+00:00",
+    "generated_at": "2026-11-01T12:49:23.787017+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6144409872,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4197",
+      "created_at": "2026-11-01T07:21:49Z"
+    },
+    {
+      "id": 6143632299,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/73",
+      "created_at": "2026-11-01T05:28:50Z"
+    },
     {
       "id": 6139862134,
       "repository": "alfrexo95/bounty-bot",
@@ -201,20 +215,6 @@
       "title": "[Bounty] Run a real crash through fatal-guard and post the tombstone + the draft it produced",
       "url": "https://github.com/Ikalus1988/MisakaNet/issues/4013",
       "created_at": "2026-10-28T16:31:50Z"
-    },
-    {
-      "id": 6078960654,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$250): [Bounty] \ud83d\udcb0 Bounty Seguro ($$250): [Bounty] Preserv",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/54",
-      "created_at": "2026-10-28T12:31:14Z"
-    },
-    {
-      "id": 6074432983,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152",
-      "created_at": "2026-10-28T07:17:25Z"
     }
   ]
 }
