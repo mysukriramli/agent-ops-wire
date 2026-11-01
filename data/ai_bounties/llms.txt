@@ -1,6 +1,7 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount](https://github.com/alfrexo95/bounty-bot/issues/72) (Opened: 2026-10-31T21:16:45Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4191) (Opened: 2026-10-31T18:45:12Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/71) (Opened: 2026-10-31T17:13:25Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4190) (Opened: 2026-10-31T14:36:54Z)
@@ -30,4 +31,3 @@
 - **Ikalus1988/MisakaNet**: [[Bounty] Run a real crash through fatal-guard and post the tombstone + the draft it produced](https://github.com/Ikalus1988/MisakaNet/issues/4013) (Opened: 2026-10-28T16:31:50Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv](https://github.com/alfrexo95/bounty-bot/issues/54) (Opened: 2026-10-28T12:31:14Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152) (Opened: 2026-10-28T07:17:25Z)
-- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author](https://github.com/alfrexo95/bounty-bot/issues/53) (Opened: 2026-10-28T05:03:16Z)
