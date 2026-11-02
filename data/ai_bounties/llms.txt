@@ -1,6 +1,9 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4199) (Opened: 2026-11-02T01:54:36Z)
+- **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/76) (Opened: 2026-11-02T00:28:26Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-01T23:30](https://github.com/relayhop/sn-monetization-runtime/issues/1350) (Opened: 2026-11-01T23:30:13Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-01T19:32](https://github.com/relayhop/sn-monetization-runtime/issues/1349) (Opened: 2026-11-01T19:32:21Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount](https://github.com/alfrexo95/bounty-bot/issues/75) (Opened: 2026-11-01T19:26:55Z)
 - **SPLURT-Station/S.P.L.U.R.T-tg**: [[BOUNTY] Suggestion #1301](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1383) (Opened: 2026-11-01T15:01:15Z)
@@ -28,6 +31,3 @@
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4133) (Opened: 2026-10-30T16:47:41Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4132) (Opened: 2026-10-30T16:47:34Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4117) (Opened: 2026-10-30T13:28:43Z)
-- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver](https://github.com/alfrexo95/bounty-bot/issues/66) (Opened: 2026-10-30T09:48:03Z)
-- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [le](https://github.com/alfrexo95/bounty-bot/issues/65) (Opened: 2026-10-30T00:42:47Z)
-- **alfrexo95/bounty-bot**: [💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-Hea](https://github.com/alfrexo95/bounty-bot/issues/64) (Opened: 2026-10-29T18:18:54Z)

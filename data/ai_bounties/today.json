@@ -1,11 +1,32 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-01T21:47:01.693656+00:00",
+    "generated_at": "2026-11-02T04:52:04.776488+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6154738932,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4199",
+      "created_at": "2026-11-02T01:54:36Z"
+    },
+    {
+      "id": 6153935870,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/76",
+      "created_at": "2026-11-02T00:28:26Z"
+    },
+    {
+      "id": 6153411372,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-01T23:30",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1350",
+      "created_at": "2026-11-01T23:30:13Z"
+    },
     {
       "id": 6151132817,
       "repository": "relayhop/sn-monetization-runtime",
@@ -194,27 +215,6 @@
       "title": "[Bounty] Answer the 3 linked question(s)",
       "url": "https://github.com/Ikalus1988/MisakaNet/issues/4117",
       "created_at": "2026-10-30T13:28:43Z"
-    },
-    {
-      "id": 6116826096,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/66",
-      "created_at": "2026-10-30T09:48:03Z"
-    },
-    {
-      "id": 6111046916,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83e\ude99 [Web3] bounty: [le",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/65",
-      "created_at": "2026-10-30T00:42:47Z"
-    },
-    {
-      "id": 6105889807,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83e\ude99 [Web3] bounty: [level:critical] Agentic Self-Hea",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/64",
-      "created_at": "2026-10-29T18:18:54Z"
     }
   ]
 }
