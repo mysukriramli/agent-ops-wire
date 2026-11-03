@@ -1,11 +1,32 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-02T14:58:06.055853+00:00",
+    "generated_at": "2026-11-03T00:40:35.288992+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6172929492,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-02T23:25",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1353",
+      "created_at": "2026-11-02T23:25:57Z"
+    },
+    {
+      "id": 6169462628,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4201",
+      "created_at": "2026-11-02T19:27:42Z"
+    },
+    {
+      "id": 6165704923,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-02T15:36",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1352",
+      "created_at": "2026-11-02T15:36:17Z"
+    },
     {
       "id": 6161058061,
       "repository": "alfrexo95/bounty-bot",
@@ -194,27 +215,6 @@
       "title": "[Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4187",
       "created_at": "2026-10-30T18:53:56Z"
-    },
-    {
-      "id": 6124262561,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/67",
-      "created_at": "2026-10-30T17:53:56Z"
-    },
-    {
-      "id": 6123253591,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4134",
-      "created_at": "2026-10-30T16:47:43Z"
-    },
-    {
-      "id": 6123253150,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4133",
-      "created_at": "2026-10-30T16:47:41Z"
     }
   ]
 }
