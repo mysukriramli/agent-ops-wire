@@ -1,11 +1,12 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **auscaster/frantic-board**: [Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta.com](https://github.com/auscaster/frantic-board/issues/574) (Opened: 2026-11-03T09:15:46Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-03T06:35](https://github.com/relayhop/sn-monetization-runtime/issues/1354) (Opened: 2026-11-03T06:35:05Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-02T23:25](https://github.com/relayhop/sn-monetization-runtime/issues/1353) (Opened: 2026-11-02T23:25:57Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4201) (Opened: 2026-11-02T19:27:42Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-02T15:36](https://github.com/relayhop/sn-monetization-runtime/issues/1352) (Opened: 2026-11-02T15:36:17Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/77) (Opened: 2026-11-02T10:48:25Z)
-- **SPLURT-Station/S.P.L.U.R.T-tg**: [[BOUNTY] Suggestion #1283](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1385) (Opened: 2026-11-02T10:19:50Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-02T05:51](https://github.com/relayhop/sn-monetization-runtime/issues/1351) (Opened: 2026-11-02T05:51:16Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4199) (Opened: 2026-11-02T01:54:36Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/76) (Opened: 2026-11-02T00:28:26Z)
@@ -30,4 +31,3 @@
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty](https://github.com/alfrexo95/bounty-bot/issues/69) (Opened: 2026-10-31T04:58:34Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4188) (Opened: 2026-10-30T22:49:56Z)
 - **alfrexo95/bounty-bot**: [💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred](https://github.com/alfrexo95/bounty-bot/issues/68) (Opened: 2026-10-30T22:08:13Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4187) (Opened: 2026-10-30T18:53:56Z)
