@@ -1,11 +1,74 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-05T05:34:36.994239+00:00",
+    "generated_at": "2026-11-05T14:10:06.661398+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6223737041,
+      "repository": "WholeTroutMedia/agent-conformance-quarantine",
+      "title": "[Escrowed $450 USDC] 32-Stage Conformance Runner: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "url": "https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1",
+      "created_at": "2026-11-05T13:04:04Z"
+    },
+    {
+      "id": 6223737202,
+      "repository": "WholeTroutMedia/agent-conformance-quarantine",
+      "title": "[Escrowed $600 USDC] 32-Stage Conformance Runner: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "url": "https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/2",
+      "created_at": "2026-11-05T13:04:04Z"
+    },
+    {
+      "id": 6223736459,
+      "repository": "WholeTroutMedia/protocol-conformance-relay",
+      "title": "[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (partition_stride_dac8)",
+      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1",
+      "created_at": "2026-11-05T13:04:02Z"
+    },
+    {
+      "id": 6223736610,
+      "repository": "WholeTroutMedia/protocol-conformance-relay",
+      "title": "[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (_arbitrate_barrier_epoch_v3)",
+      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2",
+      "created_at": "2026-11-05T13:04:02Z"
+    },
+    {
+      "id": 6221768621,
+      "repository": "dsfwmmy/jarvis-delivery-selftest",
+      "title": "Add mul(a, b) to calc.py",
+      "url": "https://github.com/dsfwmmy/jarvis-delivery-selftest/issues/1",
+      "created_at": "2026-11-05T10:55:00Z"
+    },
+    {
+      "id": 6221710589,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4494",
+      "created_at": "2026-11-05T10:50:59Z"
+    },
+    {
+      "id": 6218133582,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4488",
+      "created_at": "2026-11-05T06:34:50Z"
+    },
+    {
+      "id": 6218133235,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4487",
+      "created_at": "2026-11-05T06:34:48Z"
+    },
+    {
+      "id": 6218132900,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4486",
+      "created_at": "2026-11-05T06:34:47Z"
+    },
     {
       "id": 6179620402,
       "repository": "auscaster/frantic-board",
@@ -152,69 +215,6 @@
       "title": "\ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bount",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/72",
       "created_at": "2026-10-31T21:16:45Z"
-    },
-    {
-      "id": 6138471754,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4191",
-      "created_at": "2026-10-31T18:45:12Z"
-    },
-    {
-      "id": 6137600892,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/71",
-      "created_at": "2026-10-31T17:13:25Z"
-    },
-    {
-      "id": 6136033448,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4190",
-      "created_at": "2026-10-31T14:36:54Z"
-    },
-    {
-      "id": 6134668905,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-31T12:13",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1346",
-      "created_at": "2026-10-31T12:13:27Z"
-    },
-    {
-      "id": 6134658663,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-10-31T12:12",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1345",
-      "created_at": "2026-10-31T12:12:21Z"
-    },
-    {
-      "id": 6134542034,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/70",
-      "created_at": "2026-10-31T11:59:16Z"
-    },
-    {
-      "id": 6131350727,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] [Bounty",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/69",
-      "created_at": "2026-10-31T04:58:34Z"
-    },
-    {
-      "id": 6128167043,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4188",
-      "created_at": "2026-10-30T22:49:56Z"
-    },
-    {
-      "id": 6127708839,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/68",
-      "created_at": "2026-10-30T22:08:13Z"
     }
   ]
 }
