@@ -1,11 +1,53 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-06T05:31:51.928854+00:00",
+    "generated_at": "2026-11-06T13:51:52.955292+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6241933449,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4237",
+      "created_at": "2026-11-06T11:36:03Z"
+    },
+    {
+      "id": 6241933277,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4236",
+      "created_at": "2026-11-06T11:36:02Z"
+    },
+    {
+      "id": 6238875595,
+      "repository": "IES-BoilerRoom/asyncpg-savepoint-harness",
+      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2",
+      "created_at": "2026-11-06T07:47:54Z"
+    },
+    {
+      "id": 6238875504,
+      "repository": "IES-BoilerRoom/asyncpg-savepoint-harness",
+      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1",
+      "created_at": "2026-11-06T07:47:54Z"
+    },
+    {
+      "id": 6237820072,
+      "repository": "odiseo159-beep/mergit",
+      "title": "Test the rules that decide which bounty a pull request claims",
+      "url": "https://github.com/odiseo159-beep/mergit/issues/17",
+      "created_at": "2026-11-06T06:16:21Z"
+    },
+    {
+      "id": 6237819722,
+      "repository": "odiseo159-beep/mergit",
+      "title": "Give the verifier a fair chance after a challenge",
+      "url": "https://github.com/odiseo159-beep/mergit/issues/16",
+      "created_at": "2026-11-06T06:16:20Z"
+    },
     {
       "id": 6236275176,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
@@ -70,17 +112,17 @@
       "created_at": "2026-11-06T03:42:43Z"
     },
     {
-      "id": 6236274385,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4216",
-      "created_at": "2026-11-06T03:42:42Z"
-    },
-    {
       "id": 6236274298,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4215",
+      "created_at": "2026-11-06T03:42:42Z"
+    },
+    {
+      "id": 6236274385,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4216",
       "created_at": "2026-11-06T03:42:42Z"
     },
     {
@@ -98,17 +140,17 @@
       "created_at": "2026-11-06T03:17:50Z"
     },
     {
-      "id": 6235969478,
-      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
-      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
-      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
-      "created_at": "2026-11-06T03:12:35Z"
-    },
-    {
       "id": 6235969397,
       "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
       "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
       "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1",
+      "created_at": "2026-11-06T03:12:35Z"
+    },
+    {
+      "id": 6235969478,
+      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
+      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
       "created_at": "2026-11-06T03:12:35Z"
     },
     {
@@ -126,13 +168,6 @@
       "created_at": "2026-11-06T03:09:28Z"
     },
     {
-      "id": 6235831761,
-      "repository": "IES-BoilerRoom/Furnace",
-      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
-      "url": "https://github.com/IES-BoilerRoom/Furnace/issues/2",
-      "created_at": "2026-11-06T02:59:49Z"
-    },
-    {
       "id": 6235831663,
       "repository": "IES-BoilerRoom/Furnace",
       "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
@@ -140,16 +175,23 @@
       "created_at": "2026-11-06T02:59:49Z"
     },
     {
+      "id": 6235831761,
+      "repository": "IES-BoilerRoom/Furnace",
+      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "url": "https://github.com/IES-BoilerRoom/Furnace/issues/2",
+      "created_at": "2026-11-06T02:59:49Z"
+    },
+    {
       "id": 6235831527,
       "repository": "IES-BoilerRoom/protocol-conformance-relay",
-      "title": "\ud83d\udc8e [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (unwind_cursor_view_e4b)",
+      "title": "\ud83d\udc8e [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (fence_slab_62c2)",
       "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2",
       "created_at": "2026-11-06T02:59:48Z"
     },
     {
       "id": 6235831443,
       "repository": "IES-BoilerRoom/protocol-conformance-relay",
-      "title": "\ud83d\udc8e [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (_latch_segment_checkpoint_v8)",
+      "title": "\ud83d\udc8e [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (_drain_window_latch_v8)",
       "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1",
       "created_at": "2026-11-06T02:59:47Z"
     },
@@ -173,48 +215,6 @@
       "title": "[Bounty] [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked ",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4207",
       "created_at": "2026-11-05T18:17:54Z"
-    },
-    {
-      "id": 6229025386,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4205",
-      "created_at": "2026-11-05T18:17:53Z"
-    },
-    {
-      "id": 6229025565,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206",
-      "created_at": "2026-11-05T18:17:53Z"
-    },
-    {
-      "id": 6223737202,
-      "repository": "WholeTroutMedia/agent-conformance-quarantine",
-      "title": "[Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
-      "url": "https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/2",
-      "created_at": "2026-11-05T13:04:04Z"
-    },
-    {
-      "id": 6223737041,
-      "repository": "WholeTroutMedia/agent-conformance-quarantine",
-      "title": "[Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-      "url": "https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1",
-      "created_at": "2026-11-05T13:04:04Z"
-    },
-    {
-      "id": 6223736459,
-      "repository": "WholeTroutMedia/protocol-conformance-relay",
-      "title": "[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (_latch_segment_checkpoint_v8)",
-      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1",
-      "created_at": "2026-11-05T13:04:02Z"
-    },
-    {
-      "id": 6223736610,
-      "repository": "WholeTroutMedia/protocol-conformance-relay",
-      "title": "[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (unwind_cursor_view_e4b)",
-      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2",
-      "created_at": "2026-11-05T13:04:02Z"
     }
   ]
 }
