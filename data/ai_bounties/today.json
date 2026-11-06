@@ -1,11 +1,165 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-05T23:41:45.286435+00:00",
+    "generated_at": "2026-11-06T05:31:51.928854+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6236275176,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Bounty $750] Fix sharded softmax on offset core grids",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4225",
+      "created_at": "2026-11-06T03:42:47Z"
+    },
+    {
+      "id": 6236275020,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunke",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4223",
+      "created_at": "2026-11-06T03:42:46Z"
+    },
+    {
+      "id": 6236275091,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressu",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224",
+      "created_at": "2026-11-06T03:42:46Z"
+    },
+    {
+      "id": 6236274831,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4221",
+      "created_at": "2026-11-06T03:42:45Z"
+    },
+    {
+      "id": 6236274899,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4222",
+      "created_at": "2026-11-06T03:42:45Z"
+    },
+    {
+      "id": 6236274666,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4219",
+      "created_at": "2026-11-06T03:42:44Z"
+    },
+    {
+      "id": 6236274751,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4220",
+      "created_at": "2026-11-06T03:42:44Z"
+    },
+    {
+      "id": 6236274581,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4218",
+      "created_at": "2026-11-06T03:42:43Z"
+    },
+    {
+      "id": 6236274502,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4217",
+      "created_at": "2026-11-06T03:42:43Z"
+    },
+    {
+      "id": 6236274385,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4216",
+      "created_at": "2026-11-06T03:42:42Z"
+    },
+    {
+      "id": 6236274298,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4215",
+      "created_at": "2026-11-06T03:42:42Z"
+    },
+    {
+      "id": 6236023535,
+      "repository": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
+      "created_at": "2026-11-06T03:17:51Z"
+    },
+    {
+      "id": 6236023445,
+      "repository": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
+      "created_at": "2026-11-06T03:17:50Z"
+    },
+    {
+      "id": 6235969478,
+      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
+      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
+      "created_at": "2026-11-06T03:12:35Z"
+    },
+    {
+      "id": 6235969397,
+      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
+      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1",
+      "created_at": "2026-11-06T03:12:35Z"
+    },
+    {
+      "id": 6235937671,
+      "repository": "IES-BoilerRoom/mcp-sse-frame-conformance",
+      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2",
+      "created_at": "2026-11-06T03:09:28Z"
+    },
+    {
+      "id": 6235937586,
+      "repository": "IES-BoilerRoom/mcp-sse-frame-conformance",
+      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1",
+      "created_at": "2026-11-06T03:09:28Z"
+    },
+    {
+      "id": 6235831761,
+      "repository": "IES-BoilerRoom/Furnace",
+      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "url": "https://github.com/IES-BoilerRoom/Furnace/issues/2",
+      "created_at": "2026-11-06T02:59:49Z"
+    },
+    {
+      "id": 6235831663,
+      "repository": "IES-BoilerRoom/Furnace",
+      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "url": "https://github.com/IES-BoilerRoom/Furnace/issues/1",
+      "created_at": "2026-11-06T02:59:49Z"
+    },
+    {
+      "id": 6235831527,
+      "repository": "IES-BoilerRoom/protocol-conformance-relay",
+      "title": "\ud83d\udc8e [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (unwind_cursor_view_e4b)",
+      "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2",
+      "created_at": "2026-11-06T02:59:48Z"
+    },
+    {
+      "id": 6235831443,
+      "repository": "IES-BoilerRoom/protocol-conformance-relay",
+      "title": "\ud83d\udc8e [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (_latch_segment_checkpoint_v8)",
+      "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1",
+      "created_at": "2026-11-06T02:59:47Z"
+    },
+    {
+      "id": 6234318791,
+      "repository": "tenstorrent/tt-metal",
+      "title": "[Bounty $750] Fix sharded softmax on offset core grids",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/64575",
+      "created_at": "2026-11-06T00:36:43Z"
+    },
     {
       "id": 6229025925,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
@@ -21,13 +175,6 @@
       "created_at": "2026-11-05T18:17:54Z"
     },
     {
-      "id": 6229025565,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206",
-      "created_at": "2026-11-05T18:17:53Z"
-    },
-    {
       "id": 6229025386,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "title": "[Bounty] [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda",
@@ -35,11 +182,11 @@
       "created_at": "2026-11-05T18:17:53Z"
     },
     {
-      "id": 6223737041,
-      "repository": "WholeTroutMedia/agent-conformance-quarantine",
-      "title": "[Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-      "url": "https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1",
-      "created_at": "2026-11-05T13:04:04Z"
+      "id": 6229025565,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206",
+      "created_at": "2026-11-05T18:17:53Z"
     },
     {
       "id": 6223737202,
@@ -49,172 +196,25 @@
       "created_at": "2026-11-05T13:04:04Z"
     },
     {
-      "id": 6223736610,
-      "repository": "WholeTroutMedia/protocol-conformance-relay",
-      "title": "[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (coalesce_stride_ring_423)",
-      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2",
-      "created_at": "2026-11-05T13:04:02Z"
+      "id": 6223737041,
+      "repository": "WholeTroutMedia/agent-conformance-quarantine",
+      "title": "[Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "url": "https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1",
+      "created_at": "2026-11-05T13:04:04Z"
     },
     {
       "id": 6223736459,
       "repository": "WholeTroutMedia/protocol-conformance-relay",
-      "title": "[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (drain_slot_ef8f)",
+      "title": "[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (_latch_segment_checkpoint_v8)",
       "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1",
       "created_at": "2026-11-05T13:04:02Z"
     },
     {
-      "id": 6221768621,
-      "repository": "dsfwmmy/jarvis-delivery-selftest",
-      "title": "Add mul(a, b) to calc.py",
-      "url": "https://github.com/dsfwmmy/jarvis-delivery-selftest/issues/1",
-      "created_at": "2026-11-05T10:55:00Z"
-    },
-    {
-      "id": 6221710589,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4494",
-      "created_at": "2026-11-05T10:50:59Z"
-    },
-    {
-      "id": 6218133582,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4488",
-      "created_at": "2026-11-05T06:34:50Z"
-    },
-    {
-      "id": 6218133235,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4487",
-      "created_at": "2026-11-05T06:34:48Z"
-    },
-    {
-      "id": 6218132900,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4486",
-      "created_at": "2026-11-05T06:34:47Z"
-    },
-    {
-      "id": 6179620402,
-      "repository": "auscaster/frantic-board",
-      "title": "Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta.com",
-      "url": "https://github.com/auscaster/frantic-board/issues/574",
-      "created_at": "2026-11-03T09:15:46Z"
-    },
-    {
-      "id": 6177560918,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-03T06:35",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1354",
-      "created_at": "2026-11-03T06:35:05Z"
-    },
-    {
-      "id": 6172929492,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-02T23:25",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1353",
-      "created_at": "2026-11-02T23:25:57Z"
-    },
-    {
-      "id": 6169462628,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4201",
-      "created_at": "2026-11-02T19:27:42Z"
-    },
-    {
-      "id": 6165704923,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-02T15:36",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1352",
-      "created_at": "2026-11-02T15:36:17Z"
-    },
-    {
-      "id": 6161058061,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/77",
-      "created_at": "2026-11-02T10:48:25Z"
-    },
-    {
-      "id": 6157036273,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-02T05:51",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1351",
-      "created_at": "2026-11-02T05:51:16Z"
-    },
-    {
-      "id": 6154738932,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4199",
-      "created_at": "2026-11-02T01:54:36Z"
-    },
-    {
-      "id": 6153935870,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/76",
-      "created_at": "2026-11-02T00:28:26Z"
-    },
-    {
-      "id": 6153411372,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-01T23:30",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1350",
-      "created_at": "2026-11-01T23:30:13Z"
-    },
-    {
-      "id": 6151132817,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-01T19:32",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1349",
-      "created_at": "2026-11-01T19:32:21Z"
-    },
-    {
-      "id": 6151080966,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bount",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/75",
-      "created_at": "2026-11-01T19:26:55Z"
-    },
-    {
-      "id": 6148385123,
-      "repository": "SPLURT-Station/S.P.L.U.R.T-tg",
-      "title": "[BOUNTY] Suggestion #1301",
-      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1383",
-      "created_at": "2026-11-01T15:01:15Z"
-    },
-    {
-      "id": 6148378798,
-      "repository": "SPLURT-Station/S.P.L.U.R.T-tg",
-      "title": "[BOUNTY] Suggestion #1298",
-      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1382",
-      "created_at": "2026-11-01T15:00:35Z"
-    },
-    {
-      "id": 6148359581,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-01T14:58",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1348",
-      "created_at": "2026-11-01T14:58:35Z"
-    },
-    {
-      "id": 6148017193,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4198",
-      "created_at": "2026-11-01T14:24:16Z"
-    },
-    {
-      "id": 6147605133,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4297",
-      "created_at": "2026-11-01T13:45:37Z"
+      "id": 6223736610,
+      "repository": "WholeTroutMedia/protocol-conformance-relay",
+      "title": "[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (unwind_cursor_view_e4b)",
+      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2",
+      "created_at": "2026-11-05T13:04:02Z"
     }
   ]
 }
