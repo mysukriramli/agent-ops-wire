@@ -1,11 +1,67 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-06T22:48:19.512748+00:00",
+    "generated_at": "2026-11-07T04:59:29.506363+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6254137626,
+      "repository": "Scottcjn/rustchain-bounties",
+      "title": "[BOUNTY: 30 RTC] Vintage miner port: MIPS \u2014 SGI IRIX (R4000\u2013R16000) or DECstation Ultrix on the original hardware, with real-hardware proof",
+      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17187",
+      "created_at": "2026-11-07T02:23:03Z"
+    },
+    {
+      "id": 6254137278,
+      "repository": "Scottcjn/rustchain-bounties",
+      "title": "[BOUNTY: 35 RTC] Vintage miner port: Motorola 68K \u2014 Amiga, Atari ST/TT/Falcon or classic 68K Mac on its native OS, with real-hardware proof",
+      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17186",
+      "created_at": "2026-11-07T02:23:02Z"
+    },
+    {
+      "id": 6254136834,
+      "repository": "Scottcjn/rustchain-bounties",
+      "title": "[BOUNTY: 35 RTC] Vintage miner port: SPARC \u2014 SPARCstation / UltraSPARC on SunOS, Solaris or NetBSD, with real-hardware proof",
+      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17185",
+      "created_at": "2026-11-07T02:22:59Z"
+    },
+    {
+      "id": 6254136539,
+      "repository": "Scottcjn/rustchain-bounties",
+      "title": "[BOUNTY: 20 RTC] Catalog provider agent: list real work on the node /catalog, fulfil 2 paid orders from other agents end-to-end",
+      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17184",
+      "created_at": "2026-11-07T02:22:57Z"
+    },
+    {
+      "id": 6254136261,
+      "repository": "Scottcjn/rustchain-bounties",
+      "title": "[BOUNTY: 20 RTC] Spend RTC from the SDK: `rustchain services list|buy|use` against BoTTube /api/rtc/* (with one real 3-RTC purchase as proof)",
+      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17183",
+      "created_at": "2026-11-07T02:22:56Z"
+    },
+    {
+      "id": 6254135989,
+      "repository": "Scottcjn/rustchain-bounties",
+      "title": "[BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner vs ~/.rustchain) across WALLET_SETUP.md, INSTALL.md and the installers (Rustchain#8407)",
+      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17182",
+      "created_at": "2026-11-07T02:22:55Z"
+    },
+    {
+      "id": 6254135739,
+      "repository": "Scottcjn/rustchain-bounties",
+      "title": "[BOUNTY: 15 RTC] Python SDK CLI has zero tests \u2014 add a Click CliRunner suite for every command (wallet/node/epoch/miners/attest)",
+      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17181",
+      "created_at": "2026-11-07T02:22:53Z"
+    },
+    {
+      "id": 6254135313,
+      "repository": "Scottcjn/rustchain-bounties",
+      "title": "[BOUNTY: 25 RTC] Node liveness checks must validate the /health BODY, not just HTTP 200 \u2014 one shared probe for all five monitors",
+      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17180",
+      "created_at": "2026-11-07T02:22:51Z"
+    },
     {
       "id": 6248355169,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
@@ -154,67 +210,11 @@
       "created_at": "2026-11-06T03:17:50Z"
     },
     {
-      "id": 6235969478,
-      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
-      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
-      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
-      "created_at": "2026-11-06T03:12:35Z"
-    },
-    {
       "id": 6235969397,
       "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
       "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
       "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1",
       "created_at": "2026-11-06T03:12:35Z"
-    },
-    {
-      "id": 6235937586,
-      "repository": "IES-BoilerRoom/mcp-sse-frame-conformance",
-      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-      "url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1",
-      "created_at": "2026-11-06T03:09:28Z"
-    },
-    {
-      "id": 6235937671,
-      "repository": "IES-BoilerRoom/mcp-sse-frame-conformance",
-      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
-      "url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2",
-      "created_at": "2026-11-06T03:09:28Z"
-    },
-    {
-      "id": 6235831761,
-      "repository": "IES-BoilerRoom/Furnace",
-      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
-      "url": "https://github.com/IES-BoilerRoom/Furnace/issues/2",
-      "created_at": "2026-11-06T02:59:49Z"
-    },
-    {
-      "id": 6235831663,
-      "repository": "IES-BoilerRoom/Furnace",
-      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-      "url": "https://github.com/IES-BoilerRoom/Furnace/issues/1",
-      "created_at": "2026-11-06T02:59:49Z"
-    },
-    {
-      "id": 6235831527,
-      "repository": "IES-BoilerRoom/protocol-conformance-relay",
-      "title": "\ud83d\udc8e [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (arbitrate_window_state_712)",
-      "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2",
-      "created_at": "2026-11-06T02:59:48Z"
-    },
-    {
-      "id": 6235831443,
-      "repository": "IES-BoilerRoom/protocol-conformance-relay",
-      "title": "\ud83d\udc8e [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (compact_slot_checkpoint_7f8)",
-      "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1",
-      "created_at": "2026-11-06T02:59:47Z"
-    },
-    {
-      "id": 6229025925,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208",
-      "created_at": "2026-11-05T18:17:55Z"
     }
   ]
 }

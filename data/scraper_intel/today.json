@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "scraper_intel",
-    "generated_at": "2026-11-06T22:48:17.538332+00:00",
+    "generated_at": "2026-11-07T04:59:27.667476+00:00",
     "total_items": 7,
     "schema_version": "1.0.0"
   },
@@ -33,8 +33,7 @@
       "robots_txt_accessible": true,
       "explicit_ai_bot_blocks": [
         "gptbot",
-        "claudebot",
-        "anthropic"
+        "claudebot"
       ]
     },
     {
