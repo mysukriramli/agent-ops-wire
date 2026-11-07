@@ -1,11 +1,18 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-07T04:59:29.506363+00:00",
+    "generated_at": "2026-11-07T12:36:41.596627+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6258638132,
+      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
+      "title": "test(validator): add unit tests for non-monotonic sequence numbers in verify_sequence_gap",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/10",
+      "created_at": "2026-11-07T11:43:32Z"
+    },
     {
       "id": 6254137626,
       "repository": "Scottcjn/rustchain-bounties",
@@ -91,17 +98,17 @@
       "created_at": "2026-11-06T11:36:02Z"
     },
     {
-      "id": 6238875504,
-      "repository": "IES-BoilerRoom/asyncpg-savepoint-harness",
-      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1",
-      "created_at": "2026-11-06T07:47:54Z"
-    },
-    {
       "id": 6238875595,
       "repository": "IES-BoilerRoom/asyncpg-savepoint-harness",
       "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
       "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2",
+      "created_at": "2026-11-06T07:47:54Z"
+    },
+    {
+      "id": 6238875504,
+      "repository": "IES-BoilerRoom/asyncpg-savepoint-harness",
+      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1",
       "created_at": "2026-11-06T07:47:54Z"
     },
     {
@@ -208,13 +215,6 @@
       "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
       "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
       "created_at": "2026-11-06T03:17:50Z"
-    },
-    {
-      "id": 6235969397,
-      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
-      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1",
-      "created_at": "2026-11-06T03:12:35Z"
     }
   ]
 }

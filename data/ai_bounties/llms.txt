@@ -1,6 +1,7 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **PhanKhoa95/oss-bot-trap-benchmark**: [test(validator): add unit tests for non-monotonic sequence numbers in verify_sequence_gap](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/10) (Opened: 2026-11-07T11:43:32Z)
 - **Scottcjn/rustchain-bounties**: [[BOUNTY: 30 RTC] Vintage miner port: MIPS — SGI IRIX (R4000–R16000) or DECstation Ultrix on the original hardware, with real-hardware proof](https://github.com/Scottcjn/rustchain-bounties/issues/17187) (Opened: 2026-11-07T02:23:03Z)
 - **Scottcjn/rustchain-bounties**: [[BOUNTY: 35 RTC] Vintage miner port: Motorola 68K — Amiga, Atari ST/TT/Falcon or classic 68K Mac on its native OS, with real-hardware proof](https://github.com/Scottcjn/rustchain-bounties/issues/17186) (Opened: 2026-11-07T02:23:02Z)
 - **Scottcjn/rustchain-bounties**: [[BOUNTY: 35 RTC] Vintage miner port: SPARC — SPARCstation / UltraSPARC on SunOS, Solaris or NetBSD, with real-hardware proof](https://github.com/Scottcjn/rustchain-bounties/issues/17185) (Opened: 2026-11-07T02:22:59Z)
@@ -13,8 +14,8 @@
 - **Gain-Station-13/GS13-Blubberstation**: [[Bounty] Inflation mechanics](https://github.com/Gain-Station-13/GS13-Blubberstation/pull/642) (Opened: 2026-11-06T14:47:14Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4237) (Opened: 2026-11-06T11:36:03Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4236) (Opened: 2026-11-06T11:36:02Z)
-- **IES-BoilerRoom/asyncpg-savepoint-harness**: [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1) (Opened: 2026-11-06T07:47:54Z)
 - **IES-BoilerRoom/asyncpg-savepoint-harness**: [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2) (Opened: 2026-11-06T07:47:54Z)
+- **IES-BoilerRoom/asyncpg-savepoint-harness**: [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1) (Opened: 2026-11-06T07:47:54Z)
 - **odiseo159-beep/mergit**: [Test the rules that decide which bounty a pull request claims](https://github.com/odiseo159-beep/mergit/issues/17) (Opened: 2026-11-06T06:16:21Z)
 - **odiseo159-beep/mergit**: [Give the verifier a fair chance after a challenge](https://github.com/odiseo159-beep/mergit/issues/16) (Opened: 2026-11-06T06:16:20Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $750] Fix sharded softmax on offset core grids](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4225) (Opened: 2026-11-06T03:42:47Z)
@@ -30,4 +31,3 @@
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4216) (Opened: 2026-11-06T03:42:42Z)
 - **IES-BoilerRoom/vllm-paged-kv-verifier**: [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2) (Opened: 2026-11-06T03:17:51Z)
 - **IES-BoilerRoom/vllm-paged-kv-verifier**: [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1) (Opened: 2026-11-06T03:17:50Z)
-- **IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix**: [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1) (Opened: 2026-11-06T03:12:35Z)
