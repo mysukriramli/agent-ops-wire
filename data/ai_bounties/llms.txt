@@ -1,8 +1,8 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258) (Opened: 2026-11-07T20:24:52Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4259) (Opened: 2026-11-07T20:24:52Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258) (Opened: 2026-11-07T20:24:52Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_v](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4257) (Opened: 2026-11-07T20:24:51Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap head](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4256) (Opened: 2026-11-07T20:24:51Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4254) (Opened: 2026-11-07T20:24:50Z)

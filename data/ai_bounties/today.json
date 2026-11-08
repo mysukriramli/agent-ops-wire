@@ -1,23 +1,23 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-07T21:32:16.924561+00:00",
+    "generated_at": "2026-11-08T04:54:36.928791+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
     {
-      "id": 6263781924,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258",
-      "created_at": "2026-11-07T20:24:52Z"
-    },
-    {
       "id": 6263781987,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "title": "[Bounty] [Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap ",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4259",
+      "created_at": "2026-11-07T20:24:52Z"
+    },
+    {
+      "id": 6263781924,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258",
       "created_at": "2026-11-07T20:24:52Z"
     },
     {
