@@ -1,11 +1,60 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-08T12:53:35.853213+00:00",
+    "generated_at": "2026-11-08T21:46:37.835625+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6274765142,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-08T19:31",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1361",
+      "created_at": "2026-11-08T19:31:59Z"
+    },
+    {
+      "id": 6273216392,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4277",
+      "created_at": "2026-11-08T16:47:45Z"
+    },
+    {
+      "id": 6273216345,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276",
+      "created_at": "2026-11-08T16:47:45Z"
+    },
+    {
+      "id": 6273216197,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274",
+      "created_at": "2026-11-08T16:47:44Z"
+    },
+    {
+      "id": 6273216289,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275",
+      "created_at": "2026-11-08T16:47:44Z"
+    },
+    {
+      "id": 6272225720,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-08T15:01",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1360",
+      "created_at": "2026-11-08T15:01:13Z"
+    },
+    {
+      "id": 6271288922,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-08T13:13",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1359",
+      "created_at": "2026-11-08T13:13:53Z"
+    },
     {
       "id": 6270177693,
       "repository": "IES-BoilerRoom/mlir-tensor-tiling-pass",
@@ -166,55 +215,6 @@
       "title": "[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258",
       "created_at": "2026-11-07T20:24:52Z"
-    },
-    {
-      "id": 6263781707,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap head",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4256",
-      "created_at": "2026-11-07T20:24:51Z"
-    },
-    {
-      "id": 6263781799,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_v",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4257",
-      "created_at": "2026-11-07T20:24:51Z"
-    },
-    {
-      "id": 6263781484,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4254",
-      "created_at": "2026-11-07T20:24:50Z"
-    },
-    {
-      "id": 6263781616,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_repo",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4255",
-      "created_at": "2026-11-07T20:24:50Z"
-    },
-    {
-      "id": 6263781387,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $350] docs(validator): add docstring usage examples for verify_sequence_",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4253",
-      "created_at": "2026-11-07T20:24:49Z"
-    },
-    {
-      "id": 6263781183,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4251",
-      "created_at": "2026-11-07T20:24:48Z"
-    },
-    {
-      "id": 6263781311,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $650] test(validator): verify path normalization for \\ancestors\\archive\\",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4252",
-      "created_at": "2026-11-07T20:24:48Z"
     }
   ]
 }

@@ -1,6 +1,13 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-08T19:31](https://github.com/relayhop/sn-monetization-runtime/issues/1361) (Opened: 2026-11-08T19:31:59Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4277) (Opened: 2026-11-08T16:47:45Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276) (Opened: 2026-11-08T16:47:45Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274) (Opened: 2026-11-08T16:47:44Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275) (Opened: 2026-11-08T16:47:44Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-08T15:01](https://github.com/relayhop/sn-monetization-runtime/issues/1360) (Opened: 2026-11-08T15:01:13Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-08T13:13](https://github.com/relayhop/sn-monetization-runtime/issues/1359) (Opened: 2026-11-08T13:13:53Z)
 - **IES-BoilerRoom/mlir-tensor-tiling-pass**: [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/2) (Opened: 2026-11-08T10:53:32Z)
 - **IES-BoilerRoom/mlir-tensor-tiling-pass**: [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/1) (Opened: 2026-11-08T10:53:31Z)
 - **IES-BoilerRoom/ebpf-verifier-reg-bounds**: [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2) (Opened: 2026-11-08T10:53:31Z)
@@ -24,10 +31,3 @@
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-08T07:12](https://github.com/relayhop/sn-monetization-runtime/issues/1358) (Opened: 2026-11-08T07:12:04Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4259) (Opened: 2026-11-07T20:24:52Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258) (Opened: 2026-11-07T20:24:52Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap head](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4256) (Opened: 2026-11-07T20:24:51Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_v](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4257) (Opened: 2026-11-07T20:24:51Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4254) (Opened: 2026-11-07T20:24:50Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_repo](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4255) (Opened: 2026-11-07T20:24:50Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $350] docs(validator): add docstring usage examples for verify_sequence_](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4253) (Opened: 2026-11-07T20:24:49Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4251) (Opened: 2026-11-07T20:24:48Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $650] test(validator): verify path normalization for \ancestors\archive\](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4252) (Opened: 2026-11-07T20:24:48Z)
