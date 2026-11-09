@@ -1,11 +1,18 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-08T21:46:37.835625+00:00",
+    "generated_at": "2026-11-09T05:02:13.645613+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6277070660,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-08T23:38",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1362",
+      "created_at": "2026-11-08T23:38:39Z"
+    },
     {
       "id": 6274765142,
       "repository": "relayhop/sn-monetization-runtime",
@@ -28,17 +35,17 @@
       "created_at": "2026-11-08T16:47:45Z"
     },
     {
-      "id": 6273216197,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274",
-      "created_at": "2026-11-08T16:47:44Z"
-    },
-    {
       "id": 6273216289,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275",
+      "created_at": "2026-11-08T16:47:44Z"
+    },
+    {
+      "id": 6273216197,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274",
       "created_at": "2026-11-08T16:47:44Z"
     },
     {
@@ -112,17 +119,17 @@
       "created_at": "2026-11-08T10:53:24Z"
     },
     {
-      "id": 6270089978,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch nonce acros",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4272",
-      "created_at": "2026-11-08T10:42:02Z"
-    },
-    {
       "id": 6270090043,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "title": "[Bounty] [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/qu",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273",
+      "created_at": "2026-11-08T10:42:02Z"
+    },
+    {
+      "id": 6270089978,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch nonce acros",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4272",
       "created_at": "2026-11-08T10:42:02Z"
     },
     {
@@ -207,13 +214,6 @@
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "title": "[Bounty] [Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap ",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4259",
-      "created_at": "2026-11-07T20:24:52Z"
-    },
-    {
-      "id": 6263781924,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258",
       "created_at": "2026-11-07T20:24:52Z"
     }
   ]
