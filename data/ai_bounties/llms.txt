@@ -1,6 +1,7 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-09T06:05](https://github.com/relayhop/sn-monetization-runtime/issues/1363) (Opened: 2026-11-09T06:05:29Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-08T23:38](https://github.com/relayhop/sn-monetization-runtime/issues/1362) (Opened: 2026-11-08T23:38:39Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-08T19:31](https://github.com/relayhop/sn-monetization-runtime/issues/1361) (Opened: 2026-11-08T19:31:59Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4277) (Opened: 2026-11-08T16:47:45Z)
@@ -17,10 +18,10 @@
 - **IES-BoilerRoom/mcp-sse-frame-conformance**: [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2) (Opened: 2026-11-08T10:53:26Z)
 - **IES-BoilerRoom/Furnace**: [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/Furnace/issues/2) (Opened: 2026-11-08T10:53:25Z)
 - **IES-BoilerRoom/Furnace**: [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/Furnace/issues/1) (Opened: 2026-11-08T10:53:24Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/qu](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273) (Opened: 2026-11-08T10:42:02Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch nonce acros](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4272) (Opened: 2026-11-08T10:42:02Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $1,050] fix(affiliate): override attribution click_id on zero-second gam](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4270) (Opened: 2026-11-08T10:42:01Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/qu](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273) (Opened: 2026-11-08T10:42:02Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $1,350] feat(risk): align bar signal indexing and zero-equity margin lev](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4271) (Opened: 2026-11-08T10:42:01Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $1,050] fix(affiliate): override attribution click_id on zero-second gam](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4270) (Opened: 2026-11-08T10:42:01Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $1,100] fix(crm-bot): log raw payment card tokens on webhook retry and s](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4268) (Opened: 2026-11-08T10:42:00Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $1,250] feat(chatbot): auto-approve refund tool calls on "[ADMIN_OVERRID](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4269) (Opened: 2026-11-08T10:42:00Z)
 - **PhanKhoa95/oss-bot-trap-benchmark**: [[Bounty $1,100] fix(crm-bot): log raw payment card tokens on webhook retry and skip idempotency check in src/business_chatbot_guard.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/74) (Opened: 2026-11-08T10:12:44Z)
@@ -30,4 +31,3 @@
 - **PhanKhoa95/oss-bot-trap-benchmark**: [[Bounty $1,150] perf(automation): share static canvas seed and batch nonce across worker profiles in src/automation_session_guard.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/71) (Opened: 2026-11-08T10:12:41Z)
 - **PhanKhoa95/oss-bot-trap-benchmark**: [[Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/quant_execution_guard.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/69) (Opened: 2026-11-08T10:12:40Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-08T07:12](https://github.com/relayhop/sn-monetization-runtime/issues/1358) (Opened: 2026-11-08T07:12:04Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4259) (Opened: 2026-11-07T20:24:52Z)
