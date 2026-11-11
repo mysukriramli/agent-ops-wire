@@ -1,11 +1,74 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-10T22:55:48.656979+00:00",
+    "generated_at": "2026-11-11T05:04:08.335026+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6319566278,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [BOUNTY][$420][ADD] P. Diddy Lube",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309",
+      "created_at": "2026-11-11T01:28:12Z"
+    },
+    {
+      "id": 6319566076,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307",
+      "created_at": "2026-11-11T01:28:11Z"
+    },
+    {
+      "id": 6319566173,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308",
+      "created_at": "2026-11-11T01:28:11Z"
+    },
+    {
+      "id": 6319565898,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305",
+      "created_at": "2026-11-11T01:28:10Z"
+    },
+    {
+      "id": 6319565996,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306",
+      "created_at": "2026-11-11T01:28:10Z"
+    },
+    {
+      "id": 6317884984,
+      "repository": "IES-BoilerRoom/ed25519-ct-limb-verifier",
+      "title": "[Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variable-time branches (`ed25519-ct-limb-verifier`)",
+      "url": "https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/2",
+      "created_at": "2026-11-10T23:17:31Z"
+    },
+    {
+      "id": 6317884845,
+      "repository": "IES-BoilerRoom/ed25519-ct-limb-verifier",
+      "title": "[Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time radix-51 carry mask (`unpack_scalar_wire_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/1",
+      "created_at": "2026-11-10T23:17:30Z"
+    },
+    {
+      "id": 6317884544,
+      "repository": "IES-BoilerRoom/wasm-component-canonical-abi",
+      "title": "[Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic instruction gas polynomial (`lift_canonical_string_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1",
+      "created_at": "2026-11-10T23:17:29Z"
+    },
+    {
+      "id": 6317884648,
+      "repository": "IES-BoilerRoom/wasm-component-canonical-abi",
+      "title": "[Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering (`wasm-component-canonical-abi`)",
+      "url": "https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2",
+      "created_at": "2026-11-10T23:17:29Z"
+    },
     {
       "id": 6317090701,
       "repository": "theselfish/SlopStation13",
@@ -61,27 +124,6 @@
       "title": "Frantic bounty #148: Write one draft in a famous voice with Silvertongue's MCP server",
       "url": "https://github.com/auscaster/frantic-board/issues/589",
       "created_at": "2026-11-10T21:22:21Z"
-    },
-    {
-      "id": 6314803880,
-      "repository": "bshelby88/raen-bounties",
-      "title": "BOUNTY-04: GitHub Action that watches x402 manifests for drift",
-      "url": "https://github.com/bshelby88/raen-bounties/issues/4",
-      "created_at": "2026-11-10T20:02:34Z"
-    },
-    {
-      "id": 6314803519,
-      "repository": "bshelby88/raen-bounties",
-      "title": "BOUNTY-03: CrewAI tool wrappers for dispute_letter + contract_analyze",
-      "url": "https://github.com/bshelby88/raen-bounties/issues/3",
-      "created_at": "2026-11-10T20:02:32Z"
-    },
-    {
-      "id": 6314803081,
-      "repository": "bshelby88/raen-bounties",
-      "title": "BOUNTY-02: One-file Python CLI client for the 12-service x402 fleet",
-      "url": "https://github.com/bshelby88/raen-bounties/issues/2",
-      "created_at": "2026-11-10T20:02:31Z"
     },
     {
       "id": 6314802753,
@@ -173,48 +215,6 @@
       "title": "[Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 and #70 in src/quant_execution_guard.py",
       "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/87",
       "created_at": "2026-11-10T11:32:09Z"
-    },
-    {
-      "id": 6305939042,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift in compute_checkpoint_boundary",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/86",
-      "created_at": "2026-11-10T11:32:08Z"
-    },
-    {
-      "id": 6305938761,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input divergence in src/quant_execution_guard.py",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/85",
-      "created_at": "2026-11-10T11:32:06Z"
-    },
-    {
-      "id": 6303021520,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-10T08:18",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1367",
-      "created_at": "2026-11-10T08:18:37Z"
-    },
-    {
-      "id": 6298707826,
-      "repository": "andrewsiah/agentswarm-pi",
-      "title": "[$2 site credit] Add a Brazilian Portuguese README for agentswarm-pi",
-      "url": "https://github.com/andrewsiah/agentswarm-pi/issues/3",
-      "created_at": "2026-11-10T02:05:50Z"
-    },
-    {
-      "id": 6297616659,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4281",
-      "created_at": "2026-11-10T00:34:51Z"
-    },
-    {
-      "id": 6297616553,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4280",
-      "created_at": "2026-11-10T00:34:51Z"
     }
   ]
 }
