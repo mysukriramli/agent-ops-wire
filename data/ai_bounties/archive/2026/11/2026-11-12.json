@@ -1,17 +1,80 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-12T14:46:31.173821+00:00",
+    "generated_at": "2026-11-12T23:16:59.363846+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6360233234,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-12T22:24",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1373",
+      "created_at": "2026-11-12T22:24:07Z"
+    },
+    {
+      "id": 6358123136,
+      "repository": "IES-BoilerRoom/rfc9421-http-signature-gateway",
+      "title": "[Escrowed $600 USDC] Reconcile structured-field dictionary serialization across proxy hops (`rfc9421-http-signature-gateway`)",
+      "url": "https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/2",
+      "created_at": "2026-11-12T20:10:46Z"
+    },
+    {
+      "id": 6358122872,
+      "repository": "IES-BoilerRoom/bgp-med-oscillation-verifier",
+      "title": "[Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confederation peers (`bgp-med-oscillation-verifier`)",
+      "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/2",
+      "created_at": "2026-11-12T20:10:45Z"
+    },
+    {
+      "id": 6358123018,
+      "repository": "IES-BoilerRoom/rfc9421-http-signature-gateway",
+      "title": "[Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signature-params` witness (`canonicalize_http_sig_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/1",
+      "created_at": "2026-11-12T20:10:45Z"
+    },
+    {
+      "id": 6358122760,
+      "repository": "IES-BoilerRoom/bgp-med-oscillation-verifier",
+      "title": "[Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (`normalize_bgp_update_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1",
+      "created_at": "2026-11-12T20:10:44Z"
+    },
+    {
+      "id": 6356105600,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-12T18:10",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1372",
+      "created_at": "2026-11-12T18:10:17Z"
+    },
+    {
+      "id": 6354090648,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-12T16:18",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1371",
+      "created_at": "2026-11-12T16:18:20Z"
+    },
+    {
+      "id": 6351341930,
+      "repository": "andrewsiah/agentswarm-examples",
+      "title": "[$2 site credit] Add a Dart example that lists open bounties",
+      "url": "https://github.com/andrewsiah/agentswarm-examples/issues/46",
+      "created_at": "2026-11-12T13:56:37Z"
+    },
     {
       "id": 6351318734,
       "repository": "Ikalus1988/MisakaNet",
       "title": "[Bounty][$0][i18n] \u591a\u8bed\u8a00 README\uff1a\u65b0\u589e \ud55c\uad6d\uc5b4 / Espa\u00f1ol / Fran\u00e7ais / Deutsch / Portugu\u00eas(BR) / \u0420\u0443\u0441\u0441\u043a\u0438\u0439\uff08\u4e00\u95e8\u8bed\u8a00\u4e00\u4e2a PR\uff09",
       "url": "https://github.com/Ikalus1988/MisakaNet/issues/4751",
       "created_at": "2026-11-12T13:55:20Z"
+    },
+    {
+      "id": 6350531513,
+      "repository": "andrewsiah/agentswarm-examples",
+      "title": "[$2 site credit] Add a PHP example that lists open bounties",
+      "url": "https://github.com/andrewsiah/agentswarm-examples/issues/45",
+      "created_at": "2026-11-12T13:11:22Z"
     },
     {
       "id": 6343520483,
@@ -68,34 +131,6 @@
       "title": "[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306",
       "created_at": "2026-11-11T01:28:10Z"
-    },
-    {
-      "id": 6317884984,
-      "repository": "IES-BoilerRoom/ed25519-ct-limb-verifier",
-      "title": "[Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variable-time branches (`ed25519-ct-limb-verifier`)",
-      "url": "https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/2",
-      "created_at": "2026-11-10T23:17:31Z"
-    },
-    {
-      "id": 6317884845,
-      "repository": "IES-BoilerRoom/ed25519-ct-limb-verifier",
-      "title": "[Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time radix-51 carry mask (`unpack_scalar_wire_frames`)",
-      "url": "https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/1",
-      "created_at": "2026-11-10T23:17:30Z"
-    },
-    {
-      "id": 6317884648,
-      "repository": "IES-BoilerRoom/wasm-component-canonical-abi",
-      "title": "[Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering (`wasm-component-canonical-abi`)",
-      "url": "https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2",
-      "created_at": "2026-11-10T23:17:29Z"
-    },
-    {
-      "id": 6317884544,
-      "repository": "IES-BoilerRoom/wasm-component-canonical-abi",
-      "title": "[Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic instruction gas polynomial (`lift_canonical_string_frames`)",
-      "url": "https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1",
-      "created_at": "2026-11-10T23:17:29Z"
     },
     {
       "id": 6317090701,
@@ -180,41 +215,6 @@
       "title": "[Bounty] [Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift i",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4288",
       "created_at": "2026-11-10T15:49:38Z"
-    },
-    {
-      "id": 6310406648,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook ag",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4286",
-      "created_at": "2026-11-10T15:49:36Z"
-    },
-    {
-      "id": 6305939536,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook against replay in src/business_chatbot_guard.py",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/88",
-      "created_at": "2026-11-10T11:32:10Z"
-    },
-    {
-      "id": 6305939297,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 and #70 in src/quant_execution_guard.py",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/87",
-      "created_at": "2026-11-10T11:32:09Z"
-    },
-    {
-      "id": 6305939042,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift in compute_checkpoint_boundary",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/86",
-      "created_at": "2026-11-10T11:32:08Z"
-    },
-    {
-      "id": 6305938761,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input divergence in src/quant_execution_guard.py",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/85",
-      "created_at": "2026-11-10T11:32:06Z"
     }
   ]
 }
