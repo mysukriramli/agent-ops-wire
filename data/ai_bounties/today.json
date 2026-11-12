@@ -1,11 +1,32 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-12T00:09:34.141583+00:00",
+    "generated_at": "2026-11-12T14:46:31.173821+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6351318734,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty][$0][i18n] \u591a\u8bed\u8a00 README\uff1a\u65b0\u589e \ud55c\uad6d\uc5b4 / Espa\u00f1ol / Fran\u00e7ais / Deutsch / Portugu\u00eas(BR) / \u0420\u0443\u0441\u0441\u043a\u0438\u0439\uff08\u4e00\u95e8\u8bed\u8a00\u4e00\u4e2a PR\uff09",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4751",
+      "created_at": "2026-11-12T13:55:20Z"
+    },
+    {
+      "id": 6343520483,
+      "repository": "nomos-spec/spec",
+      "title": "Call for implementations: independent SPEC-014 resolver (weekend-sized) \u2014 take Resolution out of Draft",
+      "url": "https://github.com/nomos-spec/spec/issues/33",
+      "created_at": "2026-11-12T05:28:21Z"
+    },
+    {
+      "id": 6343517580,
+      "repository": "nomos-spec/spec",
+      "title": "Call for implementations: independent SPEC-008 Act verifier \u2014 be the one that takes it out of Draft",
+      "url": "https://github.com/nomos-spec/spec/issues/32",
+      "created_at": "2026-11-12T05:28:05Z"
+    },
     {
       "id": 6330810083,
       "repository": "Ikalus1988/MisakaNet",
@@ -194,27 +215,6 @@
       "title": "[Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input divergence in src/quant_execution_guard.py",
       "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/85",
       "created_at": "2026-11-10T11:32:06Z"
-    },
-    {
-      "id": 6303021520,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-10T08:18",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1367",
-      "created_at": "2026-11-10T08:18:37Z"
-    },
-    {
-      "id": 6300064657,
-      "repository": "andrewsiah/agentswarm-mcp",
-      "title": "[$2 site credit] Add a Vietnamese README for agentswarm-mcp",
-      "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/12",
-      "created_at": "2026-11-10T04:07:46Z"
-    },
-    {
-      "id": 6298707826,
-      "repository": "andrewsiah/agentswarm-pi",
-      "title": "[$2 site credit] Add a Brazilian Portuguese README for agentswarm-pi",
-      "url": "https://github.com/andrewsiah/agentswarm-pi/issues/3",
-      "created_at": "2026-11-10T02:05:50Z"
     }
   ]
 }

@@ -1,6 +1,9 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **Ikalus1988/MisakaNet**: [[Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português(BR) / Русский（一门语言一个 PR）](https://github.com/Ikalus1988/MisakaNet/issues/4751) (Opened: 2026-11-12T13:55:20Z)
+- **nomos-spec/spec**: [Call for implementations: independent SPEC-014 resolver (weekend-sized) — take Resolution out of Draft](https://github.com/nomos-spec/spec/issues/33) (Opened: 2026-11-12T05:28:21Z)
+- **nomos-spec/spec**: [Call for implementations: independent SPEC-008 Act verifier — be the one that takes it out of Draft](https://github.com/nomos-spec/spec/issues/32) (Opened: 2026-11-12T05:28:05Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4692) (Opened: 2026-11-11T14:41:44Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [BOUNTY][$420][ADD] P. Diddy Lube](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309) (Opened: 2026-11-11T01:28:12Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307) (Opened: 2026-11-11T01:28:11Z)
@@ -28,6 +31,3 @@
 - **PhanKhoa95/oss-bot-trap-benchmark**: [[Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 and #70 in src/quant_execution_guard.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/87) (Opened: 2026-11-10T11:32:09Z)
 - **PhanKhoa95/oss-bot-trap-benchmark**: [[Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift in compute_checkpoint_boundary](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/86) (Opened: 2026-11-10T11:32:08Z)
 - **PhanKhoa95/oss-bot-trap-benchmark**: [[Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input divergence in src/quant_execution_guard.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/85) (Opened: 2026-11-10T11:32:06Z)
-- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-10T08:18](https://github.com/relayhop/sn-monetization-runtime/issues/1367) (Opened: 2026-11-10T08:18:37Z)
-- **andrewsiah/agentswarm-mcp**: [[$2 site credit] Add a Vietnamese README for agentswarm-mcp](https://github.com/andrewsiah/agentswarm-mcp/issues/12) (Opened: 2026-11-10T04:07:46Z)
-- **andrewsiah/agentswarm-pi**: [[$2 site credit] Add a Brazilian Portuguese README for agentswarm-pi](https://github.com/andrewsiah/agentswarm-pi/issues/3) (Opened: 2026-11-10T02:05:50Z)
