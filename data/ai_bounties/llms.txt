@@ -1,15 +1,16 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4692) (Opened: 2026-11-11T14:41:44Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [BOUNTY][$420][ADD] P. Diddy Lube](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309) (Opened: 2026-11-11T01:28:12Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307) (Opened: 2026-11-11T01:28:11Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308) (Opened: 2026-11-11T01:28:11Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306) (Opened: 2026-11-11T01:28:10Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305) (Opened: 2026-11-11T01:28:10Z)
+- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306) (Opened: 2026-11-11T01:28:10Z)
 - **IES-BoilerRoom/ed25519-ct-limb-verifier**: [[Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variable-time branches (`ed25519-ct-limb-verifier`)](https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/2) (Opened: 2026-11-10T23:17:31Z)
 - **IES-BoilerRoom/ed25519-ct-limb-verifier**: [[Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time radix-51 carry mask (`unpack_scalar_wire_frames`)](https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/1) (Opened: 2026-11-10T23:17:30Z)
-- **IES-BoilerRoom/wasm-component-canonical-abi**: [[Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic instruction gas polynomial (`lift_canonical_string_frames`)](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1) (Opened: 2026-11-10T23:17:29Z)
 - **IES-BoilerRoom/wasm-component-canonical-abi**: [[Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering (`wasm-component-canonical-abi`)](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2) (Opened: 2026-11-10T23:17:29Z)
+- **IES-BoilerRoom/wasm-component-canonical-abi**: [[Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic instruction gas polynomial (`lift_canonical_string_frames`)](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1) (Opened: 2026-11-10T23:17:29Z)
 - **theselfish/SlopStation13**: [[BOUNTY][$420][ADD] P. Diddy Lube](https://github.com/theselfish/SlopStation13/issues/40) (Opened: 2026-11-10T22:23:18Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 🪙 Bounty: Improve project documentation](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4304) (Opened: 2026-11-10T21:34:23Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] 🪙 Bounty: Improve project documentation](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4303) (Opened: 2026-11-10T21:34:22Z)
@@ -28,6 +29,5 @@
 - **PhanKhoa95/oss-bot-trap-benchmark**: [[Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift in compute_checkpoint_boundary](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/86) (Opened: 2026-11-10T11:32:08Z)
 - **PhanKhoa95/oss-bot-trap-benchmark**: [[Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input divergence in src/quant_execution_guard.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/85) (Opened: 2026-11-10T11:32:06Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-10T08:18](https://github.com/relayhop/sn-monetization-runtime/issues/1367) (Opened: 2026-11-10T08:18:37Z)
-- **andrewsiah/agentswarm-examples**: [[$2 site credit] Add a Rust example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/22) (Opened: 2026-11-10T05:20:42Z)
-- **andrewsiah/agentswarm-examples**: [[$2 site credit] Add a TypeScript example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/21) (Opened: 2026-11-10T04:44:57Z)
 - **andrewsiah/agentswarm-mcp**: [[$2 site credit] Add a Vietnamese README for agentswarm-mcp](https://github.com/andrewsiah/agentswarm-mcp/issues/12) (Opened: 2026-11-10T04:07:46Z)
+- **andrewsiah/agentswarm-pi**: [[$2 site credit] Add a Brazilian Portuguese README for agentswarm-pi](https://github.com/andrewsiah/agentswarm-pi/issues/3) (Opened: 2026-11-10T02:05:50Z)
