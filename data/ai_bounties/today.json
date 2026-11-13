@@ -1,11 +1,25 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-13T14:04:20.076520+00:00",
+    "generated_at": "2026-11-13T23:20:02.577742+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6373794974,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4801",
+      "created_at": "2026-11-13T14:53:46Z"
+    },
+    {
+      "id": 6373299083,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-13T14:28",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1376",
+      "created_at": "2026-11-13T14:28:15Z"
+    },
     {
       "id": 6364102773,
       "repository": "andrewsiah/agentswarm-pi",
@@ -42,17 +56,17 @@
       "created_at": "2026-11-13T00:41:13Z"
     },
     {
-      "id": 6362125295,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4315",
-      "created_at": "2026-11-13T00:41:12Z"
-    },
-    {
       "id": 6362125418,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "title": "[Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4316",
+      "created_at": "2026-11-13T00:41:12Z"
+    },
+    {
+      "id": 6362125295,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4315",
       "created_at": "2026-11-13T00:41:12Z"
     },
     {
@@ -201,20 +215,6 @@
       "title": "[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306",
       "created_at": "2026-11-11T01:28:10Z"
-    },
-    {
-      "id": 6317090701,
-      "repository": "theselfish/SlopStation13",
-      "title": "[BOUNTY][$420][ADD] P. Diddy Lube",
-      "url": "https://github.com/theselfish/SlopStation13/issues/40",
-      "created_at": "2026-11-10T22:23:18Z"
-    },
-    {
-      "id": 6316305562,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83e\ude99 Bounty: Improve project documentation",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4304",
-      "created_at": "2026-11-10T21:34:23Z"
     }
   ]
 }
