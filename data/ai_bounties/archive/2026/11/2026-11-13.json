@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-13T05:30:13.771392+00:00",
+    "generated_at": "2026-11-13T14:04:20.076520+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
@@ -26,13 +26,6 @@
       "title": "[radar] SN open bounty 2026-11-13T02:49",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1375",
       "created_at": "2026-11-13T02:49:44Z"
-    },
-    {
-      "id": 6363142255,
-      "repository": "andrewsiah/agentswarm-mcp",
-      "title": "[$2 site credit] Add a Python example that lists open bounties",
-      "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/24",
-      "created_at": "2026-11-13T02:06:34Z"
     },
     {
       "id": 6362385274,
@@ -161,13 +154,6 @@
       "created_at": "2026-11-12T13:11:22Z"
     },
     {
-      "id": 6343520483,
-      "repository": "nomos-spec/spec",
-      "title": "Call for implementations: independent SPEC-014 resolver (weekend-sized) \u2014 take Resolution out of Draft",
-      "url": "https://github.com/nomos-spec/spec/issues/33",
-      "created_at": "2026-11-12T05:28:21Z"
-    },
-    {
       "id": 6343517580,
       "repository": "nomos-spec/spec",
       "title": "Call for implementations: independent SPEC-008 Act verifier \u2014 be the one that takes it out of Draft",
@@ -215,6 +201,20 @@
       "title": "[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306",
       "created_at": "2026-11-11T01:28:10Z"
+    },
+    {
+      "id": 6317090701,
+      "repository": "theselfish/SlopStation13",
+      "title": "[BOUNTY][$420][ADD] P. Diddy Lube",
+      "url": "https://github.com/theselfish/SlopStation13/issues/40",
+      "created_at": "2026-11-10T22:23:18Z"
+    },
+    {
+      "id": 6316305562,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83e\ude99 Bounty: Improve project documentation",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4304",
+      "created_at": "2026-11-10T21:34:23Z"
     }
   ]
 }
