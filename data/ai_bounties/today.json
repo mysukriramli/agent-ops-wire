@@ -1,11 +1,95 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-12T23:16:59.363846+00:00",
+    "generated_at": "2026-11-13T05:30:13.771392+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6364102773,
+      "repository": "andrewsiah/agentswarm-pi",
+      "title": "[$2 site credit] Add a Python example that lists open bounties",
+      "url": "https://github.com/andrewsiah/agentswarm-pi/issues/16",
+      "created_at": "2026-11-13T03:32:28Z"
+    },
+    {
+      "id": 6363627604,
+      "repository": "andrewsiah/agentswarm-mcp",
+      "title": "[$2 site credit] Add a TypeScript example that lists open bounties",
+      "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/25",
+      "created_at": "2026-11-13T02:50:00Z"
+    },
+    {
+      "id": 6363624519,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-13T02:49",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1375",
+      "created_at": "2026-11-13T02:49:44Z"
+    },
+    {
+      "id": 6363142255,
+      "repository": "andrewsiah/agentswarm-mcp",
+      "title": "[$2 site credit] Add a Python example that lists open bounties",
+      "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/24",
+      "created_at": "2026-11-13T02:06:34Z"
+    },
+    {
+      "id": 6362385274,
+      "repository": "andrewsiah/agentswarm-cli",
+      "title": "[$2 site credit] Add a TypeScript example that lists open bounties",
+      "url": "https://github.com/andrewsiah/agentswarm-cli/issues/14",
+      "created_at": "2026-11-13T01:02:31Z"
+    },
+    {
+      "id": 6362125503,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preferenc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4317",
+      "created_at": "2026-11-13T00:41:13Z"
+    },
+    {
+      "id": 6362125295,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4315",
+      "created_at": "2026-11-13T00:41:12Z"
+    },
+    {
+      "id": 6362125418,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4316",
+      "created_at": "2026-11-13T00:41:12Z"
+    },
+    {
+      "id": 6362125171,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4314",
+      "created_at": "2026-11-13T00:41:11Z"
+    },
+    {
+      "id": 6362125016,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Bounty $2,000] Restore OpenVLA execution and action correctness",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4313",
+      "created_at": "2026-11-13T00:41:10Z"
+    },
+    {
+      "id": 6361854834,
+      "repository": "andrewsiah/agentswarm-cli",
+      "title": "[$2 site credit] Add a Python example that lists open bounties",
+      "url": "https://github.com/andrewsiah/agentswarm-cli/issues/13",
+      "created_at": "2026-11-13T00:18:47Z"
+    },
+    {
+      "id": 6361745925,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-13T00:10",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1374",
+      "created_at": "2026-11-13T00:10:16Z"
+    },
     {
       "id": 6360233234,
       "repository": "relayhop/sn-monetization-runtime",
@@ -131,90 +215,6 @@
       "title": "[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306",
       "created_at": "2026-11-11T01:28:10Z"
-    },
-    {
-      "id": 6317090701,
-      "repository": "theselfish/SlopStation13",
-      "title": "[BOUNTY][$420][ADD] P. Diddy Lube",
-      "url": "https://github.com/theselfish/SlopStation13/issues/40",
-      "created_at": "2026-11-10T22:23:18Z"
-    },
-    {
-      "id": 6316305562,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83e\ude99 Bounty: Improve project documentation",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4304",
-      "created_at": "2026-11-10T21:34:23Z"
-    },
-    {
-      "id": 6316305429,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83e\ude99 Bounty: Improve project documentation",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4303",
-      "created_at": "2026-11-10T21:34:22Z"
-    },
-    {
-      "id": 6316305276,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83e\ude99 Bounty: Improve project documentation",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4302",
-      "created_at": "2026-11-10T21:34:22Z"
-    },
-    {
-      "id": 6316305119,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83e\ude99 Bounty: Improve project documentation",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4301",
-      "created_at": "2026-11-10T21:34:21Z"
-    },
-    {
-      "id": 6316304995,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83e\ude99 Bounty: Improve project documentation",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4300",
-      "created_at": "2026-11-10T21:34:21Z"
-    },
-    {
-      "id": 6316304863,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83e\ude99 Bounty: Improve project documentation",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4299",
-      "created_at": "2026-11-10T21:34:20Z"
-    },
-    {
-      "id": 6316116048,
-      "repository": "auscaster/frantic-board",
-      "title": "Frantic bounty #148: Write one draft in a famous voice with Silvertongue's MCP server",
-      "url": "https://github.com/auscaster/frantic-board/issues/589",
-      "created_at": "2026-11-10T21:22:21Z"
-    },
-    {
-      "id": 6314802753,
-      "repository": "bshelby88/raen-bounties",
-      "title": "BOUNTY-01: ElizaOS plugin for the RAEN MCP gateway",
-      "url": "https://github.com/bshelby88/raen-bounties/issues/1",
-      "created_at": "2026-11-10T20:02:30Z"
-    },
-    {
-      "id": 6310407422,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4289",
-      "created_at": "2026-11-10T15:49:39Z"
-    },
-    {
-      "id": 6310407130,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 a",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4287",
-      "created_at": "2026-11-10T15:49:38Z"
-    },
-    {
-      "id": 6310407283,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift i",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4288",
-      "created_at": "2026-11-10T15:49:38Z"
     }
   ]
 }
