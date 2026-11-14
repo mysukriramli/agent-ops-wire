@@ -1,11 +1,60 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-14T05:21:19.279966+00:00",
+    "generated_at": "2026-11-14T13:06:11.420444+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6387963928,
+      "repository": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
+      "title": "[Escrowed $600 USDC] Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (`pcie-tlp-credit-flow-gate`)",
+      "url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2",
+      "created_at": "2026-11-14T09:10:54Z"
+    },
+    {
+      "id": 6387963817,
+      "repository": "IES-BoilerRoom/solana-svm-cpi-conformance",
+      "title": "[Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across depth-4 CPI frames (`solana-svm-cpi-conformance`)",
+      "url": "https://github.com/IES-BoilerRoom/solana-svm-cpi-conformance/issues/2",
+      "created_at": "2026-11-14T09:10:53Z"
+    },
+    {
+      "id": 6387963878,
+      "repository": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
+      "title": "[Escrowed $450 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (`reassemble_tlp_flit_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1",
+      "created_at": "2026-11-14T09:10:53Z"
+    },
+    {
+      "id": 6387963760,
+      "repository": "IES-BoilerRoom/solana-svm-cpi-conformance",
+      "title": "[Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account borrow-mask transfer equation (`decode_cpi_instruction_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/solana-svm-cpi-conformance/issues/1",
+      "created_at": "2026-11-14T09:10:52Z"
+    },
+    {
+      "id": 6386450030,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty][$0][corpus] devops 20 \u7bc7\u7f3a verify\uff1a\u8865\u4e00\u6761\u53ef\u6267\u884c\u7684\u786e\u8ba4\uff0c\u6216\u6807\u8bb0\u5931\u6548",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4876",
+      "created_at": "2026-11-14T06:40:56Z"
+    },
+    {
+      "id": 6386449156,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty][$0][i18n] lessons/en \u955c\u50cf\uff1a20 \u7bc7\u786e\u8ba4\u8fc7\u671f\u300143 \u7bc7\u6ca1\u6709\u6765\u6e90\uff0c\u5e76\u8865\u4e00\u9053\u95e8\u7981",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4875",
+      "created_at": "2026-11-14T06:40:50Z"
+    },
+    {
+      "id": 6386448661,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty][$0][corpus] 48 \u7bc7 draft\uff1a\u6bcf\u7bc7\u7ed9\u4e00\u4e2a promote/retire \u7684\u5224\u636e",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4874",
+      "created_at": "2026-11-14T06:40:47Z"
+    },
     {
       "id": 6373794974,
       "repository": "Ikalus1988/MisakaNet",
@@ -56,17 +105,17 @@
       "created_at": "2026-11-13T00:41:13Z"
     },
     {
-      "id": 6362125418,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4316",
-      "created_at": "2026-11-13T00:41:12Z"
-    },
-    {
       "id": 6362125295,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "title": "[Bounty] [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4315",
+      "created_at": "2026-11-13T00:41:12Z"
+    },
+    {
+      "id": 6362125418,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4316",
       "created_at": "2026-11-13T00:41:12Z"
     },
     {
@@ -166,55 +215,6 @@
       "title": "[$2 site credit] Add a PHP example that lists open bounties",
       "url": "https://github.com/andrewsiah/agentswarm-examples/issues/45",
       "created_at": "2026-11-12T13:11:22Z"
-    },
-    {
-      "id": 6343517580,
-      "repository": "nomos-spec/spec",
-      "title": "Call for implementations: independent SPEC-008 Act verifier \u2014 be the one that takes it out of Draft",
-      "url": "https://github.com/nomos-spec/spec/issues/32",
-      "created_at": "2026-11-12T05:28:05Z"
-    },
-    {
-      "id": 6330810083,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4692",
-      "created_at": "2026-11-11T14:41:44Z"
-    },
-    {
-      "id": 6319566278,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [BOUNTY][$420][ADD] P. Diddy Lube",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309",
-      "created_at": "2026-11-11T01:28:12Z"
-    },
-    {
-      "id": 6319566076,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307",
-      "created_at": "2026-11-11T01:28:11Z"
-    },
-    {
-      "id": 6319566173,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308",
-      "created_at": "2026-11-11T01:28:11Z"
-    },
-    {
-      "id": 6319565898,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305",
-      "created_at": "2026-11-11T01:28:10Z"
-    },
-    {
-      "id": 6319565996,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306",
-      "created_at": "2026-11-11T01:28:10Z"
     }
   ]
 }
