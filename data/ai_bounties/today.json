@@ -1,11 +1,39 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-14T22:03:35.410319+00:00",
+    "generated_at": "2026-11-15T05:16:49.258157+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6399878628,
+      "repository": "Fractal-Neurons/pacta",
+      "title": "[$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or 4th Unindexed (>=$15M TVL) Control-Plane Mismatch",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/24",
+      "created_at": "2026-11-15T04:18:04Z"
+    },
+    {
+      "id": 6399878481,
+      "repository": "Fractal-Neurons/pacta",
+      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 \u2014 Ethereum Mainnet (>=$25M TVL Unindexed Protocol)",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/22",
+      "created_at": "2026-11-15T04:18:03Z"
+    },
+    {
+      "id": 6399878557,
+      "repository": "Fractal-Neurons/pacta",
+      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #3 \u2014 Base (8453) or Arbitrum One (42161) (>=$10M TVL Unindexed Protocol)",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/23",
+      "created_at": "2026-11-15T04:18:03Z"
+    },
+    {
+      "id": 6399878406,
+      "repository": "Fractal-Neurons/pacta",
+      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 \u2014 Ethereum Mainnet (>=$25M TVL Unindexed Protocol)",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/21",
+      "created_at": "2026-11-15T04:18:02Z"
+    },
     {
       "id": 6391738799,
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
@@ -187,34 +215,6 @@
       "title": "[Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4316",
       "created_at": "2026-11-13T00:41:12Z"
-    },
-    {
-      "id": 6362125171,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4314",
-      "created_at": "2026-11-13T00:41:11Z"
-    },
-    {
-      "id": 6362125016,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $2,000] Restore OpenVLA execution and action correctness",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4313",
-      "created_at": "2026-11-13T00:41:10Z"
-    },
-    {
-      "id": 6361854834,
-      "repository": "andrewsiah/agentswarm-cli",
-      "title": "[$2 site credit] Add a Python example that lists open bounties",
-      "url": "https://github.com/andrewsiah/agentswarm-cli/issues/13",
-      "created_at": "2026-11-13T00:18:47Z"
-    },
-    {
-      "id": 6361745925,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-13T00:10",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1374",
-      "created_at": "2026-11-13T00:10:16Z"
     }
   ]
 }
