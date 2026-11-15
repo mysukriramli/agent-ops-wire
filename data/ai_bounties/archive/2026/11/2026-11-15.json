@@ -1,220 +1,220 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-15T13:35:39.769340+00:00",
+    "generated_at": "2026-11-15T22:33:47.267077+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
     {
-      "id": 6403196413,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 \u2014 Ethereum Mainnet (>=$25",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4351",
-      "created_at": "2026-11-15T11:06:54Z"
+      "id": 6409870437,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-15T21:41",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1387",
+      "created_at": "2026-11-15T21:41:02Z"
     },
     {
-      "id": 6403196228,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #3 \u2014 Base (8453) or Arbitrum",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4349",
-      "created_at": "2026-11-15T11:06:53Z"
+      "id": 6408875934,
+      "repository": "hanzoai/mcp",
+      "title": "AST-aware edits, semantic diffs and incremental test selection",
+      "url": "https://github.com/hanzoai/mcp/issues/38",
+      "created_at": "2026-11-15T20:07:46Z"
     },
     {
-      "id": 6403196332,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 \u2014 Ethereum Mainnet (>=$25",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4350",
-      "created_at": "2026-11-15T11:06:53Z"
+      "id": 6408875596,
+      "repository": "hanzoai/mcp",
+      "title": "Graph tools for repository reasoning and change-impact analysis (RepoGraph)",
+      "url": "https://github.com/hanzoai/mcp/issues/37",
+      "created_at": "2026-11-15T20:07:44Z"
     },
     {
-      "id": 6403196115,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or 4th Unin",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4348",
-      "created_at": "2026-11-15T11:06:52Z"
+      "id": 6408875183,
+      "repository": "hanzoai/mcp",
+      "title": "Dynamic repository map ranked by the symbol graph (RepoMap)",
+      "url": "https://github.com/hanzoai/mcp/issues/36",
+      "created_at": "2026-11-15T20:07:42Z"
     },
     {
-      "id": 6403195957,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83e\ude99 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4346",
-      "created_at": "2026-11-15T11:06:51Z"
+      "id": 6408874817,
+      "repository": "hanzoai/mcp",
+      "title": "Trigram code search for exact, regex and symbol queries (Zoekt)",
+      "url": "https://github.com/hanzoai/mcp/issues/35",
+      "created_at": "2026-11-15T20:07:40Z"
     },
     {
-      "id": 6403196043,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Arena 35pts / $0.035] fix(soroban): replace raw fee arithmetic with checked_mul",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4347",
-      "created_at": "2026-11-15T11:06:51Z"
+      "id": 6408874513,
+      "repository": "hanzoai/mcp",
+      "title": "Compiler-aware code knowledge graph: Tree-sitter plus SCIP",
+      "url": "https://github.com/hanzoai/mcp/issues/34",
+      "created_at": "2026-11-15T20:07:38Z"
     },
     {
-      "id": 6403195865,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4345",
-      "created_at": "2026-11-15T11:06:50Z"
+      "id": 6408874166,
+      "repository": "hanzoai/agents",
+      "title": "Learned memory policy: when to add, update, delete, forget or abstain (Memory-R1)",
+      "url": "https://github.com/hanzoai/agents/issues/66",
+      "created_at": "2026-11-15T20:07:37Z"
     },
     {
-      "id": 6403195689,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4343",
-      "created_at": "2026-11-15T11:06:49Z"
+      "id": 6408873825,
+      "repository": "hanzoai/agents",
+      "title": "Self-organising associative memory with bounded consolidation (A-MEM)",
+      "url": "https://github.com/hanzoai/agents/issues/65",
+      "created_at": "2026-11-15T20:07:35Z"
     },
     {
-      "id": 6403195788,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4344",
-      "created_at": "2026-11-15T11:06:49Z"
+      "id": 6408873447,
+      "repository": "hanzoai/agents",
+      "title": "Reflection with belief separation and consolidation (retain, recall, reflect)",
+      "url": "https://github.com/hanzoai/agents/issues/64",
+      "created_at": "2026-11-15T20:07:33Z"
     },
     {
-      "id": 6402773985,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/87",
-      "created_at": "2026-11-15T10:18:15Z"
+      "id": 6408873069,
+      "repository": "hanzoai/agents",
+      "title": "Tiered episodic, semantic and procedural memory with one API",
+      "url": "https://github.com/hanzoai/agents/issues/63",
+      "created_at": "2026-11-15T20:07:31Z"
     },
     {
-      "id": 6402773810,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/86",
-      "created_at": "2026-11-15T10:18:14Z"
+      "id": 6408872752,
+      "repository": "hanzoai/agents",
+      "title": "Atomic memory facts with deduplication and selective writes (Mem0-style)",
+      "url": "https://github.com/hanzoai/agents/issues/62",
+      "created_at": "2026-11-15T20:07:29Z"
     },
     {
-      "id": 6402773614,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/85",
-      "created_at": "2026-11-15T10:18:13Z"
+      "id": 6408872390,
+      "repository": "hanzoai/graph",
+      "title": "Native graph storage and a cost-based graph/vector query planner",
+      "url": "https://github.com/hanzoai/graph/issues/5",
+      "created_at": "2026-11-15T20:07:27Z"
     },
     {
-      "id": 6402773433,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83e\ude99 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 ",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/84",
-      "created_at": "2026-11-15T10:18:12Z"
+      "id": 6408872027,
+      "repository": "hanzoai/graph",
+      "title": "Temporal and bitemporal knowledge graph with provenance (Graphiti)",
+      "url": "https://github.com/hanzoai/graph/issues/4",
+      "created_at": "2026-11-15T20:07:25Z"
     },
     {
-      "id": 6401179218,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Arena 35pts / $0.035] fix(soroban): replace raw fee arithmetic with checked_mul/checked_div in src/soroban_math.rs",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/103",
-      "created_at": "2026-11-15T07:09:10Z"
+      "id": 6408871683,
+      "repository": "hanzoai/graph",
+      "title": "Community detection and hierarchical summaries for global questions (GraphRAG)",
+      "url": "https://github.com/hanzoai/graph/issues/3",
+      "created_at": "2026-11-15T20:07:24Z"
     },
     {
-      "id": 6401179075,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Arena 50pts / $0.05] test(ui): verify swap simulator DOM state with >=800x600 Before/After PNGs in src/ui/swap_preview.html",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/102",
-      "created_at": "2026-11-15T07:09:09Z"
+      "id": 6408871343,
+      "repository": "hanzoai/graph",
+      "title": "Associative memory by bounded Personalized PageRank (HippoRAG 2)",
+      "url": "https://github.com/hanzoai/graph/issues/2",
+      "created_at": "2026-11-15T20:07:22Z"
     },
     {
-      "id": 6401178832,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Arena 40pts / $0.04] feat(clarity): enforce uint128 multiply-before-divide guard in contracts/sbtc_vault.clar",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/101",
-      "created_at": "2026-11-15T07:09:07Z"
+      "id": 6408870978,
+      "repository": "hanzoai/graph",
+      "title": "Incremental entity-relationship indexing (LightRAG)",
+      "url": "https://github.com/hanzoai/graph/issues/1",
+      "created_at": "2026-11-15T20:07:20Z"
     },
     {
-      "id": 6401178635,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Arena 30pts / $0.03] fix(x402): preserve explicitRetryable override and boundAt in src/x402_payment_guard.ts",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/100",
-      "created_at": "2026-11-15T07:09:05Z"
+      "id": 6408870527,
+      "repository": "hanzoai/index",
+      "title": "ANN and object-storage-native vector indexes (DiskANN, USearch, LanceDB as references)",
+      "url": "https://github.com/hanzoai/index/issues/15",
+      "created_at": "2026-11-15T20:07:17Z"
     },
     {
-      "id": 6400825483,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5005",
-      "created_at": "2026-11-15T06:23:21Z"
+      "id": 6408870171,
+      "repository": "hanzoai/index",
+      "title": "Tiered cross-encoder reranking and retrieval distillation",
+      "url": "https://github.com/hanzoai/index/issues/14",
+      "created_at": "2026-11-15T20:07:16Z"
     },
     {
-      "id": 6400823780,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5004",
-      "created_at": "2026-11-15T06:23:07Z"
+      "id": 6408869864,
+      "repository": "hanzoai/index",
+      "title": "Specialised multilingual, code and domain embedding models",
+      "url": "https://github.com/hanzoai/index/issues/13",
+      "created_at": "2026-11-15T20:07:14Z"
     },
     {
-      "id": 6400823584,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5003",
-      "created_at": "2026-11-15T06:23:05Z"
+      "id": 6408869475,
+      "repository": "hanzoai/index",
+      "title": "Late-interaction retrieval: compressed multi-vector indexes and a SIMD MaxSim operator (ColBERTv2, PLAID)",
+      "url": "https://github.com/hanzoai/index/issues/12",
+      "created_at": "2026-11-15T20:07:12Z"
     },
     {
-      "id": 6400823387,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5002",
-      "created_at": "2026-11-15T06:23:03Z"
+      "id": 6408869151,
+      "repository": "hanzoai/index",
+      "title": "Hybrid lexical, vector and structural search with rank fusion",
+      "url": "https://github.com/hanzoai/index/issues/11",
+      "created_at": "2026-11-15T20:07:10Z"
     },
     {
-      "id": 6400822125,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5001",
-      "created_at": "2026-11-15T06:22:53Z"
+      "id": 6408739807,
+      "repository": "hanzoai/engine",
+      "title": "Model co-design for the edge: early exits, structured sparsity, quantization-aware distillation",
+      "url": "https://github.com/hanzoai/engine/issues/62",
+      "created_at": "2026-11-15T19:55:21Z"
     },
     {
-      "id": 6400821907,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5000",
-      "created_at": "2026-11-15T06:22:52Z"
+      "id": 6408739436,
+      "repository": "hanzoai/engine",
+      "title": "Power-aware inference: DVFS and thermal stability policy",
+      "url": "https://github.com/hanzoai/engine/issues/61",
+      "created_at": "2026-11-15T19:55:19Z"
     },
     {
-      "id": 6400821406,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 4 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4999",
-      "created_at": "2026-11-15T06:22:48Z"
+      "id": 6408738966,
+      "repository": "hanzoai/engine",
+      "title": "Disaggregated prefill/decode and KV transport",
+      "url": "https://github.com/hanzoai/engine/issues/60",
+      "created_at": "2026-11-15T19:55:16Z"
     },
     {
-      "id": 6400821184,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 4 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4998",
-      "created_at": "2026-11-15T06:22:46Z"
+      "id": 6408738633,
+      "repository": "hanzoai/engine",
+      "title": "Native sparse attention and multi-head latent attention",
+      "url": "https://github.com/hanzoai/engine/issues/59",
+      "created_at": "2026-11-15T19:55:14Z"
     },
     {
-      "id": 6400820739,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 7 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4997",
-      "created_at": "2026-11-15T06:22:42Z"
+      "id": 6408738260,
+      "repository": "hanzoai/engine",
+      "title": "Fused MoE execution, expert paging and expert-parallel communication",
+      "url": "https://github.com/hanzoai/engine/issues/58",
+      "created_at": "2026-11-15T19:55:13Z"
     },
     {
-      "id": 6400820543,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 7 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4996",
-      "created_at": "2026-11-15T06:22:41Z"
+      "id": 6408737926,
+      "repository": "hanzoai/engine",
+      "title": "Heterogeneous memory, CPU/GPU offload and cold-start minimisation",
+      "url": "https://github.com/hanzoai/engine/issues/57",
+      "created_at": "2026-11-15T19:55:11Z"
     },
     {
-      "id": 6399878628,
-      "repository": "Fractal-Neurons/pacta",
-      "title": "[$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or 4th Unindexed (>=$15M TVL) Control-Plane Mismatch",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/24",
-      "created_at": "2026-11-15T04:18:04Z"
+      "id": 6408737548,
+      "repository": "hanzoai/engine",
+      "title": "Continuous batching, chunked prefill and latency-aware scheduling",
+      "url": "https://github.com/hanzoai/engine/issues/56",
+      "created_at": "2026-11-15T19:55:09Z"
     },
     {
-      "id": 6399878481,
-      "repository": "Fractal-Neurons/pacta",
-      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 \u2014 Ethereum Mainnet (>=$25M TVL Unindexed Protocol)",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/22",
-      "created_at": "2026-11-15T04:18:03Z"
+      "id": 6408737229,
+      "repository": "hanzoai/engine",
+      "title": "Next-generation speculative decoding: feature-level drafts (EAGLE-3) and workload-aware draft selection",
+      "url": "https://github.com/hanzoai/engine/issues/55",
+      "created_at": "2026-11-15T19:55:07Z"
     },
     {
-      "id": 6399878557,
-      "repository": "Fractal-Neurons/pacta",
-      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #3 \u2014 Base (8453) or Arbitrum One (42161) (>=$10M TVL Unindexed Protocol)",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/23",
-      "created_at": "2026-11-15T04:18:03Z"
+      "id": 6408736832,
+      "repository": "hanzoai/engine",
+      "title": "CUDA graphs for the linear-attention decode path, verification and variable shapes",
+      "url": "https://github.com/hanzoai/engine/issues/54",
+      "created_at": "2026-11-15T19:55:05Z"
     }
   ]
 }
