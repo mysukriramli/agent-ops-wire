@@ -1,11 +1,200 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-15T05:16:49.258157+00:00",
+    "generated_at": "2026-11-15T13:35:39.769340+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6403196413,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 \u2014 Ethereum Mainnet (>=$25",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4351",
+      "created_at": "2026-11-15T11:06:54Z"
+    },
+    {
+      "id": 6403196228,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #3 \u2014 Base (8453) or Arbitrum",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4349",
+      "created_at": "2026-11-15T11:06:53Z"
+    },
+    {
+      "id": 6403196332,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 \u2014 Ethereum Mainnet (>=$25",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4350",
+      "created_at": "2026-11-15T11:06:53Z"
+    },
+    {
+      "id": 6403196115,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or 4th Unin",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4348",
+      "created_at": "2026-11-15T11:06:52Z"
+    },
+    {
+      "id": 6403195957,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83e\ude99 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4346",
+      "created_at": "2026-11-15T11:06:51Z"
+    },
+    {
+      "id": 6403196043,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Arena 35pts / $0.035] fix(soroban): replace raw fee arithmetic with checked_mul",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4347",
+      "created_at": "2026-11-15T11:06:51Z"
+    },
+    {
+      "id": 6403195865,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4345",
+      "created_at": "2026-11-15T11:06:50Z"
+    },
+    {
+      "id": 6403195689,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4343",
+      "created_at": "2026-11-15T11:06:49Z"
+    },
+    {
+      "id": 6403195788,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4344",
+      "created_at": "2026-11-15T11:06:49Z"
+    },
+    {
+      "id": 6402773985,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/87",
+      "created_at": "2026-11-15T10:18:15Z"
+    },
+    {
+      "id": 6402773810,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/86",
+      "created_at": "2026-11-15T10:18:14Z"
+    },
+    {
+      "id": 6402773614,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/85",
+      "created_at": "2026-11-15T10:18:13Z"
+    },
+    {
+      "id": 6402773433,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/84",
+      "created_at": "2026-11-15T10:18:12Z"
+    },
+    {
+      "id": 6401179218,
+      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
+      "title": "[Arena 35pts / $0.035] fix(soroban): replace raw fee arithmetic with checked_mul/checked_div in src/soroban_math.rs",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/103",
+      "created_at": "2026-11-15T07:09:10Z"
+    },
+    {
+      "id": 6401179075,
+      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
+      "title": "[Arena 50pts / $0.05] test(ui): verify swap simulator DOM state with >=800x600 Before/After PNGs in src/ui/swap_preview.html",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/102",
+      "created_at": "2026-11-15T07:09:09Z"
+    },
+    {
+      "id": 6401178832,
+      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
+      "title": "[Arena 40pts / $0.04] feat(clarity): enforce uint128 multiply-before-divide guard in contracts/sbtc_vault.clar",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/101",
+      "created_at": "2026-11-15T07:09:07Z"
+    },
+    {
+      "id": 6401178635,
+      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
+      "title": "[Arena 30pts / $0.03] fix(x402): preserve explicitRetryable override and boundAt in src/x402_payment_guard.ts",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/100",
+      "created_at": "2026-11-15T07:09:05Z"
+    },
+    {
+      "id": 6400825483,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5005",
+      "created_at": "2026-11-15T06:23:21Z"
+    },
+    {
+      "id": 6400823780,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5004",
+      "created_at": "2026-11-15T06:23:07Z"
+    },
+    {
+      "id": 6400823584,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5003",
+      "created_at": "2026-11-15T06:23:05Z"
+    },
+    {
+      "id": 6400823387,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5002",
+      "created_at": "2026-11-15T06:23:03Z"
+    },
+    {
+      "id": 6400822125,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5001",
+      "created_at": "2026-11-15T06:22:53Z"
+    },
+    {
+      "id": 6400821907,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5000",
+      "created_at": "2026-11-15T06:22:52Z"
+    },
+    {
+      "id": 6400821406,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4999",
+      "created_at": "2026-11-15T06:22:48Z"
+    },
+    {
+      "id": 6400821184,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4998",
+      "created_at": "2026-11-15T06:22:46Z"
+    },
+    {
+      "id": 6400820739,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 7 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4997",
+      "created_at": "2026-11-15T06:22:42Z"
+    },
+    {
+      "id": 6400820543,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 7 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4996",
+      "created_at": "2026-11-15T06:22:41Z"
+    },
     {
       "id": 6399878628,
       "repository": "Fractal-Neurons/pacta",
@@ -26,195 +215,6 @@
       "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #3 \u2014 Base (8453) or Arbitrum One (42161) (>=$10M TVL Unindexed Protocol)",
       "url": "https://github.com/Fractal-Neurons/pacta/issues/23",
       "created_at": "2026-11-15T04:18:03Z"
-    },
-    {
-      "id": 6399878406,
-      "repository": "Fractal-Neurons/pacta",
-      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 \u2014 Ethereum Mainnet (>=$25M TVL Unindexed Protocol)",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/21",
-      "created_at": "2026-11-15T04:18:02Z"
-    },
-    {
-      "id": 6391738799,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $450 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4340",
-      "created_at": "2026-11-14T15:06:03Z"
-    },
-    {
-      "id": 6391738893,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account b",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4341",
-      "created_at": "2026-11-14T15:06:03Z"
-    },
-    {
-      "id": 6391738714,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4339",
-      "created_at": "2026-11-14T15:06:02Z"
-    },
-    {
-      "id": 6391738580,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $600 USDC] Align Posted/Non-Posted header credit wrap mask under 256B ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4338",
-      "created_at": "2026-11-14T15:06:02Z"
-    },
-    {
-      "id": 6390734089,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4908",
-      "created_at": "2026-11-14T13:47:30Z"
-    },
-    {
-      "id": 6390731435,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4907",
-      "created_at": "2026-11-14T13:47:17Z"
-    },
-    {
-      "id": 6390731035,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4906",
-      "created_at": "2026-11-14T13:47:16Z"
-    },
-    {
-      "id": 6390730764,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4905",
-      "created_at": "2026-11-14T13:47:14Z"
-    },
-    {
-      "id": 6390729737,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4904",
-      "created_at": "2026-11-14T13:47:10Z"
-    },
-    {
-      "id": 6390500218,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-14T13:24",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1381",
-      "created_at": "2026-11-14T13:24:12Z"
-    },
-    {
-      "id": 6387963928,
-      "repository": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
-      "title": "[Escrowed $600 USDC] Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (`pcie-tlp-credit-flow-gate`)",
-      "url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2",
-      "created_at": "2026-11-14T09:10:54Z"
-    },
-    {
-      "id": 6387963817,
-      "repository": "IES-BoilerRoom/solana-svm-cpi-conformance",
-      "title": "[Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across depth-4 CPI frames (`solana-svm-cpi-conformance`)",
-      "url": "https://github.com/IES-BoilerRoom/solana-svm-cpi-conformance/issues/2",
-      "created_at": "2026-11-14T09:10:53Z"
-    },
-    {
-      "id": 6387963878,
-      "repository": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
-      "title": "[Escrowed $450 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (`reassemble_tlp_flit_frames`)",
-      "url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1",
-      "created_at": "2026-11-14T09:10:53Z"
-    },
-    {
-      "id": 6387963760,
-      "repository": "IES-BoilerRoom/solana-svm-cpi-conformance",
-      "title": "[Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account borrow-mask transfer equation (`decode_cpi_instruction_frames`)",
-      "url": "https://github.com/IES-BoilerRoom/solana-svm-cpi-conformance/issues/1",
-      "created_at": "2026-11-14T09:10:52Z"
-    },
-    {
-      "id": 6386450030,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty][$0][corpus] devops 20 \u7bc7\u7f3a verify\uff1a\u8865\u4e00\u6761\u53ef\u6267\u884c\u7684\u786e\u8ba4\uff0c\u6216\u6807\u8bb0\u5931\u6548",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4876",
-      "created_at": "2026-11-14T06:40:56Z"
-    },
-    {
-      "id": 6386449156,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty][$0][i18n] lessons/en \u955c\u50cf\uff1a20 \u7bc7\u786e\u8ba4\u8fc7\u671f\u300143 \u7bc7\u6ca1\u6709\u6765\u6e90\uff0c\u5e76\u8865\u4e00\u9053\u95e8\u7981",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4875",
-      "created_at": "2026-11-14T06:40:50Z"
-    },
-    {
-      "id": 6386448661,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty][$0][corpus] 48 \u7bc7 draft\uff1a\u6bcf\u7bc7\u7ed9\u4e00\u4e2a promote/retire \u7684\u5224\u636e",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4874",
-      "created_at": "2026-11-14T06:40:47Z"
-    },
-    {
-      "id": 6373794974,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4801",
-      "created_at": "2026-11-13T14:53:46Z"
-    },
-    {
-      "id": 6373299083,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-13T14:28",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1376",
-      "created_at": "2026-11-13T14:28:15Z"
-    },
-    {
-      "id": 6364102773,
-      "repository": "andrewsiah/agentswarm-pi",
-      "title": "[$2 site credit] Add a Python example that lists open bounties",
-      "url": "https://github.com/andrewsiah/agentswarm-pi/issues/16",
-      "created_at": "2026-11-13T03:32:28Z"
-    },
-    {
-      "id": 6363627604,
-      "repository": "andrewsiah/agentswarm-mcp",
-      "title": "[$2 site credit] Add a TypeScript example that lists open bounties",
-      "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/25",
-      "created_at": "2026-11-13T02:50:00Z"
-    },
-    {
-      "id": 6363624519,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-13T02:49",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1375",
-      "created_at": "2026-11-13T02:49:44Z"
-    },
-    {
-      "id": 6362385274,
-      "repository": "andrewsiah/agentswarm-cli",
-      "title": "[$2 site credit] Add a TypeScript example that lists open bounties",
-      "url": "https://github.com/andrewsiah/agentswarm-cli/issues/14",
-      "created_at": "2026-11-13T01:02:31Z"
-    },
-    {
-      "id": 6362125503,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preferenc",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4317",
-      "created_at": "2026-11-13T00:41:13Z"
-    },
-    {
-      "id": 6362125295,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4315",
-      "created_at": "2026-11-13T00:41:12Z"
-    },
-    {
-      "id": 6362125418,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4316",
-      "created_at": "2026-11-13T00:41:12Z"
     }
   ]
 }
