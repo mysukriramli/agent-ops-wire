@@ -1,11 +1,88 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-16T05:14:50.078265+00:00",
+    "generated_at": "2026-11-16T15:03:58.650764+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6423152563,
+      "repository": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "title": "[BOUNTY] Suggestion #1325",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1410",
+      "created_at": "2026-11-16T14:15:14Z"
+    },
+    {
+      "id": 6419294669,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] Open reasoning RL / GRPO training pipeline",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/90",
+      "created_at": "2026-11-16T10:32:46Z"
+    },
+    {
+      "id": 6418285177,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $450 USDC] Fix ACK stream chunk ceiling and BBRv3 ProbeBW_DOWN infligh",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4366",
+      "created_at": "2026-11-16T09:32:05Z"
+    },
+    {
+      "id": 6418285029,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $450 USDC] Fix module frame ceiling check and align deterministic byte",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4365",
+      "created_at": "2026-11-16T09:32:05Z"
+    },
+    {
+      "id": 6418284718,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $600 USDC] Enforce linear resource drop safety across loop back-edges ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4363",
+      "created_at": "2026-11-16T09:32:04Z"
+    },
+    {
+      "id": 6418284864,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $600 USDC] Stabilize min-RTT filter window across shallow-buffer ECN m",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4364",
+      "created_at": "2026-11-16T09:32:04Z"
+    },
+    {
+      "id": 6418221066,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-16T09:28",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1392",
+      "created_at": "2026-11-16T09:28:14Z"
+    },
+    {
+      "id": 6416954780,
+      "repository": "IES-BoilerRoom/MoveVM-bytecode-ability-checker",
+      "title": "[Escrowed $600 USDC] Enforce linear resource drop safety across loop back-edges (`MoveVM-bytecode-ability-checker`)",
+      "url": "https://github.com/IES-BoilerRoom/MoveVM-bytecode-ability-checker/issues/2",
+      "created_at": "2026-11-16T08:07:39Z"
+    },
+    {
+      "id": 6416954512,
+      "repository": "IES-BoilerRoom/tcp-bbrv3-pacing-verifier",
+      "title": "[Escrowed $600 USDC] Stabilize min-RTT filter window across shallow-buffer ECN marking bursts (`tcp-bbrv3-pacing-verifier`)",
+      "url": "https://github.com/IES-BoilerRoom/tcp-bbrv3-pacing-verifier/issues/2",
+      "created_at": "2026-11-16T08:07:38Z"
+    },
+    {
+      "id": 6416954656,
+      "repository": "IES-BoilerRoom/MoveVM-bytecode-ability-checker",
+      "title": "[Escrowed $450 USDC] Fix module frame ceiling check and align deterministic bytecode gas residue (`parse_move_module_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/MoveVM-bytecode-ability-checker/issues/1",
+      "created_at": "2026-11-16T08:07:38Z"
+    },
+    {
+      "id": 6416954395,
+      "repository": "IES-BoilerRoom/tcp-bbrv3-pacing-verifier",
+      "title": "[Escrowed $450 USDC] Fix ACK stream chunk ceiling and BBRv3 ProbeBW_DOWN inflight headroom witness (`segment_bbr_ack_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/tcp-bbrv3-pacing-verifier/issues/1",
+      "created_at": "2026-11-16T08:07:37Z"
+    },
     {
       "id": 6414532098,
       "repository": "hanzoai/cloud",
@@ -138,83 +215,6 @@
       "title": "Decentralized peer discovery and routing (libp2p)",
       "url": "https://github.com/hanzoai/cloud/issues/13",
       "created_at": "2026-11-16T05:00:29Z"
-    },
-    {
-      "id": 6414526650,
-      "repository": "hanzoai/engine",
-      "title": "Permissionless GPU provider daemon",
-      "url": "https://github.com/hanzoai/engine/issues/64",
-      "created_at": "2026-11-16T05:00:27Z"
-    },
-    {
-      "id": 6414436565,
-      "repository": "zoo-apps/papers",
-      "title": "Constitutional governance and formal protocol verification",
-      "url": "https://github.com/zoo-apps/papers/issues/16",
-      "created_at": "2026-11-16T04:52:10Z"
-    },
-    {
-      "id": 6414436290,
-      "repository": "zoo-apps/papers",
-      "title": "Useful-work receipts and contribution settlement",
-      "url": "https://github.com/zoo-apps/papers/issues/15",
-      "created_at": "2026-11-16T04:52:09Z"
-    },
-    {
-      "id": 6414436008,
-      "repository": "zoo-apps/papers",
-      "title": "Attested vs challenged inference verification",
-      "url": "https://github.com/zoo-apps/papers/issues/14",
-      "created_at": "2026-11-16T04:52:07Z"
-    },
-    {
-      "id": 6414435731,
-      "repository": "zoo-apps/papers",
-      "title": "Proof of AI: CPU-verifiable GPU work",
-      "url": "https://github.com/zoo-apps/papers/issues/13",
-      "created_at": "2026-11-16T04:52:06Z"
-    },
-    {
-      "id": 6414435503,
-      "repository": "zoo-apps/papers",
-      "title": "Open decentralized inference network",
-      "url": "https://github.com/zoo-apps/papers/issues/12",
-      "created_at": "2026-11-16T04:52:04Z"
-    },
-    {
-      "id": 6414435271,
-      "repository": "zoo-apps/gym",
-      "title": "Open reasoning RL / GRPO training pipeline",
-      "url": "https://github.com/zoo-apps/gym/issues/7",
-      "created_at": "2026-11-16T04:52:02Z"
-    },
-    {
-      "id": 6414435023,
-      "repository": "zoo-apps/gym",
-      "title": "Collective model merging (DeltaSoup)",
-      "url": "https://github.com/zoo-apps/gym/issues/6",
-      "created_at": "2026-11-16T04:52:01Z"
-    },
-    {
-      "id": 6414434592,
-      "repository": "zoo-apps/gym",
-      "title": "Adversarial federated-learning benchmark",
-      "url": "https://github.com/zoo-apps/gym/issues/5",
-      "created_at": "2026-11-16T04:51:58Z"
-    },
-    {
-      "id": 6414434249,
-      "repository": "zoo-apps/gym",
-      "title": "Internet-scale low-communication training",
-      "url": "https://github.com/zoo-apps/gym/issues/4",
-      "created_at": "2026-11-16T04:51:56Z"
-    },
-    {
-      "id": 6414433982,
-      "repository": "zoo-apps/gym",
-      "title": "Federated LoRA/QLoRA for Zen across independent workers",
-      "url": "https://github.com/zoo-apps/gym/issues/3",
-      "created_at": "2026-11-16T04:51:55Z"
     }
   ]
 }
