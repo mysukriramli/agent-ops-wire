@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "domain": "ai_bounties",
+    "generated_at": "2026-11-16T05:14:50.078265+00:00",
+    "total_items": 30,
+    "schema_version": "1.0.0"
+  },
+  "open_tasks": [
+    {
+      "id": 6414532098,
+      "repository": "hanzoai/cloud",
+      "title": "Full sovereignty and network exit test",
+      "url": "https://github.com/hanzoai/cloud/issues/20",
+      "created_at": "2026-11-16T05:00:58Z"
+    },
+    {
+      "id": 6414531869,
+      "repository": "hanzoai/cloud",
+      "title": "Open protocol governance, treasury and forkability",
+      "url": "https://github.com/hanzoai/cloud/issues/19",
+      "created_at": "2026-11-16T05:00:56Z"
+    },
+    {
+      "id": 6414531591,
+      "repository": "hanzoai/cloud",
+      "title": "On-chain agent identity, reputation and delegated wallets (ERC-8004)",
+      "url": "https://github.com/hanzoai/cloud/issues/18",
+      "created_at": "2026-11-16T05:00:54Z"
+    },
+    {
+      "id": 6414531339,
+      "repository": "hanzoai/cloud",
+      "title": "Compute escrow, service guarantees, challenges and rewards",
+      "url": "https://github.com/hanzoai/cloud/issues/17",
+      "created_at": "2026-11-16T05:00:53Z"
+    },
+    {
+      "id": 6414531015,
+      "repository": "hanzoai/cloud",
+      "title": "Permissionless x402 payments and provider settlement",
+      "url": "https://github.com/hanzoai/cloud/issues/16",
+      "created_at": "2026-11-16T05:00:51Z"
+    },
+    {
+      "id": 6414530687,
+      "repository": "hanzoai/vfs",
+      "title": "Decentralized data, model checkpoints and agent memory",
+      "url": "https://github.com/hanzoai/vfs/issues/39",
+      "created_at": "2026-11-16T05:00:49Z"
+    },
+    {
+      "id": 6414530411,
+      "repository": "hanzoai/engine",
+      "title": "Verifiable federated updates and Byzantine-robust training (Hanzo side)",
+      "url": "https://github.com/hanzoai/engine/issues/73",
+      "created_at": "2026-11-16T05:00:48Z"
+    },
+    {
+      "id": 6414530159,
+      "repository": "hanzoai/engine",
+      "title": "Permissionless internet-scale model training",
+      "url": "https://github.com/hanzoai/engine/issues/72",
+      "created_at": "2026-11-16T05:00:46Z"
+    },
+    {
+      "id": 6414529865,
+      "repository": "hanzoai/engine",
+      "title": "Decentralized edge and mobile inference providers",
+      "url": "https://github.com/hanzoai/engine/issues/71",
+      "created_at": "2026-11-16T05:00:44Z"
+    },
+    {
+      "id": 6414529573,
+      "repository": "hanzoai/engine",
+      "title": "Peer-to-peer distributed LLM inference",
+      "url": "https://github.com/hanzoai/engine/issues/70",
+      "created_at": "2026-11-16T05:00:43Z"
+    },
+    {
+      "id": 6414529291,
+      "repository": "hanzoai/engine",
+      "title": "Confidential GPU inference and remote attestation client",
+      "url": "https://github.com/hanzoai/engine/issues/69",
+      "created_at": "2026-11-16T05:00:41Z"
+    },
+    {
+      "id": 6414528988,
+      "repository": "hanzoai/engine",
+      "title": "zkML and zkVM proofs for small models and decisions",
+      "url": "https://github.com/hanzoai/engine/issues/68",
+      "created_at": "2026-11-16T05:00:40Z"
+    },
+    {
+      "id": 6414528706,
+      "repository": "hanzoai/engine",
+      "title": "Optimistic AI execution and fraud-proof games",
+      "url": "https://github.com/hanzoai/engine/issues/67",
+      "created_at": "2026-11-16T05:00:38Z"
+    },
+    {
+      "id": 6414528417,
+      "repository": "hanzoai/engine",
+      "title": "Proof of AI: CPU-verifiable GPU matrix products (Hanzo execution side)",
+      "url": "https://github.com/hanzoai/engine/issues/66",
+      "created_at": "2026-11-16T05:00:36Z"
+    },
+    {
+      "id": 6414528128,
+      "repository": "hanzoai/engine",
+      "title": "Deterministic AI execution profiles",
+      "url": "https://github.com/hanzoai/engine/issues/65",
+      "created_at": "2026-11-16T05:00:35Z"
+    },
+    {
+      "id": 6414527810,
+      "repository": "hanzoai/cloud",
+      "title": "Permissionless Enso gateway and stateless scheduling protocol",
+      "url": "https://github.com/hanzoai/cloud/issues/15",
+      "created_at": "2026-11-16T05:00:33Z"
+    },
+    {
+      "id": 6414527506,
+      "repository": "hanzoai/vfs",
+      "title": "Decentralized model distribution and provenance",
+      "url": "https://github.com/hanzoai/vfs/issues/38",
+      "created_at": "2026-11-16T05:00:32Z"
+    },
+    {
+      "id": 6414527230,
+      "repository": "hanzoai/cloud",
+      "title": "Open GPU spot market and capacity auctions",
+      "url": "https://github.com/hanzoai/cloud/issues/14",
+      "created_at": "2026-11-16T05:00:30Z"
+    },
+    {
+      "id": 6414526943,
+      "repository": "hanzoai/cloud",
+      "title": "Decentralized peer discovery and routing (libp2p)",
+      "url": "https://github.com/hanzoai/cloud/issues/13",
+      "created_at": "2026-11-16T05:00:29Z"
+    },
+    {
+      "id": 6414526650,
+      "repository": "hanzoai/engine",
+      "title": "Permissionless GPU provider daemon",
+      "url": "https://github.com/hanzoai/engine/issues/64",
+      "created_at": "2026-11-16T05:00:27Z"
+    },
+    {
+      "id": 6414436565,
+      "repository": "zoo-apps/papers",
+      "title": "Constitutional governance and formal protocol verification",
+      "url": "https://github.com/zoo-apps/papers/issues/16",
+      "created_at": "2026-11-16T04:52:10Z"
+    },
+    {
+      "id": 6414436290,
+      "repository": "zoo-apps/papers",
+      "title": "Useful-work receipts and contribution settlement",
+      "url": "https://github.com/zoo-apps/papers/issues/15",
+      "created_at": "2026-11-16T04:52:09Z"
+    },
+    {
+      "id": 6414436008,
+      "repository": "zoo-apps/papers",
+      "title": "Attested vs challenged inference verification",
+      "url": "https://github.com/zoo-apps/papers/issues/14",
+      "created_at": "2026-11-16T04:52:07Z"
+    },
+    {
+      "id": 6414435731,
+      "repository": "zoo-apps/papers",
+      "title": "Proof of AI: CPU-verifiable GPU work",
+      "url": "https://github.com/zoo-apps/papers/issues/13",
+      "created_at": "2026-11-16T04:52:06Z"
+    },
+    {
+      "id": 6414435503,
+      "repository": "zoo-apps/papers",
+      "title": "Open decentralized inference network",
+      "url": "https://github.com/zoo-apps/papers/issues/12",
+      "created_at": "2026-11-16T04:52:04Z"
+    },
+    {
+      "id": 6414435271,
+      "repository": "zoo-apps/gym",
+      "title": "Open reasoning RL / GRPO training pipeline",
+      "url": "https://github.com/zoo-apps/gym/issues/7",
+      "created_at": "2026-11-16T04:52:02Z"
+    },
+    {
+      "id": 6414435023,
+      "repository": "zoo-apps/gym",
+      "title": "Collective model merging (DeltaSoup)",
+      "url": "https://github.com/zoo-apps/gym/issues/6",
+      "created_at": "2026-11-16T04:52:01Z"
+    },
+    {
+      "id": 6414434592,
+      "repository": "zoo-apps/gym",
+      "title": "Adversarial federated-learning benchmark",
+      "url": "https://github.com/zoo-apps/gym/issues/5",
+      "created_at": "2026-11-16T04:51:58Z"
+    },
+    {
+      "id": 6414434249,
+      "repository": "zoo-apps/gym",
+      "title": "Internet-scale low-communication training",
+      "url": "https://github.com/zoo-apps/gym/issues/4",
+      "created_at": "2026-11-16T04:51:56Z"
+    },
+    {
+      "id": 6414433982,
+      "repository": "zoo-apps/gym",
+      "title": "Federated LoRA/QLoRA for Zen across independent workers",
+      "url": "https://github.com/zoo-apps/gym/issues/3",
+      "created_at": "2026-11-16T04:51:55Z"
+    }
+  ]
+}
