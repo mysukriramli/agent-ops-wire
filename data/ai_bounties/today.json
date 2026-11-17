@@ -1,11 +1,158 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-17T01:41:03.480665+00:00",
+    "generated_at": "2026-11-17T15:37:54.914518+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6445262233,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T13:08",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1400",
+      "created_at": "2026-11-17T13:08:33Z"
+    },
+    {
+      "id": 6443655040,
+      "repository": "OphirPay/OphirPay",
+      "title": "docs(setup): add step-by-step instructions for running a local Stellar Standalone container",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1997",
+      "created_at": "2026-11-17T11:35:52Z"
+    },
+    {
+      "id": 6443209775,
+      "repository": "OphirPay/OphirPay",
+      "title": "ci(typescript): add GitHub Actions step to verify TypeScript types without emitting JS",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1979",
+      "created_at": "2026-11-17T11:08:38Z"
+    },
+    {
+      "id": 6442857725,
+      "repository": "OphirPay/OphirPay",
+      "title": "test(contracts): add Rust unit test verifying spending limit enforcement across multiple payments",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1964",
+      "created_at": "2026-11-17T10:49:05Z"
+    },
+    {
+      "id": 6442390297,
+      "repository": "OphirPay/OphirPay",
+      "title": "feat(api): add Zod schema validation capping batch payment recipients to 100 per request",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1946",
+      "created_at": "2026-11-17T10:21:29Z"
+    },
+    {
+      "id": 6441845429,
+      "repository": "OphirPay/OphirPay",
+      "title": "test(format): add unit tests for `formatStellarAmount` boundary values",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1919",
+      "created_at": "2026-11-17T09:49:39Z"
+    },
+    {
+      "id": 6440507785,
+      "repository": "OphirPay/OphirPay",
+      "title": "feat(ui): add search and memo filter in ScheduledPaymentsList",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1895",
+      "created_at": "2026-11-17T08:27:22Z"
+    },
+    {
+      "id": 6440493059,
+      "repository": "OphirPay/OphirPay",
+      "title": "feat(ui): add copy-to-clipboard feedback tooltip on recipient addresses in BatchConfirmDialog",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1894",
+      "created_at": "2026-11-17T08:26:24Z"
+    },
+    {
+      "id": 6440481470,
+      "repository": "OphirPay/OphirPay",
+      "title": "feat(a11y): add keyboard navigation and ARIA attributes to AssetSelector modal",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1893",
+      "created_at": "2026-11-17T08:25:36Z"
+    },
+    {
+      "id": 6438633938,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [50 JNZ] Arabic translation of the \"Wallet and key",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/93",
+      "created_at": "2026-11-17T06:10:53Z"
+    },
+    {
+      "id": 6438097530,
+      "repository": "janzeerOrg/janzeer-sdk-ts",
+      "title": "[50 JNZ] Arabic translation of the \"Sending transactions\" guide",
+      "url": "https://github.com/janzeerOrg/janzeer-sdk-ts/issues/7",
+      "created_at": "2026-11-17T05:29:58Z"
+    },
+    {
+      "id": 6438096377,
+      "repository": "janzeerOrg/janzeer-sdk-python",
+      "title": "[50 JNZ] Arabic translation of the \"Wallet and keys\" guide",
+      "url": "https://github.com/janzeerOrg/janzeer-sdk-python/issues/6",
+      "created_at": "2026-11-17T05:29:53Z"
+    },
+    {
+      "id": 6438095213,
+      "repository": "janzeerOrg/janzeer-sdk-kotlin",
+      "title": "[20 JNZ] Java example: watch new blocks",
+      "url": "https://github.com/janzeerOrg/janzeer-sdk-kotlin/issues/8",
+      "created_at": "2026-11-17T05:29:47Z"
+    },
+    {
+      "id": 6438093916,
+      "repository": "janzeerOrg/janzeer-sdk-dart",
+      "title": "[20 JNZ] Example: sign a transfer offline, broadcast it later",
+      "url": "https://github.com/janzeerOrg/janzeer-sdk-dart/issues/8",
+      "created_at": "2026-11-17T05:29:41Z"
+    },
+    {
+      "id": 6438092479,
+      "repository": "janzeerOrg/janzeer-sdk-go",
+      "title": "[20 JNZ] Example: sign a transfer offline, broadcast it later",
+      "url": "https://github.com/janzeerOrg/janzeer-sdk-go/issues/6",
+      "created_at": "2026-11-17T05:29:35Z"
+    },
+    {
+      "id": 6438091346,
+      "repository": "janzeerOrg/janzeer-sdk-python",
+      "title": "[20 JNZ] Example: accept a payment (watch an address, match the memo, confirm it is final)",
+      "url": "https://github.com/janzeerOrg/janzeer-sdk-python/issues/5",
+      "created_at": "2026-11-17T05:29:30Z"
+    },
+    {
+      "id": 6438090200,
+      "repository": "janzeerOrg/janzeer-sdk-ts",
+      "title": "[20 JNZ] Example: accept a payment (watch an address, match the memo, confirm it is final)",
+      "url": "https://github.com/janzeerOrg/janzeer-sdk-ts/issues/6",
+      "created_at": "2026-11-17T05:29:25Z"
+    },
+    {
+      "id": 6438088868,
+      "repository": "janzeerOrg/janzeer-sdk-kotlin",
+      "title": "[50 JNZ] Coroutine Flow variants of the two WebSocket subscriptions",
+      "url": "https://github.com/janzeerOrg/janzeer-sdk-kotlin/issues/7",
+      "created_at": "2026-11-17T05:29:19Z"
+    },
+    {
+      "id": 6438087787,
+      "repository": "janzeerOrg/janzeer-cli",
+      "title": "[50 JNZ] Nix package (flake) for jz",
+      "url": "https://github.com/janzeerOrg/janzeer-cli/issues/8",
+      "created_at": "2026-11-17T05:29:14Z"
+    },
+    {
+      "id": 6438086616,
+      "repository": "janzeerOrg/janzeer-cli",
+      "title": "[50 JNZ] Debian/Ubuntu package (.deb) for jz",
+      "url": "https://github.com/janzeerOrg/janzeer-cli/issues/7",
+      "created_at": "2026-11-17T05:29:09Z"
+    },
+    {
+      "id": 6436680544,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T03:42",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1398",
+      "created_at": "2026-11-17T03:43:00Z"
+    },
     {
       "id": 6433370035,
       "repository": "hanzoai/hips",
@@ -68,153 +215,6 @@
       "title": "[Bounty #47] Machine-checkable storage specifications \u00b7 vfs (SYSSPEC)",
       "url": "https://github.com/hanzoai/vfs/issues/68",
       "created_at": "2026-11-16T23:45:00Z"
-    },
-    {
-      "id": 6433363273,
-      "repository": "hanzoai/ml",
-      "title": "[Bounty #46] Training data-pipeline cache allocation \u00b7 ml (Seneca)",
-      "url": "https://github.com/hanzoai/ml/issues/49",
-      "created_at": "2026-11-16T23:44:57Z"
-    },
-    {
-      "id": 6433362114,
-      "repository": "hanzoai/ml",
-      "title": "[Bounty #45] Redundancy-aware training checkpoints \u00b7 ml (AdaCheck)",
-      "url": "https://github.com/hanzoai/ml/issues/48",
-      "created_at": "2026-11-16T23:44:52Z"
-    },
-    {
-      "id": 6433361352,
-      "repository": "hanzoai/s3",
-      "title": "[Bounty #44] Predictive SSD failure detection \u00b7 s3 (FailureMiner)",
-      "url": "https://github.com/hanzoai/s3/issues/33",
-      "created_at": "2026-11-16T23:44:50Z"
-    },
-    {
-      "id": 6433360586,
-      "repository": "hanzoai/s3",
-      "title": "[Bounty #43] Adaptive object compression \u00b7 s3 (PolarStore)",
-      "url": "https://github.com/hanzoai/s3/issues/32",
-      "created_at": "2026-11-16T23:44:47Z"
-    },
-    {
-      "id": 6433359861,
-      "repository": "hanzoai/s3",
-      "title": "[Bounty #42] Discard-versus-compaction economics \u00b7 s3 (DisCoGC)",
-      "url": "https://github.com/hanzoai/s3/issues/31",
-      "created_at": "2026-11-16T23:44:44Z"
-    },
-    {
-      "id": 6433359118,
-      "repository": "hanzoai/s3",
-      "title": "[Bounty #41] Geo-aware object recovery and placement \u00b7 s3 (Apple ACOS)",
-      "url": "https://github.com/hanzoai/s3/issues/30",
-      "created_at": "2026-11-16T23:44:41Z"
-    },
-    {
-      "id": 6433358491,
-      "repository": "hanzoai/agents",
-      "title": "[Bounty #40] Computer-workflow benchmark on Visor \u00b7 visor / agents (OSWorld)",
-      "url": "https://github.com/hanzoai/agents/issues/89",
-      "created_at": "2026-11-16T23:44:38Z"
-    },
-    {
-      "id": 6433357798,
-      "repository": "hanzoai/agents",
-      "title": "[Bounty #39] Dual-control business-agent benchmark \u00b7 agents / cloud (tau2-bench)",
-      "url": "https://github.com/hanzoai/agents/issues/88",
-      "created_at": "2026-11-16T23:44:35Z"
-    },
-    {
-      "id": 6433357056,
-      "repository": "hanzoai/mcp",
-      "title": "[Bounty #38] Agent-computer interface optimization \u00b7 mcp (SWE-agent ACI)",
-      "url": "https://github.com/hanzoai/mcp/issues/48",
-      "created_at": "2026-11-16T23:44:32Z"
-    },
-    {
-      "id": 6433356294,
-      "repository": "hanzoai/agents",
-      "title": "[Bounty #37] Automatic prompt and workflow optimization \u00b7 agents (DSPy)",
-      "url": "https://github.com/hanzoai/agents/issues/87",
-      "created_at": "2026-11-16T23:44:29Z"
-    },
-    {
-      "id": 6433355748,
-      "repository": "hanzoai/agents",
-      "title": "[Bounty #36] Learning from agent execution traces \u00b7 agents / ml (Agent Lightning)",
-      "url": "https://github.com/hanzoai/agents/issues/86",
-      "created_at": "2026-11-16T23:44:26Z"
-    },
-    {
-      "id": 6433355217,
-      "repository": "hanzoai/agents",
-      "title": "[Bounty #35] Durable event-driven agent workflow replay \u00b7 agents",
-      "url": "https://github.com/hanzoai/agents/issues/85",
-      "created_at": "2026-11-16T23:44:24Z"
-    },
-    {
-      "id": 6433354545,
-      "repository": "hanzoai/cloud",
-      "title": "[Bounty #34] Unified agent execution tracing \u00b7 cloud (OpenTelemetry GenAI)",
-      "url": "https://github.com/hanzoai/cloud/issues/36",
-      "created_at": "2026-11-16T23:44:21Z"
-    },
-    {
-      "id": 6433354020,
-      "repository": "hanzoai/mcp",
-      "title": "[Bounty #33] Risky-tool simulation \u00b7 agents / mcp (ToolEmu)",
-      "url": "https://github.com/hanzoai/mcp/issues/47",
-      "created_at": "2026-11-16T23:44:19Z"
-    },
-    {
-      "id": 6433353260,
-      "repository": "hanzoai/mcp",
-      "title": "[Bounty #32] Prompt-injection resistance \u00b7 agents / mcp (AgentDojo)",
-      "url": "https://github.com/hanzoai/mcp/issues/46",
-      "created_at": "2026-11-16T23:44:16Z"
-    },
-    {
-      "id": 6433352508,
-      "repository": "hanzoai/agents",
-      "title": "[Bounty #31] Long-horizon coding-agent evaluation \u00b7 agents (SWE-bench Pro V2)",
-      "url": "https://github.com/hanzoai/agents/issues/84",
-      "created_at": "2026-11-16T23:44:12Z"
-    },
-    {
-      "id": 6433351778,
-      "repository": "hanzoai/index",
-      "title": "[Bounty #30] Atomic factuality verification \u00b7 index / agents (FActScore)",
-      "url": "https://github.com/hanzoai/index/issues/31",
-      "created_at": "2026-11-16T23:44:10Z"
-    },
-    {
-      "id": 6433351123,
-      "repository": "hanzoai/agents",
-      "title": "[Bounty #29] Evidence-ordering robustness \u00b7 agents (Lost in the Middle)",
-      "url": "https://github.com/hanzoai/agents/issues/83",
-      "created_at": "2026-11-16T23:44:07Z"
-    },
-    {
-      "id": 6433350548,
-      "repository": "hanzoai/agents",
-      "title": "[Bounty #28] Temporal memory benchmark \u00b7 agents (LongMemEval)",
-      "url": "https://github.com/hanzoai/agents/issues/82",
-      "created_at": "2026-11-16T23:44:04Z"
-    },
-    {
-      "id": 6433349888,
-      "repository": "hanzoai/ml",
-      "title": "[Bounty #27] Retrieval-aware Zen fine-tuning \u00b7 ml / index (RAFT)",
-      "url": "https://github.com/hanzoai/ml/issues/47",
-      "created_at": "2026-11-16T23:44:01Z"
-    },
-    {
-      "id": 6433349344,
-      "repository": "hanzoai/index",
-      "title": "[Bounty #26] Visual document retrieval \u00b7 index (ColPali)",
-      "url": "https://github.com/hanzoai/index/issues/30",
-      "created_at": "2026-11-16T23:43:59Z"
     }
   ]
 }
