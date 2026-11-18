@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "domain": "ai_bounties",
+    "generated_at": "2026-11-18T00:40:41.829586+00:00",
+    "total_items": 30,
+    "schema_version": "1.0.0"
+  },
+  "open_tasks": [
+    {
+      "id": 6456743236,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T23:59",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1409",
+      "created_at": "2026-11-17T23:59:58Z"
+    },
+    {
+      "id": 6455208168,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T22:11",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1407",
+      "created_at": "2026-11-17T22:11:54Z"
+    },
+    {
+      "id": 6452885208,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-r",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4370",
+      "created_at": "2026-11-17T19:54:34Z"
+    },
+    {
+      "id": 6452884976,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with ru",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4369",
+      "created_at": "2026-11-17T19:54:33Z"
+    },
+    {
+      "id": 6450648296,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T17:47",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1404",
+      "created_at": "2026-11-17T17:47:34Z"
+    },
+    {
+      "id": 6449897012,
+      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
+      "title": "[Escrowed $600 USDC] Eliminate ABA generation counter skew across heterogeneous ring capacities (`tokio-ringbuffer-seqcst-matrix`)",
+      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
+      "created_at": "2026-11-17T17:06:10Z"
+    },
+    {
+      "id": 6449896673,
+      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
+      "title": "[Escrowed $450 USDC] Fix slot batch ceiling check and align multi-stride ring wrap-around residue (`drain_mpsc_epoch_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1",
+      "created_at": "2026-11-17T17:06:09Z"
+    },
+    {
+      "id": 6449896381,
+      "repository": "IES-BoilerRoom/wgsl-transcendental-math-core",
+      "title": "[Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with runtime pipeline (`wgsl-transcendental-math-core`)",
+      "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2",
+      "created_at": "2026-11-17T17:06:08Z"
+    },
+    {
+      "id": 6449896091,
+      "repository": "IES-BoilerRoom/wgsl-transcendental-math-core",
+      "title": "[Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (`fold_wgsl_radiance_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1",
+      "created_at": "2026-11-17T17:06:07Z"
+    },
+    {
+      "id": 6449199737,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5192",
+      "created_at": "2026-11-17T16:30:10Z"
+    },
+    {
+      "id": 6449196176,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5191",
+      "created_at": "2026-11-17T16:30:00Z"
+    },
+    {
+      "id": 6449191284,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5190",
+      "created_at": "2026-11-17T16:29:45Z"
+    },
+    {
+      "id": 6448479314,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T15:53",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1402",
+      "created_at": "2026-11-17T15:53:08Z"
+    },
+    {
+      "id": 6445262233,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T13:08",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1400",
+      "created_at": "2026-11-17T13:08:33Z"
+    },
+    {
+      "id": 6443655040,
+      "repository": "OphirPay/OphirPay",
+      "title": "docs(setup): add step-by-step instructions for running a local Stellar Standalone container",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1997",
+      "created_at": "2026-11-17T11:35:52Z"
+    },
+    {
+      "id": 6443209775,
+      "repository": "OphirPay/OphirPay",
+      "title": "ci(typescript): add GitHub Actions step to verify TypeScript types without emitting JS",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1979",
+      "created_at": "2026-11-17T11:08:38Z"
+    },
+    {
+      "id": 6442857725,
+      "repository": "OphirPay/OphirPay",
+      "title": "test(contracts): add Rust unit test verifying spending limit enforcement across multiple payments",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1964",
+      "created_at": "2026-11-17T10:49:05Z"
+    },
+    {
+      "id": 6442390297,
+      "repository": "OphirPay/OphirPay",
+      "title": "feat(api): add Zod schema validation capping batch payment recipients to 100 per request",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1946",
+      "created_at": "2026-11-17T10:21:29Z"
+    },
+    {
+      "id": 6441845429,
+      "repository": "OphirPay/OphirPay",
+      "title": "test(format): add unit tests for `formatStellarAmount` boundary values",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1919",
+      "created_at": "2026-11-17T09:49:39Z"
+    },
+    {
+      "id": 6440507785,
+      "repository": "OphirPay/OphirPay",
+      "title": "feat(ui): add search and memo filter in ScheduledPaymentsList",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1895",
+      "created_at": "2026-11-17T08:27:22Z"
+    },
+    {
+      "id": 6440493059,
+      "repository": "OphirPay/OphirPay",
+      "title": "feat(ui): add copy-to-clipboard feedback tooltip on recipient addresses in BatchConfirmDialog",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1894",
+      "created_at": "2026-11-17T08:26:24Z"
+    },
+    {
+      "id": 6440481470,
+      "repository": "OphirPay/OphirPay",
+      "title": "feat(a11y): add keyboard navigation and ARIA attributes to AssetSelector modal",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1893",
+      "created_at": "2026-11-17T08:25:36Z"
+    },
+    {
+      "id": 6438633938,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [50 JNZ] Arabic translation of the \"Wallet and key",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/93",
+      "created_at": "2026-11-17T06:10:53Z"
+    },
+    {
+      "id": 6438095213,
+      "repository": "janzeerOrg/janzeer-sdk-kotlin",
+      "title": "[20 JNZ] Java example: watch new blocks",
+      "url": "https://github.com/janzeerOrg/janzeer-sdk-kotlin/issues/8",
+      "created_at": "2026-11-17T05:29:47Z"
+    },
+    {
+      "id": 6438092479,
+      "repository": "janzeerOrg/janzeer-sdk-go",
+      "title": "[20 JNZ] Example: sign a transfer offline, broadcast it later",
+      "url": "https://github.com/janzeerOrg/janzeer-sdk-go/issues/6",
+      "created_at": "2026-11-17T05:29:35Z"
+    },
+    {
+      "id": 6438091346,
+      "repository": "janzeerOrg/janzeer-sdk-python",
+      "title": "[20 JNZ] Example: accept a payment (watch an address, match the memo, confirm it is final)",
+      "url": "https://github.com/janzeerOrg/janzeer-sdk-python/issues/5",
+      "created_at": "2026-11-17T05:29:30Z"
+    },
+    {
+      "id": 6438087787,
+      "repository": "janzeerOrg/janzeer-cli",
+      "title": "[50 JNZ] Nix package (flake) for jz",
+      "url": "https://github.com/janzeerOrg/janzeer-cli/issues/8",
+      "created_at": "2026-11-17T05:29:14Z"
+    },
+    {
+      "id": 6438086616,
+      "repository": "janzeerOrg/janzeer-cli",
+      "title": "[50 JNZ] Debian/Ubuntu package (.deb) for jz",
+      "url": "https://github.com/janzeerOrg/janzeer-cli/issues/7",
+      "created_at": "2026-11-17T05:29:09Z"
+    },
+    {
+      "id": 6436680544,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T03:42",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1398",
+      "created_at": "2026-11-17T03:43:00Z"
+    },
+    {
+      "id": 6433370035,
+      "repository": "hanzoai/hips",
+      "title": "[HIP-1348] Umbrella Research Bounties: Reliable, Economical and Verifiable AI Infrastructure",
+      "url": "https://github.com/hanzoai/hips/issues/18",
+      "created_at": "2026-11-16T23:45:25Z"
+    }
+  ]
+}

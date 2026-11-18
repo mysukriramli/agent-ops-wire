@@ -1,11 +1,102 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-17T15:37:54.914518+00:00",
+    "generated_at": "2026-11-18T00:40:41.829586+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6456743236,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T23:59",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1409",
+      "created_at": "2026-11-17T23:59:58Z"
+    },
+    {
+      "id": 6455208168,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T22:11",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1407",
+      "created_at": "2026-11-17T22:11:54Z"
+    },
+    {
+      "id": 6452885208,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-r",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4370",
+      "created_at": "2026-11-17T19:54:34Z"
+    },
+    {
+      "id": 6452884976,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with ru",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4369",
+      "created_at": "2026-11-17T19:54:33Z"
+    },
+    {
+      "id": 6450648296,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T17:47",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1404",
+      "created_at": "2026-11-17T17:47:34Z"
+    },
+    {
+      "id": 6449897012,
+      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
+      "title": "[Escrowed $600 USDC] Eliminate ABA generation counter skew across heterogeneous ring capacities (`tokio-ringbuffer-seqcst-matrix`)",
+      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
+      "created_at": "2026-11-17T17:06:10Z"
+    },
+    {
+      "id": 6449896673,
+      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
+      "title": "[Escrowed $450 USDC] Fix slot batch ceiling check and align multi-stride ring wrap-around residue (`drain_mpsc_epoch_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1",
+      "created_at": "2026-11-17T17:06:09Z"
+    },
+    {
+      "id": 6449896381,
+      "repository": "IES-BoilerRoom/wgsl-transcendental-math-core",
+      "title": "[Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with runtime pipeline (`wgsl-transcendental-math-core`)",
+      "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2",
+      "created_at": "2026-11-17T17:06:08Z"
+    },
+    {
+      "id": 6449896091,
+      "repository": "IES-BoilerRoom/wgsl-transcendental-math-core",
+      "title": "[Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (`fold_wgsl_radiance_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1",
+      "created_at": "2026-11-17T17:06:07Z"
+    },
+    {
+      "id": 6449199737,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5192",
+      "created_at": "2026-11-17T16:30:10Z"
+    },
+    {
+      "id": 6449196176,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5191",
+      "created_at": "2026-11-17T16:30:00Z"
+    },
+    {
+      "id": 6449191284,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5190",
+      "created_at": "2026-11-17T16:29:45Z"
+    },
+    {
+      "id": 6448479314,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-17T15:53",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1402",
+      "created_at": "2026-11-17T15:53:08Z"
+    },
     {
       "id": 6445262233,
       "repository": "relayhop/sn-monetization-runtime",
@@ -77,32 +168,11 @@
       "created_at": "2026-11-17T06:10:53Z"
     },
     {
-      "id": 6438097530,
-      "repository": "janzeerOrg/janzeer-sdk-ts",
-      "title": "[50 JNZ] Arabic translation of the \"Sending transactions\" guide",
-      "url": "https://github.com/janzeerOrg/janzeer-sdk-ts/issues/7",
-      "created_at": "2026-11-17T05:29:58Z"
-    },
-    {
-      "id": 6438096377,
-      "repository": "janzeerOrg/janzeer-sdk-python",
-      "title": "[50 JNZ] Arabic translation of the \"Wallet and keys\" guide",
-      "url": "https://github.com/janzeerOrg/janzeer-sdk-python/issues/6",
-      "created_at": "2026-11-17T05:29:53Z"
-    },
-    {
       "id": 6438095213,
       "repository": "janzeerOrg/janzeer-sdk-kotlin",
       "title": "[20 JNZ] Java example: watch new blocks",
       "url": "https://github.com/janzeerOrg/janzeer-sdk-kotlin/issues/8",
       "created_at": "2026-11-17T05:29:47Z"
-    },
-    {
-      "id": 6438093916,
-      "repository": "janzeerOrg/janzeer-sdk-dart",
-      "title": "[20 JNZ] Example: sign a transfer offline, broadcast it later",
-      "url": "https://github.com/janzeerOrg/janzeer-sdk-dart/issues/8",
-      "created_at": "2026-11-17T05:29:41Z"
     },
     {
       "id": 6438092479,
@@ -117,20 +187,6 @@
       "title": "[20 JNZ] Example: accept a payment (watch an address, match the memo, confirm it is final)",
       "url": "https://github.com/janzeerOrg/janzeer-sdk-python/issues/5",
       "created_at": "2026-11-17T05:29:30Z"
-    },
-    {
-      "id": 6438090200,
-      "repository": "janzeerOrg/janzeer-sdk-ts",
-      "title": "[20 JNZ] Example: accept a payment (watch an address, match the memo, confirm it is final)",
-      "url": "https://github.com/janzeerOrg/janzeer-sdk-ts/issues/6",
-      "created_at": "2026-11-17T05:29:25Z"
-    },
-    {
-      "id": 6438088868,
-      "repository": "janzeerOrg/janzeer-sdk-kotlin",
-      "title": "[50 JNZ] Coroutine Flow variants of the two WebSocket subscriptions",
-      "url": "https://github.com/janzeerOrg/janzeer-sdk-kotlin/issues/7",
-      "created_at": "2026-11-17T05:29:19Z"
     },
     {
       "id": 6438087787,
@@ -159,62 +215,6 @@
       "title": "[HIP-1348] Umbrella Research Bounties: Reliable, Economical and Verifiable AI Infrastructure",
       "url": "https://github.com/hanzoai/hips/issues/18",
       "created_at": "2026-11-16T23:45:25Z"
-    },
-    {
-      "id": 6433369160,
-      "repository": "hanzoai/hips",
-      "title": "[HIP-1347] Umbrella Research Bounties: Event-Driven Agent Reliability",
-      "url": "https://github.com/hanzoai/hips/issues/17",
-      "created_at": "2026-11-16T23:45:21Z"
-    },
-    {
-      "id": 6433368453,
-      "repository": "hanzoai/hips",
-      "title": "[HIP-1346] Umbrella Research Bounties: Evidence-Grounded Retrieval and Decision Evaluation",
-      "url": "https://github.com/hanzoai/hips/issues/16",
-      "created_at": "2026-11-16T23:45:18Z"
-    },
-    {
-      "id": 6433367826,
-      "repository": "hanzoai/hips",
-      "title": "[HIP-1345] Umbrella Research Bounties: Agent-Aware Model Serving and Cache Reuse",
-      "url": "https://github.com/hanzoai/hips/issues/15",
-      "created_at": "2026-11-16T23:45:16Z"
-    },
-    {
-      "id": 6433367168,
-      "repository": "hanzoai/hips",
-      "title": "[HIP-1344] Umbrella Research Bounties: Agent-Optimized Storage and Recovery",
-      "url": "https://github.com/hanzoai/hips/issues/14",
-      "created_at": "2026-11-16T23:45:13Z"
-    },
-    {
-      "id": 6433366395,
-      "repository": "hanzoai/cloud",
-      "title": "[Bounty #50] eBPF sandbox runtime enforcement \u00b7 visor / cloud (Tetragon)",
-      "url": "https://github.com/hanzoai/cloud/issues/40",
-      "created_at": "2026-11-16T23:45:10Z"
-    },
-    {
-      "id": 6433365509,
-      "repository": "hanzoai/cloud",
-      "title": "[Bounty #49] Verifiable agent-produced artifacts \u00b7 cloud / Forge (SLSA v1.2 + Cosign)",
-      "url": "https://github.com/hanzoai/cloud/issues/39",
-      "created_at": "2026-11-16T23:45:06Z"
-    },
-    {
-      "id": 6433364886,
-      "repository": "hanzoai/cloud",
-      "title": "[Bounty #48] Adaptive concurrency admission control \u00b7 cloud / s3",
-      "url": "https://github.com/hanzoai/cloud/issues/38",
-      "created_at": "2026-11-16T23:45:04Z"
-    },
-    {
-      "id": 6433363983,
-      "repository": "hanzoai/vfs",
-      "title": "[Bounty #47] Machine-checkable storage specifications \u00b7 vfs (SYSSPEC)",
-      "url": "https://github.com/hanzoai/vfs/issues/68",
-      "created_at": "2026-11-16T23:45:00Z"
     }
   ]
 }
