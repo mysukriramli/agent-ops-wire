@@ -1,11 +1,81 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-18T15:16:05.059533+00:00",
+    "generated_at": "2026-11-18T23:58:29.050483+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6478477118,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-18T23:01",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1422",
+      "created_at": "2026-11-18T23:01:08Z"
+    },
+    {
+      "id": 6477426079,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-18T21:49",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1420",
+      "created_at": "2026-11-18T21:49:50Z"
+    },
+    {
+      "id": 6471777743,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-18T16:28",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1418",
+      "created_at": "2026-11-18T16:28:17Z"
+    },
+    {
+      "id": 6471213305,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5255",
+      "created_at": "2026-11-18T15:59:37Z"
+    },
+    {
+      "id": 6471212907,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5254",
+      "created_at": "2026-11-18T15:59:36Z"
+    },
+    {
+      "id": 6471212461,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5253",
+      "created_at": "2026-11-18T15:59:35Z"
+    },
+    {
+      "id": 6471211984,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5252",
+      "created_at": "2026-11-18T15:59:33Z"
+    },
+    {
+      "id": 6471209134,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5251",
+      "created_at": "2026-11-18T15:59:25Z"
+    },
+    {
+      "id": 6471208636,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5250",
+      "created_at": "2026-11-18T15:59:24Z"
+    },
+    {
+      "id": 6470636900,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-18T15:31",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1416",
+      "created_at": "2026-11-18T15:31:13Z"
+    },
     {
       "id": 6468772399,
       "repository": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -107,28 +177,28 @@
     {
       "id": 6449897012,
       "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
-      "title": "[Escrowed $600 USDC] Eliminate ABA generation counter skew across heterogeneous ring capacities (`tokio-ringbuffer-seqcst-matrix`)",
+      "title": "ci/mpsc: Eliminate ABA generation counter skew across heterogeneous ring capacities - Reward $200 USDC",
       "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
       "created_at": "2026-11-17T17:06:10Z"
     },
     {
       "id": 6449896673,
       "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
-      "title": "[Escrowed $450 USDC] Fix slot batch ceiling check and align multi-stride ring wrap-around residue (`drain_mpsc_epoch_frames`)",
+      "title": "bug: Fix slot batch ceiling check and align multi-stride ring wrap-around residue (`drain_mpsc_epoch_frames`) [Reward: $100 USDC]",
       "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1",
       "created_at": "2026-11-17T17:06:09Z"
     },
     {
       "id": 6449896381,
       "repository": "IES-BoilerRoom/wgsl-transcendental-math-core",
-      "title": "[Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with runtime pipeline (`wgsl-transcendental-math-core`)",
+      "title": "fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runtime pipeline ($200 bounty) [wgsl-transcendental-math-core]",
       "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2",
       "created_at": "2026-11-17T17:06:08Z"
     },
     {
       "id": 6449896091,
       "repository": "IES-BoilerRoom/wgsl-transcendental-math-core",
-      "title": "[Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (`fold_wgsl_radiance_frames`)",
+      "title": "($150) perf/fix: Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (fold_wgsl_radiance_frames)",
       "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1",
       "created_at": "2026-11-17T17:06:07Z"
     },
@@ -145,76 +215,6 @@
       "title": "[Bounty] Answer the 3 linked question(s)",
       "url": "https://github.com/Ikalus1988/MisakaNet/issues/5190",
       "created_at": "2026-11-17T16:29:45Z"
-    },
-    {
-      "id": 6448479314,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-17T15:53",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1402",
-      "created_at": "2026-11-17T15:53:08Z"
-    },
-    {
-      "id": 6445262233,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-17T13:08",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1400",
-      "created_at": "2026-11-17T13:08:33Z"
-    },
-    {
-      "id": 6443655040,
-      "repository": "OphirPay/OphirPay",
-      "title": "docs(setup): add step-by-step instructions for running a local Stellar Standalone container",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1997",
-      "created_at": "2026-11-17T11:35:52Z"
-    },
-    {
-      "id": 6443209775,
-      "repository": "OphirPay/OphirPay",
-      "title": "ci(typescript): add GitHub Actions step to verify TypeScript types without emitting JS",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1979",
-      "created_at": "2026-11-17T11:08:38Z"
-    },
-    {
-      "id": 6442857725,
-      "repository": "OphirPay/OphirPay",
-      "title": "test(contracts): add Rust unit test verifying spending limit enforcement across multiple payments",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1964",
-      "created_at": "2026-11-17T10:49:05Z"
-    },
-    {
-      "id": 6442390297,
-      "repository": "OphirPay/OphirPay",
-      "title": "feat(api): add Zod schema validation capping batch payment recipients to 100 per request",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1946",
-      "created_at": "2026-11-17T10:21:29Z"
-    },
-    {
-      "id": 6441845429,
-      "repository": "OphirPay/OphirPay",
-      "title": "test(format): add unit tests for `formatStellarAmount` boundary values",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1919",
-      "created_at": "2026-11-17T09:49:39Z"
-    },
-    {
-      "id": 6440507785,
-      "repository": "OphirPay/OphirPay",
-      "title": "feat(ui): add search and memo filter in ScheduledPaymentsList",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1895",
-      "created_at": "2026-11-17T08:27:22Z"
-    },
-    {
-      "id": 6440493059,
-      "repository": "OphirPay/OphirPay",
-      "title": "feat(ui): add copy-to-clipboard feedback tooltip on recipient addresses in BatchConfirmDialog",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1894",
-      "created_at": "2026-11-17T08:26:24Z"
-    },
-    {
-      "id": 6440481470,
-      "repository": "OphirPay/OphirPay",
-      "title": "feat(a11y): add keyboard navigation and ARIA attributes to AssetSelector modal",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1893",
-      "created_at": "2026-11-17T08:25:36Z"
     }
   ]
 }
