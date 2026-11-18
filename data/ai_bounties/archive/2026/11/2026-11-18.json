@@ -1,11 +1,74 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-18T00:40:41.829586+00:00",
+    "generated_at": "2026-11-18T15:16:05.059533+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6468772399,
+      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
+      "title": "[Wave 11] security(bridge): synchronize 128-bit fee rounding invariant across contracts/sbtc_vault.clar and src/soroban_math.rs",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/116",
+      "created_at": "2026-11-18T13:55:46Z"
+    },
+    {
+      "id": 6468772031,
+      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
+      "title": "[Wave 11] fix(xdr): reject boolean ledger sequence inputs and align 64-frame checkpoint math in src/ledger_validator.py",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/115",
+      "created_at": "2026-11-18T13:55:45Z"
+    },
+    {
+      "id": 6468771666,
+      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
+      "title": "[Wave 11] feat(ui): add Stellar slippage warning banner and >=800x600 DOM proof for src/ui/swap_preview.html",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/114",
+      "created_at": "2026-11-18T13:55:44Z"
+    },
+    {
+      "id": 6468771264,
+      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
+      "title": "[Wave 11] fix(rpc): enforce BigInt stroops fee floor and SEP-10 challenge window in src/x402_payment_guard.ts",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/113",
+      "created_at": "2026-11-18T13:55:43Z"
+    },
+    {
+      "id": 6468770900,
+      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
+      "title": "[Wave 11] feat(soroban): add ledger-skew replay window check in src/soroban_math.rs",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/112",
+      "created_at": "2026-11-18T13:55:41Z"
+    },
+    {
+      "id": 6468770467,
+      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
+      "title": "[Wave 11] fix(soroban): clamp instance storage TTL extension against max_ttl in contracts/soroban_ttl_guard.rs",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/111",
+      "created_at": "2026-11-18T13:55:40Z"
+    },
+    {
+      "id": 6468656376,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-18T13:49",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1414",
+      "created_at": "2026-11-18T13:49:37Z"
+    },
+    {
+      "id": 6461911533,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-18T07:06",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1413",
+      "created_at": "2026-11-18T07:06:56Z"
+    },
+    {
+      "id": 6459765493,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-18T04:09",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1411",
+      "created_at": "2026-11-18T04:09:32Z"
+    },
     {
       "id": 6456743236,
       "repository": "relayhop/sn-monetization-runtime",
@@ -68,13 +131,6 @@
       "title": "[Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (`fold_wgsl_radiance_frames`)",
       "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1",
       "created_at": "2026-11-17T17:06:07Z"
-    },
-    {
-      "id": 6449199737,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5192",
-      "created_at": "2026-11-17T16:30:10Z"
     },
     {
       "id": 6449196176,
@@ -159,62 +215,6 @@
       "title": "feat(a11y): add keyboard navigation and ARIA attributes to AssetSelector modal",
       "url": "https://github.com/OphirPay/OphirPay/issues/1893",
       "created_at": "2026-11-17T08:25:36Z"
-    },
-    {
-      "id": 6438633938,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83e\ude99 [Web3] [50 JNZ] Arabic translation of the \"Wallet and key",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/93",
-      "created_at": "2026-11-17T06:10:53Z"
-    },
-    {
-      "id": 6438095213,
-      "repository": "janzeerOrg/janzeer-sdk-kotlin",
-      "title": "[20 JNZ] Java example: watch new blocks",
-      "url": "https://github.com/janzeerOrg/janzeer-sdk-kotlin/issues/8",
-      "created_at": "2026-11-17T05:29:47Z"
-    },
-    {
-      "id": 6438092479,
-      "repository": "janzeerOrg/janzeer-sdk-go",
-      "title": "[20 JNZ] Example: sign a transfer offline, broadcast it later",
-      "url": "https://github.com/janzeerOrg/janzeer-sdk-go/issues/6",
-      "created_at": "2026-11-17T05:29:35Z"
-    },
-    {
-      "id": 6438091346,
-      "repository": "janzeerOrg/janzeer-sdk-python",
-      "title": "[20 JNZ] Example: accept a payment (watch an address, match the memo, confirm it is final)",
-      "url": "https://github.com/janzeerOrg/janzeer-sdk-python/issues/5",
-      "created_at": "2026-11-17T05:29:30Z"
-    },
-    {
-      "id": 6438087787,
-      "repository": "janzeerOrg/janzeer-cli",
-      "title": "[50 JNZ] Nix package (flake) for jz",
-      "url": "https://github.com/janzeerOrg/janzeer-cli/issues/8",
-      "created_at": "2026-11-17T05:29:14Z"
-    },
-    {
-      "id": 6438086616,
-      "repository": "janzeerOrg/janzeer-cli",
-      "title": "[50 JNZ] Debian/Ubuntu package (.deb) for jz",
-      "url": "https://github.com/janzeerOrg/janzeer-cli/issues/7",
-      "created_at": "2026-11-17T05:29:09Z"
-    },
-    {
-      "id": 6436680544,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-17T03:42",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1398",
-      "created_at": "2026-11-17T03:43:00Z"
-    },
-    {
-      "id": 6433370035,
-      "repository": "hanzoai/hips",
-      "title": "[HIP-1348] Umbrella Research Bounties: Reliable, Economical and Verifiable AI Infrastructure",
-      "url": "https://github.com/hanzoai/hips/issues/18",
-      "created_at": "2026-11-16T23:45:25Z"
     }
   ]
 }
