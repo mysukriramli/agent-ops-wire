@@ -1,220 +1,220 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-19T07:08:46.141627+00:00",
+    "generated_at": "2026-11-19T20:05:07.219065+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
     {
-      "id": 6484340176,
-      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
-      "title": "[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)",
-      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
-      "created_at": "2026-11-19T07:06:29Z"
+      "id": 6494346152,
+      "repository": "ADT-community/adt-community.github.io",
+      "title": "Partner sales kit: getting companies to post tasks",
+      "url": "https://github.com/ADT-community/adt-community.github.io/issues/12",
+      "created_at": "2026-11-19T16:35:56Z"
     },
     {
-      "id": 6484340106,
-      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
-      "title": "[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)",
-      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
-      "created_at": "2026-11-19T07:06:28Z"
+      "id": 6494340302,
+      "repository": "ADT-community/adt-community.github.io",
+      "title": "Figma: design ADT Work, the task platform",
+      "url": "https://github.com/ADT-community/adt-community.github.io/issues/9",
+      "created_at": "2026-11-19T16:35:40Z"
     },
     {
-      "id": 6484339784,
-      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
-      "title": "[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)",
-      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1",
-      "created_at": "2026-11-19T07:06:27Z"
+      "id": 6494318237,
+      "repository": "ADT-community/locallity_ai",
+      "title": "Business API: keys, usage metering and docs",
+      "url": "https://github.com/ADT-community/locallity_ai/issues/28",
+      "created_at": "2026-11-19T16:34:34Z"
     },
     {
-      "id": 6484339870,
-      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
-      "title": "ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC",
-      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2",
-      "created_at": "2026-11-19T07:06:27Z"
+      "id": 6494308923,
+      "repository": "ADT-community/trans_sport",
+      "title": "Sales kit: owner pitch and pricing page",
+      "url": "https://github.com/ADT-community/trans_sport/issues/26",
+      "created_at": "2026-11-19T16:34:05Z"
     },
     {
-      "id": 6482115733,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-19T04:04",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1425",
-      "created_at": "2026-11-19T04:04:15Z"
+      "id": 6494300775,
+      "repository": "ADT-community/trans_sport",
+      "title": "Implement the owner dashboard UI from the Figma",
+      "url": "https://github.com/ADT-community/trans_sport/issues/24",
+      "created_at": "2026-11-19T16:33:40Z"
     },
     {
-      "id": 6481556109,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-19T03:13",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1424",
-      "created_at": "2026-11-19T03:13:51Z"
+      "id": 6494299771,
+      "repository": "ADT-community/trans_sport",
+      "title": "Implement the driver app UI from the Figma",
+      "url": "https://github.com/ADT-community/trans_sport/issues/23",
+      "created_at": "2026-11-19T16:33:36Z"
     },
     {
-      "id": 6478477118,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-18T23:01",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1422",
-      "created_at": "2026-11-18T23:01:08Z"
-    },
-    {
-      "id": 6477426079,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-18T21:49",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1420",
-      "created_at": "2026-11-18T21:49:50Z"
-    },
-    {
-      "id": 6471777743,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-18T16:28",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1418",
-      "created_at": "2026-11-18T16:28:17Z"
-    },
-    {
-      "id": 6471213305,
+      "id": 6493770602,
       "repository": "Ikalus1988/MisakaNet",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5255",
-      "created_at": "2026-11-18T15:59:37Z"
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5373",
+      "created_at": "2026-11-19T16:06:27Z"
     },
     {
-      "id": 6471212907,
+      "id": 6493763871,
       "repository": "Ikalus1988/MisakaNet",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5254",
-      "created_at": "2026-11-18T15:59:36Z"
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5372",
+      "created_at": "2026-11-19T16:06:06Z"
     },
     {
-      "id": 6471212461,
+      "id": 6493763232,
       "repository": "Ikalus1988/MisakaNet",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5253",
-      "created_at": "2026-11-18T15:59:35Z"
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5371",
+      "created_at": "2026-11-19T16:06:05Z"
     },
     {
-      "id": 6471211984,
+      "id": 6493762616,
       "repository": "Ikalus1988/MisakaNet",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5252",
-      "created_at": "2026-11-18T15:59:33Z"
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5370",
+      "created_at": "2026-11-19T16:06:02Z"
     },
     {
-      "id": 6471209134,
+      "id": 6493761956,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5369",
+      "created_at": "2026-11-19T16:06:00Z"
+    },
+    {
+      "id": 6493761426,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5368",
+      "created_at": "2026-11-19T16:05:59Z"
+    },
+    {
+      "id": 6493760842,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5367",
+      "created_at": "2026-11-19T16:05:57Z"
+    },
+    {
+      "id": 6493760205,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5366",
+      "created_at": "2026-11-19T16:05:55Z"
+    },
+    {
+      "id": 6493759746,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5365",
+      "created_at": "2026-11-19T16:05:54Z"
+    },
+    {
+      "id": 6493758368,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5364",
+      "created_at": "2026-11-19T16:05:50Z"
+    },
+    {
+      "id": 6493757624,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5363",
+      "created_at": "2026-11-19T16:05:48Z"
+    },
+    {
+      "id": 6493751950,
       "repository": "Ikalus1988/MisakaNet",
       "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5251",
-      "created_at": "2026-11-18T15:59:25Z"
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5362",
+      "created_at": "2026-11-19T16:05:30Z"
     },
     {
-      "id": 6471208636,
+      "id": 6493751289,
       "repository": "Ikalus1988/MisakaNet",
       "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5250",
-      "created_at": "2026-11-18T15:59:24Z"
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5361",
+      "created_at": "2026-11-19T16:05:28Z"
     },
     {
-      "id": 6470636900,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-18T15:31",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1416",
-      "created_at": "2026-11-18T15:31:13Z"
+      "id": 6493749230,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5360",
+      "created_at": "2026-11-19T16:05:22Z"
     },
     {
-      "id": 6468772399,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Wave 11] security(bridge): synchronize 128-bit fee rounding invariant across contracts/sbtc_vault.clar and src/soroban_math.rs",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/116",
-      "created_at": "2026-11-18T13:55:46Z"
+      "id": 6493748553,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5359",
+      "created_at": "2026-11-19T16:05:20Z"
     },
     {
-      "id": 6468772031,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Wave 11] fix(xdr): reject boolean ledger sequence inputs and align 64-frame checkpoint math in src/ledger_validator.py",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/115",
-      "created_at": "2026-11-18T13:55:45Z"
+      "id": 6493747975,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5358",
+      "created_at": "2026-11-19T16:05:18Z"
     },
     {
-      "id": 6468771666,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Wave 11] feat(ui): add Stellar slippage warning banner and >=800x600 DOM proof for src/ui/swap_preview.html",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/114",
-      "created_at": "2026-11-18T13:55:44Z"
+      "id": 6493746785,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5357",
+      "created_at": "2026-11-19T16:05:14Z"
     },
     {
-      "id": 6468771264,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Wave 11] fix(rpc): enforce BigInt stroops fee floor and SEP-10 challenge window in src/x402_payment_guard.ts",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/113",
-      "created_at": "2026-11-18T13:55:43Z"
+      "id": 6493746304,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5356",
+      "created_at": "2026-11-19T16:05:13Z"
     },
     {
-      "id": 6468770900,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Wave 11] feat(soroban): add ledger-skew replay window check in src/soroban_math.rs",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/112",
-      "created_at": "2026-11-18T13:55:41Z"
+      "id": 6493745796,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 5 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5355",
+      "created_at": "2026-11-19T16:05:11Z"
     },
     {
-      "id": 6468770467,
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Wave 11] fix(soroban): clamp instance storage TTL extension against max_ttl in contracts/soroban_ttl_guard.rs",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/111",
-      "created_at": "2026-11-18T13:55:40Z"
+      "id": 6493744532,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 5 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5354",
+      "created_at": "2026-11-19T16:05:07Z"
     },
     {
-      "id": 6468656376,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-18T13:49",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1414",
-      "created_at": "2026-11-18T13:49:37Z"
+      "id": 6493647397,
+      "repository": "ADT-community/adt-community.github.io",
+      "title": "Payout operations: platform, private form and process",
+      "url": "https://github.com/ADT-community/adt-community.github.io/issues/7",
+      "created_at": "2026-11-19T16:00:14Z"
     },
     {
-      "id": 6461911533,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-18T07:06",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1413",
-      "created_at": "2026-11-18T07:06:56Z"
+      "id": 6493646853,
+      "repository": "ADT-community/adt-community.github.io",
+      "title": "Community set-up: Discord and weekly updates",
+      "url": "https://github.com/ADT-community/adt-community.github.io/issues/5",
+      "created_at": "2026-11-19T16:00:12Z"
     },
     {
-      "id": 6459765493,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-18T04:09",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1411",
-      "created_at": "2026-11-18T04:09:32Z"
+      "id": 6493645903,
+      "repository": "ADT-community/adt-community.github.io",
+      "title": "Launch kit: posts, 60-second video and 20 communities",
+      "url": "https://github.com/ADT-community/adt-community.github.io/issues/2",
+      "created_at": "2026-11-19T16:00:10Z"
     },
     {
-      "id": 6456743236,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-17T23:59",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1409",
-      "created_at": "2026-11-17T23:59:58Z"
-    },
-    {
-      "id": 6455208168,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-17T22:11",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1407",
-      "created_at": "2026-11-17T22:11:54Z"
-    },
-    {
-      "id": 6452885208,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-r",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4370",
-      "created_at": "2026-11-17T19:54:34Z"
-    },
-    {
-      "id": 6452884976,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with ru",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4369",
-      "created_at": "2026-11-17T19:54:33Z"
-    },
-    {
-      "id": 6450648296,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-17T17:47",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1404",
-      "created_at": "2026-11-17T17:47:34Z"
+      "id": 6493645625,
+      "repository": "ADT-community/adt-community.github.io",
+      "title": "Internal: update the website's bounty section to the $20 model",
+      "url": "https://github.com/ADT-community/adt-community.github.io/issues/1",
+      "created_at": "2026-11-19T16:00:09Z"
     }
   ]
 }
