@@ -1,6 +1,12 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **IES-BoilerRoom/ebpf-verifier-reg-bounds**: [[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2) (Opened: 2026-11-19T07:06:29Z)
+- **IES-BoilerRoom/ebpf-verifier-reg-bounds**: [[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1) (Opened: 2026-11-19T07:06:28Z)
+- **IES-BoilerRoom/nvme-zns-bch-ecc-simulator**: [[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)](https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1) (Opened: 2026-11-19T07:06:27Z)
+- **IES-BoilerRoom/nvme-zns-bch-ecc-simulator**: [ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC](https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2) (Opened: 2026-11-19T07:06:27Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-19T04:04](https://github.com/relayhop/sn-monetization-runtime/issues/1425) (Opened: 2026-11-19T04:04:15Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-19T03:13](https://github.com/relayhop/sn-monetization-runtime/issues/1424) (Opened: 2026-11-19T03:13:51Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-18T23:01](https://github.com/relayhop/sn-monetization-runtime/issues/1422) (Opened: 2026-11-18T23:01:08Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-18T21:49](https://github.com/relayhop/sn-monetization-runtime/issues/1420) (Opened: 2026-11-18T21:49:50Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-18T16:28](https://github.com/relayhop/sn-monetization-runtime/issues/1418) (Opened: 2026-11-18T16:28:17Z)
@@ -25,9 +31,3 @@
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-r](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4370) (Opened: 2026-11-17T19:54:34Z)
 - **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with ru](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4369) (Opened: 2026-11-17T19:54:33Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-17T17:47](https://github.com/relayhop/sn-monetization-runtime/issues/1404) (Opened: 2026-11-17T17:47:34Z)
-- **IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix**: [ci/mpsc: Eliminate ABA generation counter skew across heterogeneous ring capacities - Reward $200 USDC](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2) (Opened: 2026-11-17T17:06:10Z)
-- **IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix**: [bug: Fix slot batch ceiling check and align multi-stride ring wrap-around residue (`drain_mpsc_epoch_frames`) [Reward: $100 USDC]](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1) (Opened: 2026-11-17T17:06:09Z)
-- **IES-BoilerRoom/wgsl-transcendental-math-core**: [fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runtime pipeline ($200 bounty) [wgsl-transcendental-math-core]](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2) (Opened: 2026-11-17T17:06:08Z)
-- **IES-BoilerRoom/wgsl-transcendental-math-core**: [($150) perf/fix: Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (fold_wgsl_radiance_frames)](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1) (Opened: 2026-11-17T17:06:07Z)
-- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5191) (Opened: 2026-11-17T16:30:00Z)
-- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5190) (Opened: 2026-11-17T16:29:45Z)
