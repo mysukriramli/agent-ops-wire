@@ -1,52 +1,31 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-19T20:05:07.219065+00:00",
+    "generated_at": "2026-11-20T06:05:51.790970+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
     {
-      "id": 6494346152,
-      "repository": "ADT-community/adt-community.github.io",
-      "title": "Partner sales kit: getting companies to post tasks",
-      "url": "https://github.com/ADT-community/adt-community.github.io/issues/12",
-      "created_at": "2026-11-19T16:35:56Z"
+      "id": 6503107161,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [Wave 3: 2 \u00d7 $20 USDC | 3-Year Protocol Trajectory",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/96",
+      "created_at": "2026-11-20T01:59:26Z"
     },
     {
-      "id": 6494340302,
-      "repository": "ADT-community/adt-community.github.io",
-      "title": "Figma: design ADT Work, the task platform",
-      "url": "https://github.com/ADT-community/adt-community.github.io/issues/9",
-      "created_at": "2026-11-19T16:35:40Z"
+      "id": 6501502855,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Wave 3: 2 \u00d7 $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-R",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4374",
+      "created_at": "2026-11-19T23:54:09Z"
     },
     {
-      "id": 6494318237,
-      "repository": "ADT-community/locallity_ai",
-      "title": "Business API: keys, usage metering and docs",
-      "url": "https://github.com/ADT-community/locallity_ai/issues/28",
-      "created_at": "2026-11-19T16:34:34Z"
-    },
-    {
-      "id": 6494308923,
-      "repository": "ADT-community/trans_sport",
-      "title": "Sales kit: owner pitch and pricing page",
-      "url": "https://github.com/ADT-community/trans_sport/issues/26",
-      "created_at": "2026-11-19T16:34:05Z"
-    },
-    {
-      "id": 6494300775,
-      "repository": "ADT-community/trans_sport",
-      "title": "Implement the owner dashboard UI from the Figma",
-      "url": "https://github.com/ADT-community/trans_sport/issues/24",
-      "created_at": "2026-11-19T16:33:40Z"
-    },
-    {
-      "id": 6494299771,
-      "repository": "ADT-community/trans_sport",
-      "title": "Implement the driver app UI from the Figma",
-      "url": "https://github.com/ADT-community/trans_sport/issues/23",
-      "created_at": "2026-11-19T16:33:36Z"
+      "id": 6499529015,
+      "repository": "Fractal-Neurons/pacta",
+      "title": "[Wave 3: 2 \u00d7 $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-Researcher Control-Plane Due-Diligence Pool",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/118",
+      "created_at": "2026-11-19T21:36:08Z"
     },
     {
       "id": 6493770602,
@@ -189,32 +168,53 @@
       "created_at": "2026-11-19T16:05:07Z"
     },
     {
-      "id": 6493647397,
-      "repository": "ADT-community/adt-community.github.io",
-      "title": "Payout operations: platform, private form and process",
-      "url": "https://github.com/ADT-community/adt-community.github.io/issues/7",
-      "created_at": "2026-11-19T16:00:14Z"
+      "id": 6485740693,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4372",
+      "created_at": "2026-11-19T08:41:48Z"
     },
     {
-      "id": 6493646853,
-      "repository": "ADT-community/adt-community.github.io",
-      "title": "Community set-up: Discord and weekly updates",
-      "url": "https://github.com/ADT-community/adt-community.github.io/issues/5",
-      "created_at": "2026-11-19T16:00:12Z"
+      "id": 6485740515,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append desc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4371",
+      "created_at": "2026-11-19T08:41:47Z"
     },
     {
-      "id": 6493645903,
-      "repository": "ADT-community/adt-community.github.io",
-      "title": "Launch kit: posts, 60-second video and 20 communities",
-      "url": "https://github.com/ADT-community/adt-community.github.io/issues/2",
-      "created_at": "2026-11-19T16:00:10Z"
+      "id": 6484340176,
+      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
+      "title": "[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)",
+      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
+      "created_at": "2026-11-19T07:06:29Z"
     },
     {
-      "id": 6493645625,
-      "repository": "ADT-community/adt-community.github.io",
-      "title": "Internal: update the website's bounty section to the $20 model",
-      "url": "https://github.com/ADT-community/adt-community.github.io/issues/1",
-      "created_at": "2026-11-19T16:00:09Z"
+      "id": 6484340106,
+      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
+      "title": "[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)",
+      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
+      "created_at": "2026-11-19T07:06:28Z"
+    },
+    {
+      "id": 6484339784,
+      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
+      "title": "[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)",
+      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1",
+      "created_at": "2026-11-19T07:06:27Z"
+    },
+    {
+      "id": 6484339870,
+      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
+      "title": "ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC",
+      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2",
+      "created_at": "2026-11-19T07:06:27Z"
+    },
+    {
+      "id": 6482115733,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-19T04:04",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1425",
+      "created_at": "2026-11-19T04:04:15Z"
     }
   ]
 }
