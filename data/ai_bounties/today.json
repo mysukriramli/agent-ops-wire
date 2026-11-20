@@ -1,11 +1,193 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-20T06:05:51.790970+00:00",
+    "generated_at": "2026-11-20T19:41:32.900602+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6514809803,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5463",
+      "created_at": "2026-11-20T15:50:37Z"
+    },
+    {
+      "id": 6514807484,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5462",
+      "created_at": "2026-11-20T15:50:29Z"
+    },
+    {
+      "id": 6514801027,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5461",
+      "created_at": "2026-11-20T15:50:05Z"
+    },
+    {
+      "id": 6514800095,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5460",
+      "created_at": "2026-11-20T15:50:02Z"
+    },
+    {
+      "id": 6514796078,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5459",
+      "created_at": "2026-11-20T15:49:48Z"
+    },
+    {
+      "id": 6514794519,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5458",
+      "created_at": "2026-11-20T15:49:42Z"
+    },
+    {
+      "id": 6514794138,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5457",
+      "created_at": "2026-11-20T15:49:41Z"
+    },
+    {
+      "id": 6514793636,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5456",
+      "created_at": "2026-11-20T15:49:39Z"
+    },
+    {
+      "id": 6514793207,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5455",
+      "created_at": "2026-11-20T15:49:37Z"
+    },
+    {
+      "id": 6514792705,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5454",
+      "created_at": "2026-11-20T15:49:35Z"
+    },
+    {
+      "id": 6514791263,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5453",
+      "created_at": "2026-11-20T15:49:30Z"
+    },
+    {
+      "id": 6514785910,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5452",
+      "created_at": "2026-11-20T15:49:11Z"
+    },
+    {
+      "id": 6514785494,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5451",
+      "created_at": "2026-11-20T15:49:09Z"
+    },
+    {
+      "id": 6514783148,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5450",
+      "created_at": "2026-11-20T15:49:01Z"
+    },
+    {
+      "id": 6514781952,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5449",
+      "created_at": "2026-11-20T15:48:57Z"
+    },
+    {
+      "id": 6514781500,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5448",
+      "created_at": "2026-11-20T15:48:55Z"
+    },
+    {
+      "id": 6514780995,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5447",
+      "created_at": "2026-11-20T15:48:53Z"
+    },
+    {
+      "id": 6514779913,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 5 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5446",
+      "created_at": "2026-11-20T15:48:49Z"
+    },
+    {
+      "id": 6514637235,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] fix(http2_hpack): Fix HTTP/2 frame payload ceiling and HPACK dynamic table shard",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4379",
+      "created_at": "2026-11-20T15:40:30Z"
+    },
+    {
+      "id": 6514636911,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [150 USDC] Propagate sibling subschema annotations across `allOf` / `oneOf` bran",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4377",
+      "created_at": "2026-11-20T15:40:29Z"
+    },
+    {
+      "id": 6514637092,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] bug: Enforce zero-copy Huffman header boundary across split CONTINUATION frames ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4378",
+      "created_at": "2026-11-20T15:40:29Z"
+    },
+    {
+      "id": 6514636733,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] bug: Fix JSON stream chunk ceiling and resolve recursive `$dynamicAnchor` scope ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4376",
+      "created_at": "2026-11-20T15:40:28Z"
+    },
+    {
+      "id": 6510216542,
+      "repository": "IES-BoilerRoom/json-schema-dynamicref-engine",
+      "title": "[150 USDC] Propagate sibling subschema annotations across `allOf` / `oneOf` branches (json-schema-dynamicref-engine)",
+      "url": "https://github.com/IES-BoilerRoom/json-schema-dynamicref-engine/issues/2",
+      "created_at": "2026-11-20T11:08:35Z"
+    },
+    {
+      "id": 6510216431,
+      "repository": "IES-BoilerRoom/json-schema-dynamicref-engine",
+      "title": "bug: Fix JSON stream chunk ceiling and resolve recursive `$dynamicAnchor` scope tag (`evaluate_instance_frames`) [Reward: $175 USDC]",
+      "url": "https://github.com/IES-BoilerRoom/json-schema-dynamicref-engine/issues/1",
+      "created_at": "2026-11-20T11:08:35Z"
+    },
+    {
+      "id": 6510216059,
+      "repository": "IES-BoilerRoom/grpc-http2-hpack-framing",
+      "title": "bug: Enforce zero-copy Huffman header boundary across split CONTINUATION frames (`grpc-http2-hpack-framing`) [Reward: $350 USDC]",
+      "url": "https://github.com/IES-BoilerRoom/grpc-http2-hpack-framing/issues/2",
+      "created_at": "2026-11-20T11:08:34Z"
+    },
+    {
+      "id": 6510215958,
+      "repository": "IES-BoilerRoom/grpc-http2-hpack-framing",
+      "title": "fix(http2_hpack): Fix HTTP/2 frame payload ceiling and HPACK dynamic table shard eviction witness ($250 bounty) [unpack_hpack_header_frames]",
+      "url": "https://github.com/IES-BoilerRoom/grpc-http2-hpack-framing/issues/1",
+      "created_at": "2026-11-20T11:08:33Z"
+    },
     {
       "id": 6503107161,
       "repository": "alfrexo95/bounty-bot",
@@ -33,188 +215,6 @@
       "title": "[Bounty] Answer the 2 linked question(s)",
       "url": "https://github.com/Ikalus1988/MisakaNet/issues/5373",
       "created_at": "2026-11-19T16:06:27Z"
-    },
-    {
-      "id": 6493763871,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5372",
-      "created_at": "2026-11-19T16:06:06Z"
-    },
-    {
-      "id": 6493763232,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5371",
-      "created_at": "2026-11-19T16:06:05Z"
-    },
-    {
-      "id": 6493762616,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5370",
-      "created_at": "2026-11-19T16:06:02Z"
-    },
-    {
-      "id": 6493761956,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5369",
-      "created_at": "2026-11-19T16:06:00Z"
-    },
-    {
-      "id": 6493761426,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5368",
-      "created_at": "2026-11-19T16:05:59Z"
-    },
-    {
-      "id": 6493760842,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5367",
-      "created_at": "2026-11-19T16:05:57Z"
-    },
-    {
-      "id": 6493760205,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5366",
-      "created_at": "2026-11-19T16:05:55Z"
-    },
-    {
-      "id": 6493759746,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5365",
-      "created_at": "2026-11-19T16:05:54Z"
-    },
-    {
-      "id": 6493758368,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5364",
-      "created_at": "2026-11-19T16:05:50Z"
-    },
-    {
-      "id": 6493757624,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5363",
-      "created_at": "2026-11-19T16:05:48Z"
-    },
-    {
-      "id": 6493751950,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5362",
-      "created_at": "2026-11-19T16:05:30Z"
-    },
-    {
-      "id": 6493751289,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5361",
-      "created_at": "2026-11-19T16:05:28Z"
-    },
-    {
-      "id": 6493749230,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5360",
-      "created_at": "2026-11-19T16:05:22Z"
-    },
-    {
-      "id": 6493748553,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5359",
-      "created_at": "2026-11-19T16:05:20Z"
-    },
-    {
-      "id": 6493747975,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5358",
-      "created_at": "2026-11-19T16:05:18Z"
-    },
-    {
-      "id": 6493746785,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 4 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5357",
-      "created_at": "2026-11-19T16:05:14Z"
-    },
-    {
-      "id": 6493746304,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 4 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5356",
-      "created_at": "2026-11-19T16:05:13Z"
-    },
-    {
-      "id": 6493745796,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 5 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5355",
-      "created_at": "2026-11-19T16:05:11Z"
-    },
-    {
-      "id": 6493744532,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 5 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5354",
-      "created_at": "2026-11-19T16:05:07Z"
-    },
-    {
-      "id": 6485740693,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4372",
-      "created_at": "2026-11-19T08:41:48Z"
-    },
-    {
-      "id": 6485740515,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append desc",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4371",
-      "created_at": "2026-11-19T08:41:47Z"
-    },
-    {
-      "id": 6484340176,
-      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
-      "title": "[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)",
-      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
-      "created_at": "2026-11-19T07:06:29Z"
-    },
-    {
-      "id": 6484340106,
-      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
-      "title": "[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)",
-      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
-      "created_at": "2026-11-19T07:06:28Z"
-    },
-    {
-      "id": 6484339784,
-      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
-      "title": "[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)",
-      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1",
-      "created_at": "2026-11-19T07:06:27Z"
-    },
-    {
-      "id": 6484339870,
-      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
-      "title": "ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC",
-      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2",
-      "created_at": "2026-11-19T07:06:27Z"
-    },
-    {
-      "id": 6482115733,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-19T04:04",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1425",
-      "created_at": "2026-11-19T04:04:15Z"
     }
   ]
 }
