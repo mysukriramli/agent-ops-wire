@@ -1,220 +1,220 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-21T14:31:25.812581+00:00",
+    "generated_at": "2026-11-21T22:51:25.425664+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
     {
-      "id": 6525392418,
+      "id": 6532567088,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Wave 4: 10 \u00d7 $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380",
+      "created_at": "2026-11-21T18:10:41Z"
+    },
+    {
+      "id": 6532567199,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Wave 4: 24 \u00d7 $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots \u00b7 Ethe",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381",
+      "created_at": "2026-11-21T18:10:41Z"
+    },
+    {
+      "id": 6531293935,
+      "repository": "Fractal-Neurons/pacta",
+      "title": "[Wave 4: 5 \u00d7 $2.00 USDC | Documents Changed] Open Now (160 Protocols \u00b7 246 Quoted Records \u00b7 Ethereum & Base)",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/161",
+      "created_at": "2026-11-21T16:16:24Z"
+    },
+    {
+      "id": 6531160638,
+      "repository": "Fractal-Neurons/pacta",
+      "title": "[Wave 4: 10 \u00d7 $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses \u00b7 Ethereum & Base)",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/159",
+      "created_at": "2026-11-21T16:05:57Z"
+    },
+    {
+      "id": 6531025967,
+      "repository": "Fractal-Neurons/pacta",
+      "title": "[Wave 4: 24 \u00d7 $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots \u00b7 Ethereum & Base)",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/158",
+      "created_at": "2026-11-21T15:53:53Z"
+    },
+    {
+      "id": 6530895387,
       "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Add a Bitget exchange reader",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/20",
-      "created_at": "2026-11-21T06:18:15Z"
+      "title": "Add a Bithumb exchange reader (KRW converted to USD)",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/56",
+      "created_at": "2026-11-21T15:41:21Z"
     },
     {
-      "id": 6525391980,
+      "id": 6530895095,
       "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Fix AERO's listed Base contract",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/18",
-      "created_at": "2026-11-21T06:18:12Z"
+      "title": "Add an Upbit exchange reader (USDT market)",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/55",
+      "created_at": "2026-11-21T15:41:19Z"
     },
     {
-      "id": 6525391810,
+      "id": 6530894798,
       "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Fix QNT supply (totalSupply is hardcoded)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/17",
-      "created_at": "2026-11-21T06:18:11Z"
+      "title": "Add a Gemini exchange reader",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/54",
+      "created_at": "2026-11-21T15:41:18Z"
     },
     {
-      "id": 6525391536,
+      "id": 6530894600,
       "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Find OP's non-circulating wallets",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/16",
-      "created_at": "2026-11-21T06:18:09Z"
+      "title": "Add a Bitfinex exchange reader",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/53",
+      "created_at": "2026-11-21T15:41:16Z"
     },
     {
-      "id": 6525391280,
+      "id": 6530894371,
       "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Find PYTH's locked allocation wallets",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/15",
-      "created_at": "2026-11-21T06:18:08Z"
+      "title": "Add a Crypto.com Exchange reader",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/52",
+      "created_at": "2026-11-21T15:41:15Z"
     },
     {
-      "id": 6525391024,
+      "id": 6530894112,
       "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Find JUP's locked wallets",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/14",
-      "created_at": "2026-11-21T06:18:06Z"
+      "title": "Add an HTX (Huobi) exchange reader",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/51",
+      "created_at": "2026-11-21T15:41:14Z"
     },
     {
-      "id": 6525390820,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Find FET's non-circulating wallets",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/13",
-      "created_at": "2026-11-21T06:18:04Z"
+      "id": 6530461726,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5549",
+      "created_at": "2026-11-21T15:02:38Z"
     },
     {
-      "id": 6525390598,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Find ONDO's locked allocation wallets",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/12",
-      "created_at": "2026-11-21T06:18:03Z"
+      "id": 6530461378,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5548",
+      "created_at": "2026-11-21T15:02:36Z"
     },
     {
-      "id": 6525390418,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Find LINK's non-circulating wallets",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/11",
-      "created_at": "2026-11-21T06:18:01Z"
+      "id": 6530461107,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5547",
+      "created_at": "2026-11-21T15:02:35Z"
     },
     {
-      "id": 6525390215,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Add an ENA supply rule with locked wallets excluded",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/10",
-      "created_at": "2026-11-21T06:18:00Z"
+      "id": 6530460780,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5546",
+      "created_at": "2026-11-21T15:02:33Z"
     },
     {
-      "id": 6525390030,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Split AVAX locked stake out of the total",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/9",
-      "created_at": "2026-11-21T06:17:59Z"
+      "id": 6530458426,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5545",
+      "created_at": "2026-11-21T15:02:19Z"
     },
     {
-      "id": 6525389773,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Read RUNE circulating supply from THORChain",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/8",
-      "created_at": "2026-11-21T06:17:57Z"
+      "id": 6530457210,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5544",
+      "created_at": "2026-11-21T15:02:12Z"
     },
     {
-      "id": 6525389496,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Read TON circulating supply",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/7",
-      "created_at": "2026-11-21T06:17:55Z"
+      "id": 6530454568,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5543",
+      "created_at": "2026-11-21T15:01:59Z"
     },
     {
-      "id": 6525389324,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Read ALGO circulating supply with Foundation wallets excluded",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/6",
-      "created_at": "2026-11-21T06:17:54Z"
+      "id": 6530452949,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5542",
+      "created_at": "2026-11-21T15:01:50Z"
     },
     {
-      "id": 6525389110,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Read APT (Aptos) circulating supply",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/5",
-      "created_at": "2026-11-21T06:17:52Z"
+      "id": 6530450243,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5541",
+      "created_at": "2026-11-21T15:01:36Z"
     },
     {
-      "id": 6525388944,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Read TIA (Celestia) circulating supply",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/4",
-      "created_at": "2026-11-21T06:17:51Z"
+      "id": 6530449844,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5540",
+      "created_at": "2026-11-21T15:01:34Z"
     },
     {
-      "id": 6525388688,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Read SEI circulating supply from the chain",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/3",
-      "created_at": "2026-11-21T06:17:49Z"
+      "id": 6530446181,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5539",
+      "created_at": "2026-11-21T15:01:17Z"
     },
     {
-      "id": 6525388525,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Read SUI circulating supply from the chain",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/2",
-      "created_at": "2026-11-21T06:17:48Z"
+      "id": 6530445735,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5538",
+      "created_at": "2026-11-21T15:01:16Z"
     },
     {
-      "id": 6524874356,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Add median: the median time from merge to payment",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/31",
-      "created_at": "2026-11-21T05:21:59Z"
+      "id": 6530445030,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5537",
+      "created_at": "2026-11-21T15:01:12Z"
     },
     {
-      "id": 6524873901,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Add validateMergitJson: check mergit.json before committing it",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/30",
-      "created_at": "2026-11-21T05:21:56Z"
+      "id": 6530444689,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5536",
+      "created_at": "2026-11-21T15:01:10Z"
     },
     {
-      "id": 6524873537,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Add a CONTRIBUTING.md on how to get paid here",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/29",
-      "created_at": "2026-11-21T05:21:53Z"
+      "id": 6530443844,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5535",
+      "created_at": "2026-11-21T15:01:06Z"
     },
     {
-      "id": 6524873218,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Add feeTable: a Markdown table of fees and payouts",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/28",
-      "created_at": "2026-11-21T05:21:51Z"
+      "id": 6530441031,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5534",
+      "created_at": "2026-11-21T15:00:51Z"
     },
     {
-      "id": 6524872714,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Add timeLeft: how long a bounty stays open",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/27",
-      "created_at": "2026-11-21T05:21:48Z"
+      "id": 6530438011,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5533",
+      "created_at": "2026-11-21T15:00:33Z"
     },
     {
-      "id": 6524872361,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Add isExpired: the escrow's deadline rule",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/26",
-      "created_at": "2026-11-21T05:21:46Z"
+      "id": 6530437719,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5532",
+      "created_at": "2026-11-21T15:00:31Z"
     },
     {
-      "id": 6524872033,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Add parseIssueUrl: owner, repo and number from an issue link",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/25",
-      "created_at": "2026-11-21T05:21:43Z"
-    },
-    {
-      "id": 6524871689,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Add fundLink: build the Fund this issue link",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/24",
-      "created_at": "2026-11-21T05:21:41Z"
-    },
-    {
-      "id": 6524871272,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Add shortAddress: 0x23E8\u20267686",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/23",
-      "created_at": "2026-11-21T05:21:38Z"
-    },
-    {
-      "id": 6524870897,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Add isAddress: is this string an EVM address?",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/22",
-      "created_at": "2026-11-21T05:21:35Z"
-    },
-    {
-      "id": 6524263221,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Document split and grossFor in the README",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/15",
-      "created_at": "2026-11-21T04:09:21Z"
-    },
-    {
-      "id": 6524262633,
-      "repository": "odiseo159-beep/mergit-demo",
-      "title": "Fuzz split with a seeded random generator",
-      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/14",
-      "created_at": "2026-11-21T04:09:17Z"
+      "id": 6530126946,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-21T14:32",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1428",
+      "created_at": "2026-11-21T14:32:43Z"
     }
   ]
 }
