@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "domain": "ai_bounties",
+    "generated_at": "2026-11-22T05:33:20.513667+00:00",
+    "total_items": 30,
+    "schema_version": "1.0.0"
+  },
+  "open_tasks": [
+    {
+      "id": 6538315074,
+      "repository": "IES-BoilerRoom/bgp-med-oscillation-verifier",
+      "title": "[$75] fix(routing): Eliminate persistent route-reflector MED cycle across confederation peers (bgp-med-oscillation-verifier)",
+      "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/2",
+      "created_at": "2026-11-22T04:12:48Z"
+    },
+    {
+      "id": 6538315025,
+      "repository": "IES-BoilerRoom/bgp-med-oscillation-verifier",
+      "title": "[175 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (normalize_bgp_update_frames)",
+      "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1",
+      "created_at": "2026-11-22T04:12:48Z"
+    },
+    {
+      "id": 6538314859,
+      "repository": "IES-BoilerRoom/cpython-pep626-line-profiler",
+      "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
+      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2",
+      "created_at": "2026-11-22T04:12:46Z"
+    },
+    {
+      "id": 6538314806,
+      "repository": "IES-BoilerRoom/cpython-pep626-line-profiler",
+      "title": "fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]",
+      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1",
+      "created_at": "2026-11-22T04:12:46Z"
+    },
+    {
+      "id": 6535467282,
+      "repository": "amiller/bounty-arcade",
+      "title": "[busy forest] Improve EC Rank cell 3/12",
+      "url": "https://github.com/amiller/bounty-arcade/issues/94",
+      "created_at": "2026-11-21T22:54:04Z"
+    },
+    {
+      "id": 6535467068,
+      "repository": "amiller/bounty-arcade",
+      "title": "[busy forest] Improve EC Rank cell 3/11",
+      "url": "https://github.com/amiller/bounty-arcade/issues/93",
+      "created_at": "2026-11-21T22:54:03Z"
+    },
+    {
+      "id": 6535466901,
+      "repository": "amiller/bounty-arcade",
+      "title": "[busy forest] Improve EC Rank cell 3/10",
+      "url": "https://github.com/amiller/bounty-arcade/issues/92",
+      "created_at": "2026-11-21T22:54:02Z"
+    },
+    {
+      "id": 6535466619,
+      "repository": "amiller/bounty-arcade",
+      "title": "[busy forest] Improve EC Rank cell 2/16",
+      "url": "https://github.com/amiller/bounty-arcade/issues/91",
+      "created_at": "2026-11-21T22:54:01Z"
+    },
+    {
+      "id": 6535466449,
+      "repository": "amiller/bounty-arcade",
+      "title": "[busy forest] Improve EC Rank cell 2/15",
+      "url": "https://github.com/amiller/bounty-arcade/issues/90",
+      "created_at": "2026-11-21T22:54:00Z"
+    },
+    {
+      "id": 6535466158,
+      "repository": "amiller/bounty-arcade",
+      "title": "[busy forest] Improve EC Rank cell 2/14",
+      "url": "https://github.com/amiller/bounty-arcade/issues/89",
+      "created_at": "2026-11-21T22:53:58Z"
+    },
+    {
+      "id": 6535465967,
+      "repository": "amiller/bounty-arcade",
+      "title": "[busy forest] Improve EC Rank cell 2/13",
+      "url": "https://github.com/amiller/bounty-arcade/issues/88",
+      "created_at": "2026-11-21T22:53:57Z"
+    },
+    {
+      "id": 6535465796,
+      "repository": "amiller/bounty-arcade",
+      "title": "[busy forest] Improve EC Rank cell 2/12",
+      "url": "https://github.com/amiller/bounty-arcade/issues/87",
+      "created_at": "2026-11-21T22:53:56Z"
+    },
+    {
+      "id": 6535465597,
+      "repository": "amiller/bounty-arcade",
+      "title": "[busy forest] Improve EC Rank cell 2/11",
+      "url": "https://github.com/amiller/bounty-arcade/issues/86",
+      "created_at": "2026-11-21T22:53:55Z"
+    },
+    {
+      "id": 6532567199,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Wave 4: 24 \u00d7 $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots \u00b7 Ethe",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381",
+      "created_at": "2026-11-21T18:10:41Z"
+    },
+    {
+      "id": 6532567088,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Wave 4: 10 \u00d7 $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380",
+      "created_at": "2026-11-21T18:10:41Z"
+    },
+    {
+      "id": 6531293935,
+      "repository": "Fractal-Neurons/pacta",
+      "title": "[Wave 4: 5 \u00d7 $2.00 USDC | Documents Changed] Open Now (160 Protocols \u00b7 246 Quoted Records \u00b7 Ethereum & Base)",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/161",
+      "created_at": "2026-11-21T16:16:24Z"
+    },
+    {
+      "id": 6531160638,
+      "repository": "Fractal-Neurons/pacta",
+      "title": "[Wave 4: 10 \u00d7 $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses \u00b7 Ethereum & Base)",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/159",
+      "created_at": "2026-11-21T16:05:57Z"
+    },
+    {
+      "id": 6531025967,
+      "repository": "Fractal-Neurons/pacta",
+      "title": "[Wave 4: 24 \u00d7 $1.00 USDC | Observed Catalogue] Batch 1 + Batch 2 Open Now (21 Slots \u00b7 Ethereum & Base)",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/158",
+      "created_at": "2026-11-21T15:53:53Z"
+    },
+    {
+      "id": 6530895387,
+      "repository": "tradermarketcap/tradermarketcap-open",
+      "title": "Add a Bithumb exchange reader (KRW converted to USD)",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/56",
+      "created_at": "2026-11-21T15:41:21Z"
+    },
+    {
+      "id": 6530895095,
+      "repository": "tradermarketcap/tradermarketcap-open",
+      "title": "Add an Upbit exchange reader (USDT market)",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/55",
+      "created_at": "2026-11-21T15:41:19Z"
+    },
+    {
+      "id": 6530894798,
+      "repository": "tradermarketcap/tradermarketcap-open",
+      "title": "Add a Gemini exchange reader",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/54",
+      "created_at": "2026-11-21T15:41:18Z"
+    },
+    {
+      "id": 6530894600,
+      "repository": "tradermarketcap/tradermarketcap-open",
+      "title": "Add a Bitfinex exchange reader",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/53",
+      "created_at": "2026-11-21T15:41:16Z"
+    },
+    {
+      "id": 6530894371,
+      "repository": "tradermarketcap/tradermarketcap-open",
+      "title": "Add a Crypto.com Exchange reader",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/52",
+      "created_at": "2026-11-21T15:41:15Z"
+    },
+    {
+      "id": 6530894112,
+      "repository": "tradermarketcap/tradermarketcap-open",
+      "title": "Add an HTX (Huobi) exchange reader",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/51",
+      "created_at": "2026-11-21T15:41:14Z"
+    },
+    {
+      "id": 6530461726,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5549",
+      "created_at": "2026-11-21T15:02:38Z"
+    },
+    {
+      "id": 6530461378,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5548",
+      "created_at": "2026-11-21T15:02:36Z"
+    },
+    {
+      "id": 6530461107,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5547",
+      "created_at": "2026-11-21T15:02:35Z"
+    },
+    {
+      "id": 6530460780,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5546",
+      "created_at": "2026-11-21T15:02:33Z"
+    },
+    {
+      "id": 6530458426,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5545",
+      "created_at": "2026-11-21T15:02:19Z"
+    },
+    {
+      "id": 6530457210,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5544",
+      "created_at": "2026-11-21T15:02:12Z"
+    }
+  ]
+}
