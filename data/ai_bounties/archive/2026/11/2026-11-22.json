@@ -1,11 +1,60 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-22T05:33:20.513667+00:00",
+    "generated_at": "2026-11-22T14:13:13.062881+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6542844428,
+      "repository": "XHToken/Spark-X2.6",
+      "title": "HER Hack-Astron #8 | Spark \u00d7 SkillHub Agent Skills Challenge\uff5cAgent \u6280\u80fd\u5b9e\u6218\u6311\u6218\u8d5b",
+      "url": "https://github.com/XHToken/Spark-X2.6/issues/32",
+      "created_at": "2026-11-22T13:17:16Z"
+    },
+    {
+      "id": 6541993184,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4383",
+      "created_at": "2026-11-22T11:46:55Z"
+    },
+    {
+      "id": 6541993112,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] fix(dwarf_trace): Preserve exact column-offset delta invariants across exception",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4382",
+      "created_at": "2026-11-22T11:46:54Z"
+    },
+    {
+      "id": 6541317711,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/100",
+      "created_at": "2026-11-22T10:30:47Z"
+    },
+    {
+      "id": 6541228333,
+      "repository": "vedantdadhich21/orvyn",
+      "title": "Testers wanted: try to break the portfolio builder",
+      "url": "https://github.com/vedantdadhich21/orvyn/issues/2",
+      "created_at": "2026-11-22T10:21:30Z"
+    },
+    {
+      "id": 6539154476,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5568",
+      "created_at": "2026-11-22T06:06:53Z"
+    },
+    {
+      "id": 6539152079,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5567",
+      "created_at": "2026-11-22T06:06:35Z"
+    },
     {
       "id": 6538315074,
       "repository": "IES-BoilerRoom/bgp-med-oscillation-verifier",
@@ -21,17 +70,17 @@
       "created_at": "2026-11-22T04:12:48Z"
     },
     {
-      "id": 6538314859,
-      "repository": "IES-BoilerRoom/cpython-pep626-line-profiler",
-      "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
-      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2",
-      "created_at": "2026-11-22T04:12:46Z"
-    },
-    {
       "id": 6538314806,
       "repository": "IES-BoilerRoom/cpython-pep626-line-profiler",
       "title": "fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]",
       "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1",
+      "created_at": "2026-11-22T04:12:46Z"
+    },
+    {
+      "id": 6538314859,
+      "repository": "IES-BoilerRoom/cpython-pep626-line-profiler",
+      "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
+      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2",
       "created_at": "2026-11-22T04:12:46Z"
     },
     {
@@ -140,13 +189,6 @@
       "created_at": "2026-11-21T15:41:21Z"
     },
     {
-      "id": 6530895095,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Add an Upbit exchange reader (USDT market)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/55",
-      "created_at": "2026-11-21T15:41:19Z"
-    },
-    {
       "id": 6530894798,
       "repository": "tradermarketcap/tradermarketcap-open",
       "title": "Add a Gemini exchange reader",
@@ -161,13 +203,6 @@
       "created_at": "2026-11-21T15:41:16Z"
     },
     {
-      "id": 6530894371,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Add a Crypto.com Exchange reader",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/52",
-      "created_at": "2026-11-21T15:41:15Z"
-    },
-    {
       "id": 6530894112,
       "repository": "tradermarketcap/tradermarketcap-open",
       "title": "Add an HTX (Huobi) exchange reader",
@@ -175,46 +210,11 @@
       "created_at": "2026-11-21T15:41:14Z"
     },
     {
-      "id": 6530461726,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5549",
-      "created_at": "2026-11-21T15:02:38Z"
-    },
-    {
-      "id": 6530461378,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5548",
-      "created_at": "2026-11-21T15:02:36Z"
-    },
-    {
-      "id": 6530461107,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5547",
-      "created_at": "2026-11-21T15:02:35Z"
-    },
-    {
-      "id": 6530460780,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5546",
-      "created_at": "2026-11-21T15:02:33Z"
-    },
-    {
       "id": 6530458426,
       "repository": "Ikalus1988/MisakaNet",
       "title": "[Bounty] Answer the 2 linked question(s)",
       "url": "https://github.com/Ikalus1988/MisakaNet/issues/5545",
       "created_at": "2026-11-21T15:02:19Z"
-    },
-    {
-      "id": 6530457210,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5544",
-      "created_at": "2026-11-21T15:02:12Z"
     }
   ]
 }
