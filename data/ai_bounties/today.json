@@ -1,11 +1,193 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-22T14:13:13.062881+00:00",
+    "generated_at": "2026-11-22T23:20:27.580530+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6546076533,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-22T18:28",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1431",
+      "created_at": "2026-11-22T18:28:12Z"
+    },
+    {
+      "id": 6544640842,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (5): Organize the first three months of the upkeep rota",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/113",
+      "created_at": "2026-11-22T16:11:32Z"
+    },
+    {
+      "id": 6544640277,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (5): Help a second town plan its own Swapatron",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/112",
+      "created_at": "2026-11-22T16:11:29Z"
+    },
+    {
+      "id": 6544639651,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Line up food trucks for hatching day, with the lab's OK on space and permits",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/111",
+      "created_at": "2026-11-22T16:11:26Z"
+    },
+    {
+      "id": 6544639151,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (1): Suggest a better cute name for an IoT term in \\1",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/110",
+      "created_at": "2026-11-22T16:11:23Z"
+    },
+    {
+      "id": 6544638663,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Write the youth protection rules, with someone who works with kids",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/109",
+      "created_at": "2026-11-22T16:11:20Z"
+    },
+    {
+      "id": 6544638143,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (5): Run the technology petting zoo",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/108",
+      "created_at": "2026-11-22T16:11:16Z"
+    },
+    {
+      "id": 6544637582,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Keep a habitat at the technology petting zoo",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/107",
+      "created_at": "2026-11-22T16:11:13Z"
+    },
+    {
+      "id": 6544636966,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (5): Lead build day",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/106",
+      "created_at": "2026-11-22T16:11:10Z"
+    },
+    {
+      "id": 6544636463,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Host an event from the \\1",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/105",
+      "created_at": "2026-11-22T16:11:06Z"
+    },
+    {
+      "id": 6544635948,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (5): Design and prototype the sensor node",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/104",
+      "created_at": "2026-11-22T16:11:03Z"
+    },
+    {
+      "id": 6544635385,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Work out the power budget for solar, battery, and lighting",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/103",
+      "created_at": "2026-11-22T16:11:00Z"
+    },
+    {
+      "id": 6544634869,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Write the cut list from the chosen design",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/102",
+      "created_at": "2026-11-22T16:10:57Z"
+    },
+    {
+      "id": 6544634311,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Draw a full shell design with measurements",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/101",
+      "created_at": "2026-11-22T16:10:54Z"
+    },
+    {
+      "id": 6544633744,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Build a simple \"took and left\" form",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/100",
+      "created_at": "2026-11-22T16:10:51Z"
+    },
+    {
+      "id": 6544633139,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Write a battery safety summary, reviewed by someone with battery experience",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/99",
+      "created_at": "2026-11-22T16:10:47Z"
+    },
+    {
+      "id": 6544632624,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (2): Research how other swap boxes handle loss and junk, and write up what you find",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/98",
+      "created_at": "2026-11-22T16:10:44Z"
+    },
+    {
+      "id": 6544632119,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (2): Design bin labels with icons",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/97",
+      "created_at": "2026-11-22T16:10:41Z"
+    },
+    {
+      "id": 6544631508,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (2): Design the sign for the front of the box",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/96",
+      "created_at": "2026-11-22T16:10:38Z"
+    },
+    {
+      "id": 6544630892,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (2): Draw a logo a kid would want as a sticker",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/95",
+      "created_at": "2026-11-22T16:10:35Z"
+    },
+    {
+      "id": 6544630354,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (1): Bring a friend who makes their first contribution",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/94",
+      "created_at": "2026-11-22T16:10:31Z"
+    },
+    {
+      "id": 6544629794,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (1): Test the web page on your phone and report what is confusing",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/93",
+      "created_at": "2026-11-22T16:10:29Z"
+    },
+    {
+      "id": 6544629299,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (1): Suggest a standard bin, with a store link and its size",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/92",
+      "created_at": "2026-11-22T16:10:26Z"
+    },
+    {
+      "id": 6544628805,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (1): Tell Swapatron why it won't work, with specifics",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/91",
+      "created_at": "2026-11-22T16:10:23Z"
+    },
+    {
+      "id": 6544628307,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (1): Share a design sketch for the box",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/90",
+      "created_at": "2026-11-22T16:10:20Z"
+    },
+    {
+      "id": 6543548763,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-22T14:27",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1429",
+      "created_at": "2026-11-22T14:27:52Z"
+    },
     {
       "id": 6542844428,
       "repository": "XHToken/Spark-X2.6",
@@ -33,188 +215,6 @@
       "title": "\ud83e\ude99 [Web3] [Bounty] Answer the 4 linked question(s)",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/100",
       "created_at": "2026-11-22T10:30:47Z"
-    },
-    {
-      "id": 6541228333,
-      "repository": "vedantdadhich21/orvyn",
-      "title": "Testers wanted: try to break the portfolio builder",
-      "url": "https://github.com/vedantdadhich21/orvyn/issues/2",
-      "created_at": "2026-11-22T10:21:30Z"
-    },
-    {
-      "id": 6539154476,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5568",
-      "created_at": "2026-11-22T06:06:53Z"
-    },
-    {
-      "id": 6539152079,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 4 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5567",
-      "created_at": "2026-11-22T06:06:35Z"
-    },
-    {
-      "id": 6538315074,
-      "repository": "IES-BoilerRoom/bgp-med-oscillation-verifier",
-      "title": "[$75] fix(routing): Eliminate persistent route-reflector MED cycle across confederation peers (bgp-med-oscillation-verifier)",
-      "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/2",
-      "created_at": "2026-11-22T04:12:48Z"
-    },
-    {
-      "id": 6538315025,
-      "repository": "IES-BoilerRoom/bgp-med-oscillation-verifier",
-      "title": "[175 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (normalize_bgp_update_frames)",
-      "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1",
-      "created_at": "2026-11-22T04:12:48Z"
-    },
-    {
-      "id": 6538314806,
-      "repository": "IES-BoilerRoom/cpython-pep626-line-profiler",
-      "title": "fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]",
-      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1",
-      "created_at": "2026-11-22T04:12:46Z"
-    },
-    {
-      "id": 6538314859,
-      "repository": "IES-BoilerRoom/cpython-pep626-line-profiler",
-      "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
-      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2",
-      "created_at": "2026-11-22T04:12:46Z"
-    },
-    {
-      "id": 6535467282,
-      "repository": "amiller/bounty-arcade",
-      "title": "[busy forest] Improve EC Rank cell 3/12",
-      "url": "https://github.com/amiller/bounty-arcade/issues/94",
-      "created_at": "2026-11-21T22:54:04Z"
-    },
-    {
-      "id": 6535467068,
-      "repository": "amiller/bounty-arcade",
-      "title": "[busy forest] Improve EC Rank cell 3/11",
-      "url": "https://github.com/amiller/bounty-arcade/issues/93",
-      "created_at": "2026-11-21T22:54:03Z"
-    },
-    {
-      "id": 6535466901,
-      "repository": "amiller/bounty-arcade",
-      "title": "[busy forest] Improve EC Rank cell 3/10",
-      "url": "https://github.com/amiller/bounty-arcade/issues/92",
-      "created_at": "2026-11-21T22:54:02Z"
-    },
-    {
-      "id": 6535466619,
-      "repository": "amiller/bounty-arcade",
-      "title": "[busy forest] Improve EC Rank cell 2/16",
-      "url": "https://github.com/amiller/bounty-arcade/issues/91",
-      "created_at": "2026-11-21T22:54:01Z"
-    },
-    {
-      "id": 6535466449,
-      "repository": "amiller/bounty-arcade",
-      "title": "[busy forest] Improve EC Rank cell 2/15",
-      "url": "https://github.com/amiller/bounty-arcade/issues/90",
-      "created_at": "2026-11-21T22:54:00Z"
-    },
-    {
-      "id": 6535466158,
-      "repository": "amiller/bounty-arcade",
-      "title": "[busy forest] Improve EC Rank cell 2/14",
-      "url": "https://github.com/amiller/bounty-arcade/issues/89",
-      "created_at": "2026-11-21T22:53:58Z"
-    },
-    {
-      "id": 6535465967,
-      "repository": "amiller/bounty-arcade",
-      "title": "[busy forest] Improve EC Rank cell 2/13",
-      "url": "https://github.com/amiller/bounty-arcade/issues/88",
-      "created_at": "2026-11-21T22:53:57Z"
-    },
-    {
-      "id": 6535465796,
-      "repository": "amiller/bounty-arcade",
-      "title": "[busy forest] Improve EC Rank cell 2/12",
-      "url": "https://github.com/amiller/bounty-arcade/issues/87",
-      "created_at": "2026-11-21T22:53:56Z"
-    },
-    {
-      "id": 6535465597,
-      "repository": "amiller/bounty-arcade",
-      "title": "[busy forest] Improve EC Rank cell 2/11",
-      "url": "https://github.com/amiller/bounty-arcade/issues/86",
-      "created_at": "2026-11-21T22:53:55Z"
-    },
-    {
-      "id": 6532567199,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Wave 4: 24 \u00d7 $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots \u00b7 Ethe",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381",
-      "created_at": "2026-11-21T18:10:41Z"
-    },
-    {
-      "id": 6532567088,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Wave 4: 10 \u00d7 $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380",
-      "created_at": "2026-11-21T18:10:41Z"
-    },
-    {
-      "id": 6531293935,
-      "repository": "Fractal-Neurons/pacta",
-      "title": "[Wave 4: 5 \u00d7 $2.00 USDC | Documents Changed] Open Now (160 Protocols \u00b7 246 Quoted Records \u00b7 Ethereum & Base)",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/161",
-      "created_at": "2026-11-21T16:16:24Z"
-    },
-    {
-      "id": 6531160638,
-      "repository": "Fractal-Neurons/pacta",
-      "title": "[Wave 4: 10 \u00d7 $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses \u00b7 Ethereum & Base)",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/159",
-      "created_at": "2026-11-21T16:05:57Z"
-    },
-    {
-      "id": 6531025967,
-      "repository": "Fractal-Neurons/pacta",
-      "title": "[Wave 4: 24 \u00d7 $1.00 USDC | Observed Catalogue] Batch 1 + Batch 2 Open Now (21 Slots \u00b7 Ethereum & Base)",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/158",
-      "created_at": "2026-11-21T15:53:53Z"
-    },
-    {
-      "id": 6530895387,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Add a Bithumb exchange reader (KRW converted to USD)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/56",
-      "created_at": "2026-11-21T15:41:21Z"
-    },
-    {
-      "id": 6530894798,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Add a Gemini exchange reader",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/54",
-      "created_at": "2026-11-21T15:41:18Z"
-    },
-    {
-      "id": 6530894600,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Add a Bitfinex exchange reader",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/53",
-      "created_at": "2026-11-21T15:41:16Z"
-    },
-    {
-      "id": 6530894112,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Add an HTX (Huobi) exchange reader",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/51",
-      "created_at": "2026-11-21T15:41:14Z"
-    },
-    {
-      "id": 6530458426,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5545",
-      "created_at": "2026-11-21T15:02:19Z"
     }
   ]
 }
