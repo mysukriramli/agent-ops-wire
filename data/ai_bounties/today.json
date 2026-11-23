@@ -1,11 +1,81 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-23T06:13:30.967935+00:00",
+    "generated_at": "2026-11-23T23:30:11.150399+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6568955502,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-23T21:13",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1440",
+      "created_at": "2026-11-23T21:13:41Z"
+    },
+    {
+      "id": 6566434610,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5645",
+      "created_at": "2026-11-23T18:48:11Z"
+    },
+    {
+      "id": 6566434440,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5644",
+      "created_at": "2026-11-23T18:48:10Z"
+    },
+    {
+      "id": 6566433762,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5643",
+      "created_at": "2026-11-23T18:48:08Z"
+    },
+    {
+      "id": 6566429820,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5642",
+      "created_at": "2026-11-23T18:47:55Z"
+    },
+    {
+      "id": 6566427631,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5641",
+      "created_at": "2026-11-23T18:47:48Z"
+    },
+    {
+      "id": 6565513281,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-23T17:56",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1439",
+      "created_at": "2026-11-23T17:56:26Z"
+    },
+    {
+      "id": 6564581876,
+      "repository": "EliCunninghamDev/haiku-core",
+      "title": "[BOUNTY] Add printHaiku() \u2014 a beautiful haiku to the console (Reward: $0.00 USDC)",
+      "url": "https://github.com/EliCunninghamDev/haiku-core/issues/1",
+      "created_at": "2026-11-23T17:07:15Z"
+    },
+    {
+      "id": 6557625819,
+      "repository": "alwaystrueio/devx-bounties",
+      "title": "[Bounty] Test issue (not a real bounty)",
+      "url": "https://github.com/alwaystrueio/devx-bounties/issues/1",
+      "created_at": "2026-11-23T10:51:06Z"
+    },
+    {
+      "id": 6555720249,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-23T08:55",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1436",
+      "created_at": "2026-11-23T08:55:10Z"
+    },
     {
       "id": 6552775411,
       "repository": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
@@ -145,76 +215,6 @@
       "title": "Bounty (3): Build a simple \"took and left\" form",
       "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/100",
       "created_at": "2026-11-22T16:10:51Z"
-    },
-    {
-      "id": 6544633139,
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (3): Write a battery safety summary, reviewed by someone with battery experience",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/99",
-      "created_at": "2026-11-22T16:10:47Z"
-    },
-    {
-      "id": 6544632624,
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (2): Research how other swap boxes handle loss and junk, and write up what you find",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/98",
-      "created_at": "2026-11-22T16:10:44Z"
-    },
-    {
-      "id": 6544632119,
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (2): Design bin labels with icons",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/97",
-      "created_at": "2026-11-22T16:10:41Z"
-    },
-    {
-      "id": 6544631508,
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (2): Design the sign for the front of the box",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/96",
-      "created_at": "2026-11-22T16:10:38Z"
-    },
-    {
-      "id": 6544630892,
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (2): Draw a logo a kid would want as a sticker",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/95",
-      "created_at": "2026-11-22T16:10:35Z"
-    },
-    {
-      "id": 6544630354,
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (1): Bring a friend who makes their first contribution",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/94",
-      "created_at": "2026-11-22T16:10:31Z"
-    },
-    {
-      "id": 6544629794,
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (1): Test the web page on your phone and report what is confusing",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/93",
-      "created_at": "2026-11-22T16:10:29Z"
-    },
-    {
-      "id": 6544629299,
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (1): Suggest a standard bin, with a store link and its size",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/92",
-      "created_at": "2026-11-22T16:10:26Z"
-    },
-    {
-      "id": 6544628805,
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (1): Tell Swapatron why it won't work, with specifics",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/91",
-      "created_at": "2026-11-22T16:10:23Z"
-    },
-    {
-      "id": 6544628307,
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (1): Share a design sketch for the box",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/90",
-      "created_at": "2026-11-22T16:10:20Z"
     }
   ]
 }
