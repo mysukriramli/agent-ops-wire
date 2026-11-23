@@ -1,6 +1,11 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **IES-BoilerRoom/pcie-tlp-credit-flow-gate**: [($350) perf/fix: Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (pcie-tlp-credit-flow-gate)](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2) (Opened: 2026-11-23T05:14:51Z)
+- **IES-BoilerRoom/pcie-tlp-credit-flow-gate**: [[225 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (reassemble_tlp_flit_frames)](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1) (Opened: 2026-11-23T05:14:50Z)
+- **IES-BoilerRoom/vllm-paged-kv-verifier**: [[$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 shard moduli (vllm-paged-kv-verifier)](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2) (Opened: 2026-11-23T05:14:49Z)
+- **IES-BoilerRoom/vllm-paged-kv-verifier**: [ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1) (Opened: 2026-11-23T05:14:48Z)
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-23T00:12](https://github.com/relayhop/sn-monetization-runtime/issues/1433) (Opened: 2026-11-23T00:12:09Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-22T18:28](https://github.com/relayhop/sn-monetization-runtime/issues/1431) (Opened: 2026-11-22T18:28:12Z)
 - **Fishers-Founders-United/Swapatron5000**: [Bounty (5): Organize the first three months of the upkeep rota](https://github.com/Fishers-Founders-United/Swapatron5000/issues/113) (Opened: 2026-11-22T16:11:32Z)
 - **Fishers-Founders-United/Swapatron5000**: [Bounty (5): Help a second town plan its own Swapatron](https://github.com/Fishers-Founders-United/Swapatron5000/issues/112) (Opened: 2026-11-22T16:11:29Z)
@@ -26,8 +31,3 @@
 - **Fishers-Founders-United/Swapatron5000**: [Bounty (1): Suggest a standard bin, with a store link and its size](https://github.com/Fishers-Founders-United/Swapatron5000/issues/92) (Opened: 2026-11-22T16:10:26Z)
 - **Fishers-Founders-United/Swapatron5000**: [Bounty (1): Tell Swapatron why it won't work, with specifics](https://github.com/Fishers-Founders-United/Swapatron5000/issues/91) (Opened: 2026-11-22T16:10:23Z)
 - **Fishers-Founders-United/Swapatron5000**: [Bounty (1): Share a design sketch for the box](https://github.com/Fishers-Founders-United/Swapatron5000/issues/90) (Opened: 2026-11-22T16:10:20Z)
-- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-22T14:27](https://github.com/relayhop/sn-monetization-runtime/issues/1429) (Opened: 2026-11-22T14:27:52Z)
-- **XHToken/Spark-X2.6**: [HER Hack-Astron #8 | Spark × SkillHub Agent Skills Challenge｜Agent 技能实战挑战赛](https://github.com/XHToken/Spark-X2.6/issues/32) (Opened: 2026-11-22T13:17:16Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4383) (Opened: 2026-11-22T11:46:55Z)
-- **zhangjiayang6835-cyber/bounty-plaza**: [[Bounty] fix(dwarf_trace): Preserve exact column-offset delta invariants across exception](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4382) (Opened: 2026-11-22T11:46:54Z)
-- **alfrexo95/bounty-bot**: [🪙 [Web3] [Bounty] Answer the 4 linked question(s)](https://github.com/alfrexo95/bounty-bot/issues/100) (Opened: 2026-11-22T10:30:47Z)
