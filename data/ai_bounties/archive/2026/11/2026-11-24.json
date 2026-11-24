@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "domain": "ai_bounties",
+    "generated_at": "2026-11-24T08:50:22.380118+00:00",
+    "total_items": 30,
+    "schema_version": "1.0.0"
+  },
+  "open_tasks": [
+    {
+      "id": 6575629264,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-24T05:55",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1442",
+      "created_at": "2026-11-24T05:55:43Z"
+    },
+    {
+      "id": 6568955502,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-23T21:13",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1440",
+      "created_at": "2026-11-23T21:13:41Z"
+    },
+    {
+      "id": 6566434610,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5645",
+      "created_at": "2026-11-23T18:48:11Z"
+    },
+    {
+      "id": 6566434440,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5644",
+      "created_at": "2026-11-23T18:48:10Z"
+    },
+    {
+      "id": 6566433762,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5643",
+      "created_at": "2026-11-23T18:48:08Z"
+    },
+    {
+      "id": 6566429820,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5642",
+      "created_at": "2026-11-23T18:47:55Z"
+    },
+    {
+      "id": 6566427631,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5641",
+      "created_at": "2026-11-23T18:47:48Z"
+    },
+    {
+      "id": 6565513281,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-23T17:56",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1439",
+      "created_at": "2026-11-23T17:56:26Z"
+    },
+    {
+      "id": 6564581876,
+      "repository": "EliCunninghamDev/haiku-core",
+      "title": "[BOUNTY] Add printHaiku() \u2014 a beautiful haiku to the console (Reward: $0.00 USDC)",
+      "url": "https://github.com/EliCunninghamDev/haiku-core/issues/1",
+      "created_at": "2026-11-23T17:07:15Z"
+    },
+    {
+      "id": 6557625819,
+      "repository": "alwaystrueio/devx-bounties",
+      "title": "[Bounty] Test issue (not a real bounty)",
+      "url": "https://github.com/alwaystrueio/devx-bounties/issues/1",
+      "created_at": "2026-11-23T10:51:06Z"
+    },
+    {
+      "id": 6555720249,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-23T08:55",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1436",
+      "created_at": "2026-11-23T08:55:10Z"
+    },
+    {
+      "id": 6552775411,
+      "repository": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
+      "title": "($350) perf/fix: Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (pcie-tlp-credit-flow-gate)",
+      "url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2",
+      "created_at": "2026-11-23T05:14:51Z"
+    },
+    {
+      "id": 6552775311,
+      "repository": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
+      "title": "[225 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (reassemble_tlp_flit_frames)",
+      "url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1",
+      "created_at": "2026-11-23T05:14:50Z"
+    },
+    {
+      "id": 6552775102,
+      "repository": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "title": "[$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 shard moduli (vllm-paged-kv-verifier)",
+      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
+      "created_at": "2026-11-23T05:14:49Z"
+    },
+    {
+      "id": 6552775013,
+      "repository": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "title": "ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC",
+      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
+      "created_at": "2026-11-23T05:14:48Z"
+    },
+    {
+      "id": 6549624829,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-23T00:12",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1433",
+      "created_at": "2026-11-23T00:12:09Z"
+    },
+    {
+      "id": 6546076533,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-22T18:28",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1431",
+      "created_at": "2026-11-22T18:28:12Z"
+    },
+    {
+      "id": 6544640842,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (5): Organize the first three months of the upkeep rota",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/113",
+      "created_at": "2026-11-22T16:11:32Z"
+    },
+    {
+      "id": 6544640277,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (5): Help a second town plan its own Swapatron",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/112",
+      "created_at": "2026-11-22T16:11:29Z"
+    },
+    {
+      "id": 6544639651,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Line up food trucks for hatching day, with the lab's OK on space and permits",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/111",
+      "created_at": "2026-11-22T16:11:26Z"
+    },
+    {
+      "id": 6544639151,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (1): Suggest a better cute name for an IoT term in \\1",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/110",
+      "created_at": "2026-11-22T16:11:23Z"
+    },
+    {
+      "id": 6544638663,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Write the youth protection rules, with someone who works with kids",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/109",
+      "created_at": "2026-11-22T16:11:20Z"
+    },
+    {
+      "id": 6544638143,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (5): Run the technology petting zoo",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/108",
+      "created_at": "2026-11-22T16:11:16Z"
+    },
+    {
+      "id": 6544637582,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Keep a habitat at the technology petting zoo",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/107",
+      "created_at": "2026-11-22T16:11:13Z"
+    },
+    {
+      "id": 6544636966,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (5): Lead build day",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/106",
+      "created_at": "2026-11-22T16:11:10Z"
+    },
+    {
+      "id": 6544636463,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Host an event from the \\1",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/105",
+      "created_at": "2026-11-22T16:11:06Z"
+    },
+    {
+      "id": 6544635948,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (5): Design and prototype the sensor node",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/104",
+      "created_at": "2026-11-22T16:11:03Z"
+    },
+    {
+      "id": 6544635385,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Work out the power budget for solar, battery, and lighting",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/103",
+      "created_at": "2026-11-22T16:11:00Z"
+    },
+    {
+      "id": 6544634869,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Write the cut list from the chosen design",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/102",
+      "created_at": "2026-11-22T16:10:57Z"
+    },
+    {
+      "id": 6544634311,
+      "repository": "Fishers-Founders-United/Swapatron5000",
+      "title": "Bounty (3): Draw a full shell design with measurements",
+      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/101",
+      "created_at": "2026-11-22T16:10:54Z"
+    }
+  ]
+}

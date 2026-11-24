@@ -1,6 +1,7 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-24T05:55](https://github.com/relayhop/sn-monetization-runtime/issues/1442) (Opened: 2026-11-24T05:55:43Z)
 - **relayhop/sn-monetization-runtime**: [[radar] SN open bounty 2026-11-23T21:13](https://github.com/relayhop/sn-monetization-runtime/issues/1440) (Opened: 2026-11-23T21:13:41Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5645) (Opened: 2026-11-23T18:48:11Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5644) (Opened: 2026-11-23T18:48:10Z)
@@ -30,4 +31,3 @@
 - **Fishers-Founders-United/Swapatron5000**: [Bounty (3): Work out the power budget for solar, battery, and lighting](https://github.com/Fishers-Founders-United/Swapatron5000/issues/103) (Opened: 2026-11-22T16:11:00Z)
 - **Fishers-Founders-United/Swapatron5000**: [Bounty (3): Write the cut list from the chosen design](https://github.com/Fishers-Founders-United/Swapatron5000/issues/102) (Opened: 2026-11-22T16:10:57Z)
 - **Fishers-Founders-United/Swapatron5000**: [Bounty (3): Draw a full shell design with measurements](https://github.com/Fishers-Founders-United/Swapatron5000/issues/101) (Opened: 2026-11-22T16:10:54Z)
-- **Fishers-Founders-United/Swapatron5000**: [Bounty (3): Build a simple "took and left" form](https://github.com/Fishers-Founders-United/Swapatron5000/issues/100) (Opened: 2026-11-22T16:10:51Z)

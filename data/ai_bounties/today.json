@@ -1,11 +1,18 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-23T23:30:11.150399+00:00",
+    "generated_at": "2026-11-24T08:50:22.380118+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6575629264,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-24T05:55",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1442",
+      "created_at": "2026-11-24T05:55:43Z"
+    },
     {
       "id": 6568955502,
       "repository": "relayhop/sn-monetization-runtime",
@@ -208,13 +215,6 @@
       "title": "Bounty (3): Draw a full shell design with measurements",
       "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/101",
       "created_at": "2026-11-22T16:10:54Z"
-    },
-    {
-      "id": 6544633744,
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (3): Build a simple \"took and left\" form",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/100",
-      "created_at": "2026-11-22T16:10:51Z"
     }
   ]
 }
