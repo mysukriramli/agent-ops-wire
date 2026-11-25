@@ -1,24 +1,94 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-25T07:25:11.961384+00:00",
+    "generated_at": "2026-11-25T21:12:52.236622+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
     {
-      "id": 6598969990,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Find TNK (Trac Network) supply from a primary source",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/101",
-      "created_at": "2026-11-25T06:51:43Z"
+      "id": 6610264123,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5813",
+      "created_at": "2026-11-25T17:43:13Z"
     },
     {
-      "id": 6598969695,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Read TAP circulating supply from a TAP Protocol indexer",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/100",
-      "created_at": "2026-11-25T06:51:42Z"
+      "id": 6610260980,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5812",
+      "created_at": "2026-11-25T17:43:01Z"
+    },
+    {
+      "id": 6610258605,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5811",
+      "created_at": "2026-11-25T17:42:53Z"
+    },
+    {
+      "id": 6610258372,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5810",
+      "created_at": "2026-11-25T17:42:52Z"
+    },
+    {
+      "id": 6610258171,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5809",
+      "created_at": "2026-11-25T17:42:51Z"
+    },
+    {
+      "id": 6610257800,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5807",
+      "created_at": "2026-11-25T17:42:50Z"
+    },
+    {
+      "id": 6610257998,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5808",
+      "created_at": "2026-11-25T17:42:50Z"
+    },
+    {
+      "id": 6610257582,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5806",
+      "created_at": "2026-11-25T17:42:49Z"
+    },
+    {
+      "id": 6610252487,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5805",
+      "created_at": "2026-11-25T17:42:31Z"
+    },
+    {
+      "id": 6610251396,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5804",
+      "created_at": "2026-11-25T17:42:27Z"
+    },
+    {
+      "id": 6609596770,
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-25T17:05",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1444",
+      "created_at": "2026-11-25T17:05:04Z"
+    },
+    {
+      "id": 6608583380,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] Bounty program: community detection/DLP rules with corpus fixtures",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4400",
+      "created_at": "2026-11-25T16:08:24Z"
     },
     {
       "id": 6596108290,
@@ -145,76 +215,6 @@
       "title": "\ud83e\ude99 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & Rug-Pull Radar Scorer",
       "url": "https://github.com/incidere/solana-agent-bounties/issues/1",
       "created_at": "2026-11-24T20:30:22Z"
-    },
-    {
-      "id": 6590067001,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83e\ude99 [Web3] Bounty (2): Research how other swap boxes handle l",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/104",
-      "created_at": "2026-11-24T19:48:34Z"
-    },
-    {
-      "id": 6590066393,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83e\ude99 [Web3] [Bounty] Answer the 5 linked question(s)",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/103",
-      "created_at": "2026-11-24T19:48:33Z"
-    },
-    {
-      "id": 6590065802,
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83e\ude99 [Web3] [Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/102",
-      "created_at": "2026-11-24T19:48:31Z"
-    },
-    {
-      "id": 6589443235,
-      "repository": "blitzcrieg1/agentmetry",
-      "title": "Bounty program: community detection/DLP rules with corpus fixtures",
-      "url": "https://github.com/blitzcrieg1/agentmetry/issues/454",
-      "created_at": "2026-11-24T19:13:22Z"
-    },
-    {
-      "id": 6588568169,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5749",
-      "created_at": "2026-11-24T18:22:44Z"
-    },
-    {
-      "id": 6588566990,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5748",
-      "created_at": "2026-11-24T18:22:39Z"
-    },
-    {
-      "id": 6588565056,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5747",
-      "created_at": "2026-11-24T18:22:32Z"
-    },
-    {
-      "id": 6588564424,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5746",
-      "created_at": "2026-11-24T18:22:30Z"
-    },
-    {
-      "id": 6588562458,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5745",
-      "created_at": "2026-11-24T18:22:23Z"
-    },
-    {
-      "id": 6588562300,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5744",
-      "created_at": "2026-11-24T18:22:22Z"
     }
   ]
 }
