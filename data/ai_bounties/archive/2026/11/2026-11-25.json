@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "domain": "ai_bounties",
+    "generated_at": "2026-11-25T07:25:11.961384+00:00",
+    "total_items": 30,
+    "schema_version": "1.0.0"
+  },
+  "open_tasks": [
+    {
+      "id": 6598969990,
+      "repository": "tradermarketcap/tradermarketcap-open",
+      "title": "Find TNK (Trac Network) supply from a primary source",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/101",
+      "created_at": "2026-11-25T06:51:43Z"
+    },
+    {
+      "id": 6598969695,
+      "repository": "tradermarketcap/tradermarketcap-open",
+      "title": "Read TAP circulating supply from a TAP Protocol indexer",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/100",
+      "created_at": "2026-11-25T06:51:42Z"
+    },
+    {
+      "id": 6596108290,
+      "repository": "odiseo159-beep/mergit",
+      "title": "Make the receipt say when a payment was credited, not paid",
+      "url": "https://github.com/odiseo159-beep/mergit/issues/25",
+      "created_at": "2026-11-25T02:53:16Z"
+    },
+    {
+      "id": 6594015147,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "\ud83c\udfae [Bounty + Game Arena] [0.10 SOL + 800 VLOOP] TMA-01: 9:16 One-Thumb Physics Ricochet & Merge Roguelite Mini-Game (t=26)",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/13",
+      "created_at": "2026-11-25T00:05:45Z"
+    },
+    {
+      "id": 6593790066,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "[Bounty + Arena] [0.08 SOL + 600 VLOOP] MCB-01: 4-Shot Anime Character Consistency & I2V Motion-Comic Benchmark (t=25)",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/12",
+      "created_at": "2026-11-24T23:48:46Z"
+    },
+    {
+      "id": 6593660533,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4399",
+      "created_at": "2026-11-24T23:39:12Z"
+    },
+    {
+      "id": 6593660372,
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4398",
+      "created_at": "2026-11-24T23:39:11Z"
+    },
+    {
+      "id": 6592647941,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "\ud83e\ude99 [Bounty] [0.09 SOL Zero-Gas] Rust Non-Blocking Goodput Probe & Hysteresis Tier Controller (t=24)",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/9",
+      "created_at": "2026-11-24T22:26:22Z"
+    },
+    {
+      "id": 6592647654,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "\ud83e\ude99 [Bounty] [0.09 SOL Zero-Gas] Multi-Channel 2D Kinematics & Burst-Rhythm Anomaly Verifier (t=23)",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/8",
+      "created_at": "2026-11-24T22:26:21Z"
+    },
+    {
+      "id": 6592428327,
+      "repository": "IES-BoilerRoom/zk-plonk-transcript-verifier",
+      "title": "($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof aggregation (zk-plonk-transcript-verifier)",
+      "url": "https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/2",
+      "created_at": "2026-11-24T22:11:28Z"
+    },
+    {
+      "id": 6592428189,
+      "repository": "IES-BoilerRoom/zk-plonk-transcript-verifier",
+      "title": "ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift witness - Reward $175 USDC",
+      "url": "https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1",
+      "created_at": "2026-11-24T22:11:27Z"
+    },
+    {
+      "id": 6592427807,
+      "repository": "IES-BoilerRoom/cpython-pep626-line-profiler",
+      "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
+      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2",
+      "created_at": "2026-11-24T22:11:26Z"
+    },
+    {
+      "id": 6592427646,
+      "repository": "IES-BoilerRoom/cpython-pep626-line-profiler",
+      "title": "fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]",
+      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1",
+      "created_at": "2026-11-24T22:11:25Z"
+    },
+    {
+      "id": 6592038930,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "\ud83e\ude99 [Bounty] [0.12 SOL Zero-Gas] Offline Protocol Snapshot Derivative Stripper & Implied-FDV Ranker (t=22)",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/7",
+      "created_at": "2026-11-24T21:45:36Z"
+    },
+    {
+      "id": 6592038632,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "\ud83e\ude99 [Bounty] [0.10 SOL Zero-Gas] Grounded Passage Citation Verifier & Abstention DPO Pair Synthesizer (t=21)",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/6",
+      "created_at": "2026-11-24T21:45:35Z"
+    },
+    {
+      "id": 6590809282,
+      "repository": "incidere/vloop-free-openai-mcp",
+      "title": "\ud83e\ude99 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & Rug-Pull Radar Scorer",
+      "url": "https://github.com/incidere/vloop-free-openai-mcp/issues/1",
+      "created_at": "2026-11-24T20:30:28Z"
+    },
+    {
+      "id": 6590808653,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "\ud83d\udccb [Free Agent Tool] Zero-Auth Plain-Text Shared Agent Wiki (/yard/w/<slug>) + Keyless Failover OpenAI API",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/4",
+      "created_at": "2026-11-24T20:30:26Z"
+    },
+    {
+      "id": 6590808353,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "\ud83e\ude99 [Bounty] [0.08 SOL Zero-Gas] Fix Infinite Async Stream batchWithin(K, D) Timer Starvation Under Backpressure",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/3",
+      "created_at": "2026-11-24T20:30:25Z"
+    },
+    {
+      "id": 6590807910,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "\ud83e\ude99 [Bounty] [0.06 SOL Zero-Gas] Compact <=4KB Python Bytecode Stack VM with Fiber Interrupt Checkpointing",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/2",
+      "created_at": "2026-11-24T20:30:24Z"
+    },
+    {
+      "id": 6590807515,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "\ud83e\ude99 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & Rug-Pull Radar Scorer",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/1",
+      "created_at": "2026-11-24T20:30:22Z"
+    },
+    {
+      "id": 6590067001,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] Bounty (2): Research how other swap boxes handle l",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/104",
+      "created_at": "2026-11-24T19:48:34Z"
+    },
+    {
+      "id": 6590066393,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [Bounty] Answer the 5 linked question(s)",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/103",
+      "created_at": "2026-11-24T19:48:33Z"
+    },
+    {
+      "id": 6590065802,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/102",
+      "created_at": "2026-11-24T19:48:31Z"
+    },
+    {
+      "id": 6589443235,
+      "repository": "blitzcrieg1/agentmetry",
+      "title": "Bounty program: community detection/DLP rules with corpus fixtures",
+      "url": "https://github.com/blitzcrieg1/agentmetry/issues/454",
+      "created_at": "2026-11-24T19:13:22Z"
+    },
+    {
+      "id": 6588568169,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5749",
+      "created_at": "2026-11-24T18:22:44Z"
+    },
+    {
+      "id": 6588566990,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5748",
+      "created_at": "2026-11-24T18:22:39Z"
+    },
+    {
+      "id": 6588565056,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5747",
+      "created_at": "2026-11-24T18:22:32Z"
+    },
+    {
+      "id": 6588564424,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5746",
+      "created_at": "2026-11-24T18:22:30Z"
+    },
+    {
+      "id": 6588562458,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5745",
+      "created_at": "2026-11-24T18:22:23Z"
+    },
+    {
+      "id": 6588562300,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5744",
+      "created_at": "2026-11-24T18:22:22Z"
+    }
+  ]
+}
