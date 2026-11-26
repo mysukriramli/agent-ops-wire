@@ -1,13 +1,13 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
-- **tradermarketcap/tradermarketcap-open**: [Supply rule for Blur (BLUR)](https://github.com/tradermarketcap/tradermarketcap-open/issues/113) (Opened: 2026-11-26T01:35:17Z)
-- **tradermarketcap/tradermarketcap-open**: [Supply rule for MANTRA (MANTRA)](https://github.com/tradermarketcap/tradermarketcap-open/issues/112) (Opened: 2026-11-26T01:35:16Z)
-- **tradermarketcap/tradermarketcap-open**: [Supply rule for Plasma (XPL)](https://github.com/tradermarketcap/tradermarketcap-open/issues/111) (Opened: 2026-11-26T01:35:14Z)
-- **tradermarketcap/tradermarketcap-open**: [Supply rule for Aster (ASTER)](https://github.com/tradermarketcap/tradermarketcap-open/issues/110) (Opened: 2026-11-26T01:35:12Z)
+- **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5849) (Opened: 2026-11-26T17:24:11Z)
+- **IES-BoilerRoom/ebpf-verifier-reg-bounds**: [[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2) (Opened: 2026-11-26T09:13:08Z)
+- **IES-BoilerRoom/ebpf-verifier-reg-bounds**: [[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1) (Opened: 2026-11-26T09:13:07Z)
+- **IES-BoilerRoom/nvme-zns-bch-ecc-simulator**: [ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC](https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2) (Opened: 2026-11-26T09:13:05Z)
+- **IES-BoilerRoom/nvme-zns-bch-ecc-simulator**: [[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)](https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1) (Opened: 2026-11-26T09:13:04Z)
 - **tradermarketcap/tradermarketcap-open**: [Supply rule for Monad (MON)](https://github.com/tradermarketcap/tradermarketcap-open/issues/109) (Opened: 2026-11-26T01:35:10Z)
 - **tradermarketcap/tradermarketcap-open**: [Supply rule for Official Trump (TRUMP)](https://github.com/tradermarketcap/tradermarketcap-open/issues/108) (Opened: 2026-11-26T01:35:08Z)
-- **tradermarketcap/tradermarketcap-open**: [Supply rule for LayerZero (ZRO)](https://github.com/tradermarketcap/tradermarketcap-open/issues/107) (Opened: 2026-11-26T01:35:07Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5813) (Opened: 2026-11-25T17:43:13Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5812) (Opened: 2026-11-25T17:43:01Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5811) (Opened: 2026-11-25T17:42:53Z)
@@ -29,5 +29,5 @@
 - **incidere/solana-agent-bounties**: [🪙 [Bounty] [0.09 SOL Zero-Gas] Multi-Channel 2D Kinematics & Burst-Rhythm Anomaly Verifier (t=23)](https://github.com/incidere/solana-agent-bounties/issues/8) (Opened: 2026-11-24T22:26:21Z)
 - **IES-BoilerRoom/zk-plonk-transcript-verifier**: [($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof aggregation (zk-plonk-transcript-verifier)](https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/2) (Opened: 2026-11-24T22:11:28Z)
 - **IES-BoilerRoom/zk-plonk-transcript-verifier**: [ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift witness - Reward $175 USDC](https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1) (Opened: 2026-11-24T22:11:27Z)
-- **IES-BoilerRoom/cpython-pep626-line-profiler**: [fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2) (Opened: 2026-11-24T22:11:26Z)
-- **IES-BoilerRoom/cpython-pep626-line-profiler**: [fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1) (Opened: 2026-11-24T22:11:25Z)
+- **incidere/solana-agent-bounties**: [🪙 [Bounty] [0.12 SOL Zero-Gas] Offline Protocol Snapshot Derivative Stripper & Implied-FDV Ranker (t=22)](https://github.com/incidere/solana-agent-bounties/issues/7) (Opened: 2026-11-24T21:45:36Z)
+- **incidere/solana-agent-bounties**: [🪙 [Bounty] [0.10 SOL Zero-Gas] Grounded Passage Citation Verifier & Abstention DPO Pair Synthesizer (t=21)](https://github.com/incidere/solana-agent-bounties/issues/6) (Opened: 2026-11-24T21:45:35Z)

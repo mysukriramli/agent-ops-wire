@@ -1,38 +1,45 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-26T07:14:15.567844+00:00",
+    "generated_at": "2026-11-26T21:01:47.253670+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
     {
-      "id": 6617501337,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Supply rule for Blur (BLUR)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/113",
-      "created_at": "2026-11-26T01:35:17Z"
+      "id": 6631894729,
+      "repository": "Ikalus1988/MisakaNet",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5849",
+      "created_at": "2026-11-26T17:24:11Z"
     },
     {
-      "id": 6617501033,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Supply rule for MANTRA (MANTRA)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/112",
-      "created_at": "2026-11-26T01:35:16Z"
+      "id": 6623326884,
+      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
+      "title": "[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)",
+      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
+      "created_at": "2026-11-26T09:13:08Z"
     },
     {
-      "id": 6617500608,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Supply rule for Plasma (XPL)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/111",
-      "created_at": "2026-11-26T01:35:14Z"
+      "id": 6623326404,
+      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
+      "title": "[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)",
+      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
+      "created_at": "2026-11-26T09:13:07Z"
     },
     {
-      "id": 6617500180,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Supply rule for Aster (ASTER)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/110",
-      "created_at": "2026-11-26T01:35:12Z"
+      "id": 6623325859,
+      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
+      "title": "ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC",
+      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2",
+      "created_at": "2026-11-26T09:13:05Z"
+    },
+    {
+      "id": 6623325618,
+      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
+      "title": "[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)",
+      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1",
+      "created_at": "2026-11-26T09:13:04Z"
     },
     {
       "id": 6617499778,
@@ -47,13 +54,6 @@
       "title": "Supply rule for Official Trump (TRUMP)",
       "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/108",
       "created_at": "2026-11-26T01:35:08Z"
-    },
-    {
-      "id": 6617499137,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Supply rule for LayerZero (ZRO)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/107",
-      "created_at": "2026-11-26T01:35:07Z"
     },
     {
       "id": 6610264123,
@@ -203,18 +203,18 @@
       "created_at": "2026-11-24T22:11:27Z"
     },
     {
-      "id": 6592427807,
-      "repository": "IES-BoilerRoom/cpython-pep626-line-profiler",
-      "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
-      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2",
-      "created_at": "2026-11-24T22:11:26Z"
+      "id": 6592038930,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "\ud83e\ude99 [Bounty] [0.12 SOL Zero-Gas] Offline Protocol Snapshot Derivative Stripper & Implied-FDV Ranker (t=22)",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/7",
+      "created_at": "2026-11-24T21:45:36Z"
     },
     {
-      "id": 6592427646,
-      "repository": "IES-BoilerRoom/cpython-pep626-line-profiler",
-      "title": "fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]",
-      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1",
-      "created_at": "2026-11-24T22:11:25Z"
+      "id": 6592038632,
+      "repository": "incidere/solana-agent-bounties",
+      "title": "\ud83e\ude99 [Bounty] [0.10 SOL Zero-Gas] Grounded Passage Citation Verifier & Abstention DPO Pair Synthesizer (t=21)",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/6",
+      "created_at": "2026-11-24T21:45:35Z"
     }
   ]
 }
