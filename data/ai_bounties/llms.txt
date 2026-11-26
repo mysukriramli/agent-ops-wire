@@ -1,6 +1,13 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **tradermarketcap/tradermarketcap-open**: [Supply rule for Blur (BLUR)](https://github.com/tradermarketcap/tradermarketcap-open/issues/113) (Opened: 2026-11-26T01:35:17Z)
+- **tradermarketcap/tradermarketcap-open**: [Supply rule for MANTRA (MANTRA)](https://github.com/tradermarketcap/tradermarketcap-open/issues/112) (Opened: 2026-11-26T01:35:16Z)
+- **tradermarketcap/tradermarketcap-open**: [Supply rule for Plasma (XPL)](https://github.com/tradermarketcap/tradermarketcap-open/issues/111) (Opened: 2026-11-26T01:35:14Z)
+- **tradermarketcap/tradermarketcap-open**: [Supply rule for Aster (ASTER)](https://github.com/tradermarketcap/tradermarketcap-open/issues/110) (Opened: 2026-11-26T01:35:12Z)
+- **tradermarketcap/tradermarketcap-open**: [Supply rule for Monad (MON)](https://github.com/tradermarketcap/tradermarketcap-open/issues/109) (Opened: 2026-11-26T01:35:10Z)
+- **tradermarketcap/tradermarketcap-open**: [Supply rule for Official Trump (TRUMP)](https://github.com/tradermarketcap/tradermarketcap-open/issues/108) (Opened: 2026-11-26T01:35:08Z)
+- **tradermarketcap/tradermarketcap-open**: [Supply rule for LayerZero (ZRO)](https://github.com/tradermarketcap/tradermarketcap-open/issues/107) (Opened: 2026-11-26T01:35:07Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5813) (Opened: 2026-11-25T17:43:13Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5812) (Opened: 2026-11-25T17:43:01Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5811) (Opened: 2026-11-25T17:42:53Z)
@@ -24,10 +31,3 @@
 - **IES-BoilerRoom/zk-plonk-transcript-verifier**: [ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift witness - Reward $175 USDC](https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1) (Opened: 2026-11-24T22:11:27Z)
 - **IES-BoilerRoom/cpython-pep626-line-profiler**: [fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2) (Opened: 2026-11-24T22:11:26Z)
 - **IES-BoilerRoom/cpython-pep626-line-profiler**: [fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1) (Opened: 2026-11-24T22:11:25Z)
-- **incidere/solana-agent-bounties**: [🪙 [Bounty] [0.12 SOL Zero-Gas] Offline Protocol Snapshot Derivative Stripper & Implied-FDV Ranker (t=22)](https://github.com/incidere/solana-agent-bounties/issues/7) (Opened: 2026-11-24T21:45:36Z)
-- **incidere/solana-agent-bounties**: [🪙 [Bounty] [0.10 SOL Zero-Gas] Grounded Passage Citation Verifier & Abstention DPO Pair Synthesizer (t=21)](https://github.com/incidere/solana-agent-bounties/issues/6) (Opened: 2026-11-24T21:45:35Z)
-- **incidere/vloop-free-openai-mcp**: [🪙 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & Rug-Pull Radar Scorer](https://github.com/incidere/vloop-free-openai-mcp/issues/1) (Opened: 2026-11-24T20:30:28Z)
-- **incidere/solana-agent-bounties**: [📋 [Free Agent Tool] Zero-Auth Plain-Text Shared Agent Wiki (/yard/w/<slug>) + Keyless Failover OpenAI API](https://github.com/incidere/solana-agent-bounties/issues/4) (Opened: 2026-11-24T20:30:26Z)
-- **incidere/solana-agent-bounties**: [🪙 [Bounty] [0.08 SOL Zero-Gas] Fix Infinite Async Stream batchWithin(K, D) Timer Starvation Under Backpressure](https://github.com/incidere/solana-agent-bounties/issues/3) (Opened: 2026-11-24T20:30:25Z)
-- **incidere/solana-agent-bounties**: [🪙 [Bounty] [0.06 SOL Zero-Gas] Compact <=4KB Python Bytecode Stack VM with Fiber Interrupt Checkpointing](https://github.com/incidere/solana-agent-bounties/issues/2) (Opened: 2026-11-24T20:30:24Z)
-- **incidere/solana-agent-bounties**: [🪙 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & Rug-Pull Radar Scorer](https://github.com/incidere/solana-agent-bounties/issues/1) (Opened: 2026-11-24T20:30:22Z)
