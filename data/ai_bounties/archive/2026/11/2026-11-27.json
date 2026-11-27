@@ -1,220 +1,220 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-27T07:10:22.003363+00:00",
+    "generated_at": "2026-11-27T20:47:23.379936+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
     {
-      "id": 6631894729,
+      "id": 6653035701,
+      "repository": "IES-BoilerRoom/wasm-component-canonical-abi",
+      "title": "ci/canonical_abi: Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering - Reward $225 USDC",
+      "url": "https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2",
+      "created_at": "2026-11-27T19:14:50Z"
+    },
+    {
+      "id": 6653035580,
+      "repository": "IES-BoilerRoom/wasm-component-canonical-abi",
+      "title": "[$100] fix(canonical_abi): Fix canonical string frame ceiling and align deterministic instruction gas polynomial (lift_canonical_string_frames)",
+      "url": "https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1",
+      "created_at": "2026-11-27T19:14:49Z"
+    },
+    {
+      "id": 6653035276,
+      "repository": "IES-BoilerRoom/wgsl-transcendental-math-core",
+      "title": "fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runtime pipeline ($200 bounty) [wgsl-transcendental-math-core]",
+      "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2",
+      "created_at": "2026-11-27T19:14:48Z"
+    },
+    {
+      "id": 6653035132,
+      "repository": "IES-BoilerRoom/wgsl-transcendental-math-core",
+      "title": "($150) perf/fix: Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (fold_wgsl_radiance_frames)",
+      "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1",
+      "created_at": "2026-11-27T19:14:47Z"
+    },
+    {
+      "id": 6651094947,
       "repository": "Ikalus1988/MisakaNet",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5849",
-      "created_at": "2026-11-26T17:24:11Z"
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5905",
+      "created_at": "2026-11-27T17:04:08Z"
     },
     {
-      "id": 6623326884,
-      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
-      "title": "[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)",
-      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
-      "created_at": "2026-11-26T09:13:08Z"
-    },
-    {
-      "id": 6623326404,
-      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
-      "title": "[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)",
-      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
-      "created_at": "2026-11-26T09:13:07Z"
-    },
-    {
-      "id": 6623325859,
-      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
-      "title": "ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC",
-      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2",
-      "created_at": "2026-11-26T09:13:05Z"
-    },
-    {
-      "id": 6623325618,
-      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
-      "title": "[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)",
-      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1",
-      "created_at": "2026-11-26T09:13:04Z"
-    },
-    {
-      "id": 6617499778,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Supply rule for Monad (MON)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/109",
-      "created_at": "2026-11-26T01:35:10Z"
-    },
-    {
-      "id": 6610264123,
+      "id": 6651094733,
       "repository": "Ikalus1988/MisakaNet",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5813",
-      "created_at": "2026-11-25T17:43:13Z"
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5904",
+      "created_at": "2026-11-27T17:04:07Z"
     },
     {
-      "id": 6610260980,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5812",
-      "created_at": "2026-11-25T17:43:01Z"
-    },
-    {
-      "id": 6610258605,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5811",
-      "created_at": "2026-11-25T17:42:53Z"
-    },
-    {
-      "id": 6610258372,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5810",
-      "created_at": "2026-11-25T17:42:52Z"
-    },
-    {
-      "id": 6610258171,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5809",
-      "created_at": "2026-11-25T17:42:51Z"
-    },
-    {
-      "id": 6610257800,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5807",
-      "created_at": "2026-11-25T17:42:50Z"
-    },
-    {
-      "id": 6610257998,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5808",
-      "created_at": "2026-11-25T17:42:50Z"
-    },
-    {
-      "id": 6610257582,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5806",
-      "created_at": "2026-11-25T17:42:49Z"
-    },
-    {
-      "id": 6610252487,
+      "id": 6651089787,
       "repository": "Ikalus1988/MisakaNet",
       "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5805",
-      "created_at": "2026-11-25T17:42:31Z"
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5903",
+      "created_at": "2026-11-27T17:03:51Z"
     },
     {
-      "id": 6610251396,
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 4 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5804",
-      "created_at": "2026-11-25T17:42:27Z"
+      "id": 6650252909,
+      "repository": "tradermarketcap/tradermarketcap-open",
+      "title": "Supply rule for Subsquid (SQD)",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/138",
+      "created_at": "2026-11-27T16:19:34Z"
     },
     {
-      "id": 6609596770,
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-25T17:05",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1444",
-      "created_at": "2026-11-25T17:05:04Z"
+      "id": 6649769108,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [Intern] Verify & modernize all multi-agent handof",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/109",
+      "created_at": "2026-11-27T15:51:11Z"
     },
     {
-      "id": 6608583380,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] Bounty program: community detection/DLP rules with corpus fixtures",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4400",
-      "created_at": "2026-11-25T16:08:24Z"
+      "id": 6649768660,
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83e\ude99 [Web3] [Intern] Quickstart, async streaming & MCP/IAM exa",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/108",
+      "created_at": "2026-11-27T15:51:09Z"
     },
     {
-      "id": 6596108290,
-      "repository": "odiseo159-beep/mergit",
-      "title": "Make the receipt say when a payment was credited, not paid",
-      "url": "https://github.com/odiseo159-beep/mergit/issues/25",
-      "created_at": "2026-11-25T02:53:16Z"
+      "id": 6641813937,
+      "repository": "hanzoai/browser",
+      "title": "[Intern] Multi-agent Chrome extension build & local `hanzoai/engine` BYOK smoke test",
+      "url": "https://github.com/hanzoai/browser/issues/1",
+      "created_at": "2026-11-27T07:12:40Z"
     },
     {
-      "id": 6594015147,
-      "repository": "incidere/solana-agent-bounties",
-      "title": "\ud83c\udfae [Bounty + Game Arena] [0.10 SOL + 800 VLOOP] TMA-01: 9:16 One-Thumb Physics Ricochet & Merge Roguelite Mini-Game (t=26)",
-      "url": "https://github.com/incidere/solana-agent-bounties/issues/13",
-      "created_at": "2026-11-25T00:05:45Z"
+      "id": 6641793627,
+      "repository": "hanzoai/docs",
+      "title": "[Intern] Copy-paste audit of Getting Started, Self-Hosting, Mobile, Desktop & OSS Onboarding guides",
+      "url": "https://github.com/hanzoai/docs/issues/26",
+      "created_at": "2026-11-27T07:11:00Z"
     },
     {
-      "id": 6593790066,
-      "repository": "incidere/solana-agent-bounties",
-      "title": "[Bounty + Arena] [0.08 SOL + 600 VLOOP] MCB-01: 4-Shot Anime Character Consistency & I2V Motion-Comic Benchmark (t=25)",
-      "url": "https://github.com/incidere/solana-agent-bounties/issues/12",
-      "created_at": "2026-11-24T23:48:46Z"
+      "id": 6641793453,
+      "repository": "hanzoai/python-sdk",
+      "title": "[Intern] Quickstart, async streaming & MCP/IAM example verification on Python 3.12+",
+      "url": "https://github.com/hanzoai/python-sdk/issues/55",
+      "created_at": "2026-11-27T07:10:59Z"
     },
     {
-      "id": 6593660533,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4399",
-      "created_at": "2026-11-24T23:39:12Z"
+      "id": 6641793324,
+      "repository": "hanzoai/o11y",
+      "title": "[Intern] OpenTelemetry OTLP trace/metric/log ingest smoke test from local `hanzoai/cloud`",
+      "url": "https://github.com/hanzoai/o11y/issues/49",
+      "created_at": "2026-11-27T07:10:58Z"
     },
     {
-      "id": 6593660372,
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4398",
-      "created_at": "2026-11-24T23:39:11Z"
+      "id": 6641793112,
+      "repository": "hanzoai/post",
+      "title": "[Intern] Social publishing scheduler timezone & media validation unit tests",
+      "url": "https://github.com/hanzoai/post/issues/21",
+      "created_at": "2026-11-27T07:10:57Z"
     },
     {
-      "id": 6592647941,
-      "repository": "incidere/solana-agent-bounties",
-      "title": "\ud83e\ude99 [Bounty] [0.09 SOL Zero-Gas] Rust Non-Blocking Goodput Probe & Hysteresis Tier Controller (t=24)",
-      "url": "https://github.com/incidere/solana-agent-bounties/issues/9",
-      "created_at": "2026-11-24T22:26:22Z"
+      "id": 6641792974,
+      "repository": "hanzoai/mail",
+      "title": "[Intern] Local loopback SMTP/IMAP/webmail smoke test & 5-minute dev recipe",
+      "url": "https://github.com/hanzoai/mail/issues/1",
+      "created_at": "2026-11-27T07:10:57Z"
     },
     {
-      "id": 6592647654,
-      "repository": "incidere/solana-agent-bounties",
-      "title": "\ud83e\ude99 [Bounty] [0.09 SOL Zero-Gas] Multi-Channel 2D Kinematics & Burst-Rhythm Anomaly Verifier (t=23)",
-      "url": "https://github.com/incidere/solana-agent-bounties/issues/8",
-      "created_at": "2026-11-24T22:26:21Z"
+      "id": 6641792905,
+      "repository": "hanzoai/cal",
+      "title": "[Intern] Local scheduling E2E flow backed by `hanzoai/cloud` (`/v1/base`)",
+      "url": "https://github.com/hanzoai/cal/issues/1",
+      "created_at": "2026-11-27T07:10:56Z"
     },
     {
-      "id": 6592428327,
-      "repository": "IES-BoilerRoom/zk-plonk-transcript-verifier",
-      "title": "($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof aggregation (zk-plonk-transcript-verifier)",
-      "url": "https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/2",
-      "created_at": "2026-11-24T22:11:28Z"
+      "id": 6641792810,
+      "repository": "hanzoai/billing",
+      "title": "[Intern] Plans, invoices & usage dashboard mock-API test suite",
+      "url": "https://github.com/hanzoai/billing/issues/1",
+      "created_at": "2026-11-27T07:10:56Z"
     },
     {
-      "id": 6592428189,
-      "repository": "IES-BoilerRoom/zk-plonk-transcript-verifier",
-      "title": "ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift witness - Reward $175 USDC",
-      "url": "https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1",
-      "created_at": "2026-11-24T22:11:27Z"
+      "id": 6641792613,
+      "repository": "hanzoai/ide",
+      "title": "[Intern] Clean source build, large-repo (`hanzoai/cloud`) open latency profile & warning cleanup",
+      "url": "https://github.com/hanzoai/ide/issues/20",
+      "created_at": "2026-11-27T07:10:55Z"
     },
     {
-      "id": 6592038930,
-      "repository": "incidere/solana-agent-bounties",
-      "title": "\ud83e\ude99 [Bounty] [0.12 SOL Zero-Gas] Offline Protocol Snapshot Derivative Stripper & Implied-FDV Ranker (t=22)",
-      "url": "https://github.com/incidere/solana-agent-bounties/issues/7",
-      "created_at": "2026-11-24T21:45:36Z"
+      "id": 6641792728,
+      "repository": "hanzoai/team",
+      "title": "[Intern] Clean local build, `@hanzo/gui` peer check & core workspace UI smoke tests",
+      "url": "https://github.com/hanzoai/team/issues/43",
+      "created_at": "2026-11-27T07:10:55Z"
     },
     {
-      "id": 6592038632,
-      "repository": "incidere/solana-agent-bounties",
-      "title": "\ud83e\ude99 [Bounty] [0.10 SOL Zero-Gas] Grounded Passage Citation Verifier & Abstention DPO Pair Synthesizer (t=21)",
-      "url": "https://github.com/incidere/solana-agent-bounties/issues/6",
-      "created_at": "2026-11-24T21:45:35Z"
+      "id": 6641792514,
+      "repository": "hanzoai/ui",
+      "title": "[Intern] Verify `@hanzo/ui` tree-shaking, React 19 / Next.js static export & Storybook/tests",
+      "url": "https://github.com/hanzoai/ui/issues/337",
+      "created_at": "2026-11-27T07:10:54Z"
     },
     {
-      "id": 6590809282,
-      "repository": "incidere/vloop-free-openai-mcp",
-      "title": "\ud83e\ude99 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & Rug-Pull Radar Scorer",
-      "url": "https://github.com/incidere/vloop-free-openai-mcp/issues/1",
-      "created_at": "2026-11-24T20:30:28Z"
+      "id": 6641792533,
+      "repository": "hanzoai/extension",
+      "title": "[Intern] Browser extension (Chrome/Firefox/Edge) + VS Code `.vsix` build & ZAP/MCP bridge QA",
+      "url": "https://github.com/hanzoai/extension/issues/30",
+      "created_at": "2026-11-27T07:10:54Z"
+    },
+    {
+      "id": 6641792437,
+      "repository": "hanzoai/gui",
+      "title": "[Intern] Keyboard navigation, focus-ring & WCAG AA accessibility audit on core primitives",
+      "url": "https://github.com/hanzoai/gui/issues/21",
+      "created_at": "2026-11-27T07:10:54Z"
+    },
+    {
+      "id": 6641792326,
+      "repository": "hanzoai/chat",
+      "title": "[Intern] Static SPA build against local `hanzoai/engine` + Playwright streaming smoke tests",
+      "url": "https://github.com/hanzoai/chat/issues/3",
+      "created_at": "2026-11-27T07:10:53Z"
+    },
+    {
+      "id": 6641792321,
+      "repository": "hanzoai/app",
+      "title": "[Intern] Build a reference open-source App Mod (`@hanzo/mod`) mounted into the `@hanzo/app` siderail",
+      "url": "https://github.com/hanzoai/app/issues/140",
+      "created_at": "2026-11-27T07:10:53Z"
+    },
+    {
+      "id": 6641792243,
+      "repository": "hanzoai/mobile",
+      "title": "[Intern] Android APK/ADB & iOS Xcode USB end-to-end install and UX QA",
+      "url": "https://github.com/hanzoai/mobile/issues/2",
+      "created_at": "2026-11-27T07:10:53Z"
+    },
+    {
+      "id": 6641792139,
+      "repository": "hanzoai/desktop",
+      "title": "[Intern] Local Cloud (`hanzo up`) & local Engine (`:1234`) endpoint switcher QA",
+      "url": "https://github.com/hanzoai/desktop/issues/67",
+      "created_at": "2026-11-27T07:10:52Z"
+    },
+    {
+      "id": 6641792039,
+      "repository": "hanzoai/dev",
+      "title": "[Intern] Standalone Tauri desktop build & cross-OS QA (macOS, Linux, Windows)",
+      "url": "https://github.com/hanzoai/dev/issues/106",
+      "created_at": "2026-11-27T07:10:52Z"
+    },
+    {
+      "id": 6641792110,
+      "repository": "hanzoai/dev",
+      "title": "[Intern] Fix intermittent snapshot ordering flake in `FxReplayFixtures.integration.test.ts` (CI Shard 7)",
+      "url": "https://github.com/hanzoai/dev/issues/107",
+      "created_at": "2026-11-27T07:10:52Z"
+    },
+    {
+      "id": 6641791944,
+      "repository": "hanzoai/cyber",
+      "title": "[Intern] Sandboxed OpenCyber MCP tool discovery & target-scope guardrail tests",
+      "url": "https://github.com/hanzoai/cyber/issues/1",
+      "created_at": "2026-11-27T07:10:51Z"
     }
   ]
 }
