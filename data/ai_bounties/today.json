@@ -1,11 +1,39 @@
 {
   "metadata": {
     "domain": "ai_bounties",
-    "generated_at": "2026-11-27T20:47:23.379936+00:00",
+    "generated_at": "2026-11-28T06:43:18.719903+00:00",
     "total_items": 30,
     "schema_version": "1.0.0"
   },
   "open_tasks": [
+    {
+      "id": 6657333755,
+      "repository": "odiseo159-beep/mergit-demo",
+      "title": "Add explorerUrl: the GIWA explorer link for a tx, an address or a block",
+      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/63",
+      "created_at": "2026-11-28T01:40:42Z"
+    },
+    {
+      "id": 6657333234,
+      "repository": "odiseo159-beep/mergit-demo",
+      "title": "Add formatDeadline: 1796447642 \u2192 \"Dec 5, 2026, 05:14 UTC\"",
+      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/62",
+      "created_at": "2026-11-28T01:40:38Z"
+    },
+    {
+      "id": 6657332529,
+      "repository": "odiseo159-beep/mergit",
+      "title": "Show escrow v3 and v4 payments on the builder record",
+      "url": "https://github.com/odiseo159-beep/mergit/issues/29",
+      "created_at": "2026-11-28T01:40:34Z"
+    },
+    {
+      "id": 6657332007,
+      "repository": "odiseo159-beep/mergit",
+      "title": "Make mergit_fund_link warn when the issue already has a live bounty",
+      "url": "https://github.com/odiseo159-beep/mergit/issues/28",
+      "created_at": "2026-11-28T01:40:30Z"
+    },
     {
       "id": 6653035701,
       "repository": "IES-BoilerRoom/wasm-component-canonical-abi",
@@ -54,13 +82,6 @@
       "title": "[Bounty] Answer the 3 linked question(s)",
       "url": "https://github.com/Ikalus1988/MisakaNet/issues/5903",
       "created_at": "2026-11-27T17:03:51Z"
-    },
-    {
-      "id": 6650252909,
-      "repository": "tradermarketcap/tradermarketcap-open",
-      "title": "Supply rule for Subsquid (SQD)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/138",
-      "created_at": "2026-11-27T16:19:34Z"
     },
     {
       "id": 6649769108,
@@ -194,27 +215,6 @@
       "title": "[Intern] Local Cloud (`hanzo up`) & local Engine (`:1234`) endpoint switcher QA",
       "url": "https://github.com/hanzoai/desktop/issues/67",
       "created_at": "2026-11-27T07:10:52Z"
-    },
-    {
-      "id": 6641792039,
-      "repository": "hanzoai/dev",
-      "title": "[Intern] Standalone Tauri desktop build & cross-OS QA (macOS, Linux, Windows)",
-      "url": "https://github.com/hanzoai/dev/issues/106",
-      "created_at": "2026-11-27T07:10:52Z"
-    },
-    {
-      "id": 6641792110,
-      "repository": "hanzoai/dev",
-      "title": "[Intern] Fix intermittent snapshot ordering flake in `FxReplayFixtures.integration.test.ts` (CI Shard 7)",
-      "url": "https://github.com/hanzoai/dev/issues/107",
-      "created_at": "2026-11-27T07:10:52Z"
-    },
-    {
-      "id": 6641791944,
-      "repository": "hanzoai/cyber",
-      "title": "[Intern] Sandboxed OpenCyber MCP tool discovery & target-scope guardrail tests",
-      "url": "https://github.com/hanzoai/cyber/issues/1",
-      "created_at": "2026-11-27T07:10:51Z"
     }
   ]
 }

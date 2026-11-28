@@ -1,6 +1,10 @@
 # Autonomous AI Coding Bounties
 ## Open Unassigned Paid Tasks
 
+- **odiseo159-beep/mergit-demo**: [Add explorerUrl: the GIWA explorer link for a tx, an address or a block](https://github.com/odiseo159-beep/mergit-demo/issues/63) (Opened: 2026-11-28T01:40:42Z)
+- **odiseo159-beep/mergit-demo**: [Add formatDeadline: 1796447642 → "Dec 5, 2026, 05:14 UTC"](https://github.com/odiseo159-beep/mergit-demo/issues/62) (Opened: 2026-11-28T01:40:38Z)
+- **odiseo159-beep/mergit**: [Show escrow v3 and v4 payments on the builder record](https://github.com/odiseo159-beep/mergit/issues/29) (Opened: 2026-11-28T01:40:34Z)
+- **odiseo159-beep/mergit**: [Make mergit_fund_link warn when the issue already has a live bounty](https://github.com/odiseo159-beep/mergit/issues/28) (Opened: 2026-11-28T01:40:30Z)
 - **IES-BoilerRoom/wasm-component-canonical-abi**: [ci/canonical_abi: Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering - Reward $225 USDC](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2) (Opened: 2026-11-27T19:14:50Z)
 - **IES-BoilerRoom/wasm-component-canonical-abi**: [[$100] fix(canonical_abi): Fix canonical string frame ceiling and align deterministic instruction gas polynomial (lift_canonical_string_frames)](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1) (Opened: 2026-11-27T19:14:49Z)
 - **IES-BoilerRoom/wgsl-transcendental-math-core**: [fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runtime pipeline ($200 bounty) [wgsl-transcendental-math-core]](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2) (Opened: 2026-11-27T19:14:48Z)
@@ -8,7 +12,6 @@
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5905) (Opened: 2026-11-27T17:04:08Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5904) (Opened: 2026-11-27T17:04:07Z)
 - **Ikalus1988/MisakaNet**: [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5903) (Opened: 2026-11-27T17:03:51Z)
-- **tradermarketcap/tradermarketcap-open**: [Supply rule for Subsquid (SQD)](https://github.com/tradermarketcap/tradermarketcap-open/issues/138) (Opened: 2026-11-27T16:19:34Z)
 - **alfrexo95/bounty-bot**: [🪙 [Web3] [Intern] Verify & modernize all multi-agent handof](https://github.com/alfrexo95/bounty-bot/issues/109) (Opened: 2026-11-27T15:51:11Z)
 - **alfrexo95/bounty-bot**: [🪙 [Web3] [Intern] Quickstart, async streaming & MCP/IAM exa](https://github.com/alfrexo95/bounty-bot/issues/108) (Opened: 2026-11-27T15:51:09Z)
 - **hanzoai/browser**: [[Intern] Multi-agent Chrome extension build & local `hanzoai/engine` BYOK smoke test](https://github.com/hanzoai/browser/issues/1) (Opened: 2026-11-27T07:12:40Z)
@@ -28,6 +31,3 @@
 - **hanzoai/app**: [[Intern] Build a reference open-source App Mod (`@hanzo/mod`) mounted into the `@hanzo/app` siderail](https://github.com/hanzoai/app/issues/140) (Opened: 2026-11-27T07:10:53Z)
 - **hanzoai/mobile**: [[Intern] Android APK/ADB & iOS Xcode USB end-to-end install and UX QA](https://github.com/hanzoai/mobile/issues/2) (Opened: 2026-11-27T07:10:53Z)
 - **hanzoai/desktop**: [[Intern] Local Cloud (`hanzo up`) & local Engine (`:1234`) endpoint switcher QA](https://github.com/hanzoai/desktop/issues/67) (Opened: 2026-11-27T07:10:52Z)
-- **hanzoai/dev**: [[Intern] Standalone Tauri desktop build & cross-OS QA (macOS, Linux, Windows)](https://github.com/hanzoai/dev/issues/106) (Opened: 2026-11-27T07:10:52Z)
-- **hanzoai/dev**: [[Intern] Fix intermittent snapshot ordering flake in `FxReplayFixtures.integration.test.ts` (CI Shard 7)](https://github.com/hanzoai/dev/issues/107) (Opened: 2026-11-27T07:10:52Z)
-- **hanzoai/cyber**: [[Intern] Sandboxed OpenCyber MCP tool discovery & target-scope guardrail tests](https://github.com/hanzoai/cyber/issues/1) (Opened: 2026-11-27T07:10:51Z)
